@@ -8,6 +8,9 @@
 
 **💼 Hiring:** [Product Manager openings](PM_OPENINGS.md)
 
+
+
+
 ## 🧠 Foundation models, AI infrastructure and developer tools
 
 **[Affinidi](https://www.affinidi.com)**: Trust infrastructure that gives AI agents verifiable identity, policy guardrails, and real-time observability.<br>

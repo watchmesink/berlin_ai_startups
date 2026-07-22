@@ -1,4 +1,4 @@
-# 🤖 Berlin AI startups and scaleups
+# Berlin AI startups and scaleups
 
 🗺️ An industry-organized directory of active AI/ML product companies with a headquarters, office, or substantial operating team in Berlin.
 

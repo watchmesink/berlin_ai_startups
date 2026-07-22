@@ -2,7 +2,7 @@
 
 An industry-organized directory of active AI/ML product companies with a headquarters, office, or substantial operating team in Berlin.
 
-**Last verified:** 22 July 2026 · **Scope:** 200 active companies; pre-seed-only, ceased, acquired, and consultancy-only businesses excluded.
+**Last verified:** 22 July 2026 · **Scope:** 236 active companies; pre-seed-only, ceased, absorbed acquisitions or brands no longer independently operating, and consultancy-only businesses excluded.
 
 ## How to read this list
 
@@ -18,6 +18,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 
 | Company | What it does | Berlin | Team | Latest disclosed financing | Berlin openings |
 |---|---|---:|---:|---|---:|
+| [Affinidi](https://www.affinidi.com) | Trust infrastructure that gives AI agents verifiable identity, policy guardrails, and real-time observability. | Office | 100+ | Temasek-backed corporate venture | [4](https://job-boards.greenhouse.io/affinidi) |
 | [Agenta](https://agenta.ai) | Open-source evaluation, observability, and prompt management for production LLM applications. | HQ | ~9 | Seed, $1.1m (2024) | 0 found |
 | [ai\|coustics](https://ai-coustics.com) | Speech-enhancement models that remove noise and restore studio-quality voice audio. | HQ | 11–50 | Seed, €5m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=ai%20coustics&location=Berlin%2C%20Germany) |
 | [Akhetonics](https://akhetonics.com) | All-optical processors designed to run AI and general computing workloads with light. | HQ | ~46 | Seed, €6m (2024) | 0 found |
@@ -25,6 +26,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | [anabrid](https://anabrid.com) | Analog computing hardware and software for efficient scientific and AI workloads. | HQ | ~20 | Seed / public deep-tech funding | 0 found |
 | [Apheris](https://www.apheris.com) | Secure federated-computing infrastructure for training and evaluating models across private data. | HQ | ~58 | Series A, $8.25m (2023) | 0 found |
 | [Cognee](https://www.cognee.ai) | Open-source memory and knowledge-graph infrastructure for AI agents. | HQ | 11–50 | Seed, $7.5m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=Cognee&location=Berlin%2C%20Germany) |
+| [Dataiku](https://www.dataiku.com) | Enterprise platform for building, deploying, and governing analytics, machine-learning models, and AI agents. | Office | 1,250+ | Series F, $200m (2021) | [2](https://job-boards.greenhouse.io/dataiku) |
 | [DeepL](https://www.deepl.com) | Neural machine translation, writing assistance, and enterprise language AI. | Office | ~1,525 | Growth round, $300m (2024) | 0 found |
 | [deepset](https://www.deepset.ai) | Enterprise platform for building production NLP, search, and agentic AI systems. | HQ | ~84 | Series B, $30m (2022) | [3](https://www.linkedin.com/company/deepset-ai/jobs/) |
 | [dltHub](https://dlthub.com) | Open-source data-loading infrastructure for analytics and AI pipelines. | HQ | 11–50 | Seed, $8m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=dltHub&location=Berlin%2C%20Germany) |
@@ -33,9 +35,10 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | [GitButler](https://gitbutler.com) | AI-assisted Git client and collaborative version-control workflow. | HQ | 11–50 | Series A, $17m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=GitButler&location=Berlin%2C%20Germany) |
 | [Langdock](https://langdock.com) | Secure enterprise workspace and platform for deploying LLM assistants and agents. | HQ | ~61 | Seed, $3m (2024) | [15](https://www.linkedin.com/company/langdock/jobs/) |
 | [mixedbread](https://www.mixedbread.com) | Search, reranking, and embedding models for multimodal enterprise retrieval. | HQ | ~14 | Seed, $4m (2024) | 0 found |
-| [n8n](https://n8n.io) | Workflow-automation platform combining integrations, code, and AI agents. | HQ | ~1,165 | Series C, $180m (2025) | [14](https://www.linkedin.com/company/n8n/jobs/) |
+| [n8n](https://n8n.io) | Workflow-automation platform combining integrations, code, and AI agents. | HQ | ~1,165 | Series C, $180m (2025) | [22](https://jobs.ashbyhq.com/n8n) |
 | [Nota AI](https://www.nota.ai) | Model-compression and edge-AI optimization software for constrained hardware. | Office | 201–500 | Series C, $19.9m (2023) | [check](https://www.linkedin.com/jobs/search/?keywords=Nota%20AI&location=Berlin%2C%20Germany) |
 | [ObjectBox](https://objectbox.io) | Edge database and on-device vector search for offline and embedded AI. | HQ | 11–50 | Seed / strategic funding | [check](https://www.linkedin.com/jobs/search/?keywords=ObjectBox&location=Berlin%2C%20Germany) |
+| [Perplexity](https://www.perplexity.ai) | AI answer engine and agentic work platform for research and knowledge tasks. | Berlin team | ~964 | Series E, $200m (2025) | [9](https://jobs.ashbyhq.com/perplexity) |
 | [Prime Intellect](https://www.primeintellect.ai) | Distributed infrastructure and research for collaboratively training frontier AI models. | Berlin team | 11–50 | Series A, $130m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=Prime%20Intellect&location=Berlin%2C%20Germany) |
 | [Prior Labs](https://priorlabs.ai) | Foundation models for tabular data, built around the TabPFN research line. | HQ | 11–50 | Seed, €9m (2025); SAP strategic investment (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=Prior%20Labs&location=Berlin%2C%20Germany) |
 | [Qdrant](https://qdrant.tech) | Open-source vector database and managed retrieval infrastructure for AI applications. | HQ | ~147 | Series B, $50m (2026) | [1](https://www.linkedin.com/company/qdrant/jobs/) |
@@ -55,9 +58,9 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | [Bounti](https://bounti.co) | AI operations platform that turns frontline work into structured performance guidance. | HQ | 11–50 | Seed, €4m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=Bounti&location=Berlin%2C%20Germany) |
 | [Briink](https://www.briink.com) | AI document analysis and evidence collection for sustainability and compliance teams. | HQ | 11–50 | Seed, €3.85m (2023) | [check](https://www.linkedin.com/jobs/search/?keywords=Briink&location=Berlin%2C%20Germany) |
 | [BRYTER](https://bryter.com) | No-code automation and AI agents for legal, compliance, and professional-services workflows. | HQ | 201–500 | Series B, $66m (2021) | [check](https://www.linkedin.com/jobs/search/?keywords=BRYTER&location=Berlin%2C%20Germany) |
-| [CANDIS](https://www.candis.io) | AI-assisted invoice capture, approval, and accounting workflows for finance teams. | HQ | 51–200 | Series C, €16m (2022) | [check](https://www.linkedin.com/jobs/search/?keywords=CANDIS&location=Berlin%2C%20Germany) |
+| [CANDIS](https://www.candis.io) | AI-assisted invoice capture, approval, and accounting workflows for finance teams. | HQ | 51–200 | Series C, €16m (2022) | [2](https://jobs.candis.io/jobs) |
 | [Cogram](https://www.cogram.com) | AI meeting assistant that produces notes, actions, and structured project documentation. | HQ | 11–50 | Seed, $3m | [check](https://www.linkedin.com/jobs/search/?keywords=Cogram&location=Berlin%2C%20Germany) |
-| [Cortea](https://www.cortea.ai) | AI quality and evidence layer for audit and assurance firms. | HQ | ~19 | Seed, €12m (2026) | [≥1](https://de.linkedin.com/jobs/view/ai-product-manager-m-f-x-at-cortea-4428195550) |
+| [Cortea](https://www.cortea.ai) | AI quality and evidence layer for audit and assurance firms. | HQ | ~19 | Seed, €12m (2026) | [9](https://jobs.ashbyhq.com/cortea) |
 | [Datarade](https://datarade.ai) | Marketplace and discovery platform for commercial data used in analytics and AI. | HQ | ~7 | Series A, €7m (2022) | 0 found |
 | [Dot](https://www.getdot.ai) | Natural-language analytics agent for querying company data and metrics. | HQ | ~7 | Bootstrapped / undisclosed | 0 found |
 | [FactoryPal](https://factorypal.com) | Machine-learning optimization of production settings and output in process industries. | HQ | ~43 | Corporate-backed scaleup | 0 found |
@@ -68,10 +71,12 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | [Plato](https://www.plato.so) | AI operating system for wholesale sales teams and distributors. | HQ | 11–50 | Seed, $14.5m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=Plato%20AI%20Berlin&location=Berlin%2C%20Germany) |
 | [Qorelo](https://www.qorelo.com) | Agentic AI delivery system for planning and executing SAP transformations. | HQ | 11–50 | Seed, $3.5m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=Qorelo&location=Berlin%2C%20Germany) |
 | [Rhesis AI](https://www.rhesis.ai) | Automated testing, evaluation, and risk management for generative-AI applications. | HQ | 11–50 | Seed, €5m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Rhesis%20AI&location=Berlin%2C%20Germany) |
+| [Rows](https://rows.com) | Collaborative spreadsheet with a built-in AI analyst and workflow automation. | Office | 11–50 | Growth round, €8m (2024) | 0 found |
 | [Scavenger AI](https://scavenger-ai.com) | Conversational analytics that lets business users query operational data. | HQ | 11–50 | Seed, €2.5m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Scavenger%20AI&location=Berlin%2C%20Germany) |
 | [SPREAD](https://www.spread.ai) | Engineering-intelligence graph connecting product data across complex machines. | HQ | ~96 | Series B, $30m (2026) | [7](https://www.linkedin.com/company/spread-ai/jobs/) |
 | [traide AI](https://www.traide.ai) | AI trade-compliance platform for tariff classification and customs decisions. | HQ | ~26 | Series A, €7m (2025) | [9](https://www.linkedin.com/company/traide-ai/jobs/) |
 | [Tucan](https://tucan.ai) | AI transcription and knowledge workflows for meetings and regulated organizations. | HQ | ~9 | Seed, €1m+ | 0 found |
+| [Unframe](https://www.unframe.ai) | Enterprise AI operating system for assembling and deploying governed agents and workflows over company data. | Office | 51–200 | Series B, $100m (2026) | [5](https://job-boards.eu.greenhouse.io/unframe) |
 | [Workist](https://workist.com) | AI processing of orders, invoices, and other B2B documents. | HQ | ~53 | Series A, €9m (2022) | [4](https://www.linkedin.com/company/workist/jobs/) |
 
 ## Voice AI, customer experience and sales
@@ -79,14 +84,19 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | Company | What it does | Berlin | Team | Latest disclosed financing | Berlin openings |
 |---|---|---:|---:|---|---:|
 | [charles](https://www.hello-charles.com) | Conversational-commerce and AI customer-service platform for messaging channels. | HQ | ~77 | Series A, €20m (2022) | [check](https://www.linkedin.com/jobs/search/?keywords=charles%20commerce&location=Berlin%2C%20Germany) |
+| [Choco](https://choco.com) | AI order and voice agents that turn emails, messages, images, and calls into ERP-ready food-distribution orders. | HQ | 201–500 | Series B, $111m (2022); $300m+ total | [4](https://jobs.ashbyhq.com/choco) |
 | [DialogShift](https://www.dialogshift.com) | Generative-AI chat and voice assistants for hotels and hospitality groups. | HQ | 51–200 | Growth financing, €20m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=DialogShift&location=Berlin%2C%20Germany) |
+| [Fin / Intercom](https://fin.ai) | AI customer-agent and helpdesk platform for resolving support conversations across channels. | Berlin R&D hub | 1,000+ | Venture debt, $250m (2026); established private scaleup | [3](https://fin.ai/careers/listings?loc=berlin) |
+| [honeysales](https://www.honeysales.io) | Agentic sales operating system that researches prospects and runs personalized outbound workflows. | HQ | 11–50 | Seed, €2.5m (2023) | [7](https://honeysales-gmbh.jobs.personio.de/) |
 | [Konvo AI](https://www.konvo.ai) | Autonomous customer-service and sales agents for ecommerce businesses. | HQ | 11–50 | Seed, €3.5m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Konvo%20AI&location=Berlin%2C%20Germany) |
 | [Leaping AI](https://leapingai.com) | Voice agents for automating high-volume customer-support calls. | HQ | ~18 | Seed, $4.7m (2024) | 0 found |
 | [muffintech](https://muffintech.ai) | Insurance-trained AI agents for brokerage service and advisory workflows. | HQ | 11–50 | Seed, €3.5m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=muffintech&location=Berlin%2C%20Germany) |
-| [Parloa](https://www.parloa.com) | Enterprise platform for AI voice agents in customer service. | HQ | ~558 | Series D, $350m (2026) | [17](https://www.linkedin.com/company/parloa/jobs/) |
-| [Synthflow](https://synthflow.ai) | No-code platform for deploying AI phone agents for business workflows. | HQ | ~68 | Series A, $20m (2025) | [2](https://www.linkedin.com/company/synthflow-ai/jobs/) |
+| [Parloa](https://www.parloa.com) | Enterprise platform for AI voice agents in customer service. | HQ | ~558 | Series D, $350m (2026) | [19](https://job-boards.eu.greenhouse.io/parloa) |
+| [Solda AI](https://www.solda.ai) | Autonomous multilingual voice and text agents that run end-to-end telesales cycles. | Berlin team | 11–50 | Seed, €4m (2025) | 0 found |
+| [Superchat](https://www.superchat.com) | Unified business-messaging platform with AI agents for customer service and sales. | HQ | ~100 | Series A, $15.6m (2022); €18m total | [7](https://www.superchat.com/en/careers) |
+| [Synthflow](https://synthflow.ai) | No-code platform for deploying AI phone agents for business workflows. | HQ | ~68 | Series A, $20m (2025) | [6](https://jobs.ashbyhq.com/synthflow) |
 | [Twain](https://www.twain.ai) | AI sales coach and message-writing assistant for outbound teams. | HQ | 11–50 | Seed, $4.5m (2023) | [check](https://www.linkedin.com/jobs/search/?keywords=Twain%20AI&location=Berlin%2C%20Germany) |
-| [voize](https://www.voize.de) | Speech recognition that turns nurses' spoken notes into structured care documentation. | HQ | ~151 | Series A, $50m (2025) | [38](https://www.linkedin.com/company/voize/jobs/) |
+| [voize](https://www.voize.de) | Speech recognition that turns nurses' spoken notes into structured care documentation. | HQ | ~151 | Series A, $50m (2025) | [34](https://jobs.ashbyhq.com/voize) |
 | [Wonderful](https://www.wonderful.ai) | Multilingual AI agents for enterprise customer operations. | Office | 51–200 | Seed, $34m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Wonderful%20AI&location=Berlin%2C%20Germany) |
 
 ## Finance, legal, compliance and cybersecurity
@@ -94,11 +104,15 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | Company | What it does | Berlin | Team | Latest disclosed financing | Berlin openings |
 |---|---|---:|---:|---|---:|
 | [ARC Intelligence](https://www.arc-intelligence.de) | Private AI analytics and forecasting over sensitive enterprise finance data. | HQ | 2–10 | Seed, €4m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=ARC%20Intelligence&location=Berlin%2C%20Germany) |
-| [Baobab](https://baobab.io) | Cyber-risk platform combining security monitoring with cyber insurance. | HQ | 11–50 | Series A, €3m (2023) | [check](https://www.linkedin.com/jobs/search/?keywords=Baobab%20cyber&location=Berlin%2C%20Germany) |
+| [Baobab](https://baobab.io) | Cyber-risk platform combining security monitoring with cyber insurance. | HQ | 11–50 | Series A, €12m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Baobab%20cyber&location=Berlin%2C%20Germany) |
+| [bunch](https://www.bunch.capital) | AI-native fund operations and reporting infrastructure for private-market investors. | HQ | 201–500 | Series B, $35m (2026) | [14](https://jobs.ashbyhq.com/bunch) |
 | [Cakewalk](https://www.getcakewalk.io) | AI identity-governance and access-review automation for modern SaaS stacks. | HQ | 11–50 | Seed, $7.5m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Cakewalk%20Berlin&location=Berlin%2C%20Germany) |
 | [ComplyDo](https://www.complydo.io) | AI compliance engine for turning regulations into executable company controls. | HQ | 2–10 | Seed, $1.3m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=ComplyDo&location=Berlin%2C%20Germany) |
 | [Diligent AI](https://www.godiligent.ai) | AI due-diligence automation for private-market investors and deal teams. | HQ | 11–50 | Seed, $2.5m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=Diligent%20AI%20Berlin&location=Berlin%2C%20Germany) |
-| [Flank](https://flank.ai) | Enterprise legal agents that answer requests and automate routine in-house work. | HQ | 51–200 | Seed, $3m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=Flank%20legal%20AI&location=Berlin%2C%20Germany) |
+| [Duna](https://duna.com) | AI-native business identity and compliance platform for onboarding and verifying companies. | Berlin hub | 11–50 | Series A, €30m (2026) | [check](https://duna.com/careers) |
+| [Flank](https://flank.ai) | Enterprise legal agents that answer requests and automate routine in-house work. | HQ | 51–200 | Seed, $10m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Flank%20legal%20AI&location=Berlin%2C%20Germany) |
+| [IDnow](https://www.idnow.io) | AI identity proofing, document verification, and fraud-prevention software. | Office | ~474 | Strategic majority investment by Corsair (2025) | [7](https://job-boards.eu.greenhouse.io/idnow) |
+| [Inhubber](https://inhubber.com) | AI contract analysis combined with secure contract lifecycle management and e-signatures. | HQ | 11–50 | Crowd financing, €1.14m (2025) | 0 found |
 | [LawX](https://lawx.ai) | AI operating system for law firms and notaries. | HQ | ~20 | Seed, €7.5m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=LawX&location=Berlin%2C%20Germany) |
 | [NENNA.AI](https://www.nenna.ai) | AI governance and risk-management software for compliant model adoption. | HQ | ~15 | Seed, >€1m (2025) | 0 found |
 | [Noxtua](https://www.noxtua.com) | Sovereign legal AI for research, drafting, and document analysis. | HQ | ~82 | Series B, €80.7m (2025) | [3](https://www.linkedin.com/company/noxtua/jobs/) |
@@ -107,7 +121,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | [Prestatech](https://prestatech.com) | AI credit-decisioning and embedded lending infrastructure for banks and fintechs. | HQ | ~36 | Series A, €4m (2022) | [check](https://www.linkedin.com/jobs/search/?keywords=Prestatech&location=Berlin%2C%20Germany) |
 | [RealRate](https://realrate.ai) | Explainable AI ratings of insurers, banks, and other financial companies. | HQ | 11–50 | Seed, €1.5m | [check](https://www.linkedin.com/jobs/search/?keywords=RealRate&location=Berlin%2C%20Germany) |
 | [Rulemapping](https://rulemapping.com) | Converts complex laws and policies into transparent, machine-executable decision logic. | HQ | 11–50 | Series A, €12m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Rulemapping&location=Berlin%2C%20Germany) |
-| [Taktile](https://www.taktile.com) | AI decision platform for underwriting, fraud, and risk operations. | HQ | ~231 | Series C, $110m (2026) | 0 found |
+| [Taktile](https://www.taktile.com) | AI decision platform for underwriting, fraud, and risk operations. | HQ | ~231 | Series C, $110m (2026) | [19](https://jobs.ashbyhq.com/taktile) |
 | [Taxforce](https://taxforce.ai) | AI-native tax workflow and compliance platform for professional firms. | HQ | 11–50 | Seed, €5m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=Taxforce&location=Berlin%2C%20Germany) |
 | [Unosecur](https://unosecur.com) | AI-assisted cloud entitlement and identity-security management. | HQ | 11–50 | Seed, $5m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=Unosecur&location=Berlin%2C%20Germany) |
 | [YUKKA Lab](https://www.yukkalab.com) | NLP-based news analytics and risk signals for financial markets. | HQ | 11–50 | Series A / strategic funding | [check](https://www.linkedin.com/jobs/search/?keywords=YUKKA%20Lab&location=Berlin%2C%20Germany) |
@@ -122,20 +136,27 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | [AssistMe](https://assistme.io) | Sensor and AI platform for safer, more efficient professional care. | HQ | 11–50 | Growth round, €5.2m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=AssistMe%20Berlin&location=Berlin%2C%20Germany) |
 | [AVAYL](https://www.avayl.tech) | Purpose-built AI research and content workflows for medical-affairs teams. | HQ | 11–50 | Seed (amount undisclosed) | [check](https://www.linkedin.com/jobs/search/?keywords=AVAYL&location=Berlin%2C%20Germany) |
 | [Cambrium](https://www.cambrium.bio) | Machine-learning-guided design and manufacturing of novel proteins and biomaterials. | HQ | 11–50 | Series A, €11m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=Cambrium&location=Berlin%2C%20Germany) |
+| [Caresyntax](https://www.caresyntax.com) | AI surgical-intelligence and video-analytics platform for operating rooms and medical-device teams. | Dual HQ | 51–200 | Series C extension, $180m (2024) | [check](https://www.caresyntax.com/careers) |
+| [Circle Health](https://www.circle.health) | AI-first preventive-care platform combining advanced diagnostics with personalized longitudinal treatment. | HQ | 51–200 | Seed, €9m equity and debt (2026) | 0 found |
 | [DeepSpin](https://www.deepspin.io) | AI-designed low-field MRI systems intended to make imaging smaller and cheaper. | HQ | ~20 | Seed, €600k+ / grants | 0 found |
 | [dentalXrai](https://dentalxrai.com) | Computer-vision analysis and reporting for dental X-rays. | HQ | 11–50 | Seed / strategic funding | [check](https://www.linkedin.com/jobs/search/?keywords=dentalXrai&location=Berlin%2C%20Germany) |
 | [Exazyme](https://exazyme.com) | Generative-AI enzyme design for industrial and life-science applications. | HQ | 11–50 | Seed, $2.17m | [check](https://www.linkedin.com/jobs/search/?keywords=Exazyme&location=Berlin%2C%20Germany) |
 | [FICUS Health](https://ficus-health.de) | AI documentation and information-flow platform for rehabilitation clinics. | HQ | 11–50 | Seed, €3m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=FICUS%20Health&location=Berlin%2C%20Germany) |
+| [Inceptive](https://inceptive.com) | Foundation models that design sequence-based medicines such as mRNA, siRNA, ASOs, and peptides. | Office | 51–200 | Series A, $100m (2023) | [3](https://job-boards.greenhouse.io/inceptive) |
 | [Lindera](https://www.lindera.de) | Smartphone computer vision for medical 3D mobility and fall-risk assessment. | HQ | ~13 | Series A / public innovation funding | [1](https://www.linkedin.com/company/lindera/jobs/) |
 | [LipoCheck](https://lipocheck.de) | AI-supported screening, education, and care navigation for lipedema. | HQ | ~13 | Seed, €2.5m (2025) | 0 found |
 | [mediaire](https://mediaire.ai) | Certified AI decision support and quantitative analysis for brain MRI. | HQ | ~80 | Growth round, €12m (2024) | [2](https://www.linkedin.com/company/mediaire/jobs/) |
+| [Nelly](https://www.getnelly.de) | AI-supported financial and administrative operating system for medical practices. | HQ | 201–500 | Series B, €50m (2025) | [18](https://jobs.ashbyhq.com/nelly) |
 | [Nia Health](https://www.nia-health.de) | AI-supported digital therapeutics and monitoring for chronic skin conditions. | HQ | ~38 | Seed, €3.5m | [5](https://www.linkedin.com/company/nia-health/jobs/) |
 | [Noah Labs](https://www.noah-labs.com) | Voice biomarkers and remote monitoring for cardiovascular disease. | HQ | 11–50 | Seed, €3m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Noah%20Labs&location=Berlin%2C%20Germany) |
 | [Nostos Genomics](https://www.nostos-genomics.com) | Machine-learning interpretation of genetic variants for rare-disease diagnosis. | HQ | ~14 | Seed, $5m (2021) | [check](https://www.linkedin.com/jobs/search/?keywords=Nostos%20Genomics&location=Berlin%2C%20Germany) |
+| [Nuuron](https://www.nuuron.com) | Digital Alzheimer's therapy using ML-guided photonic neuromodulation and immersive interfaces. | HQ | 11–50 | Seed, €3.5m (2024) | 0 found |
 | [OpenHealth Technologies](https://www.open-health.app) | Harmonizes multimodal patient and lab data for clinical AI analysis. | HQ | 11–50 | Seed, $3m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=OpenHealth%20Technologies&location=Berlin%2C%20Germany) |
+| [Oviva](https://oviva.com) | AI-enabled digital treatment for obesity and other weight-related chronic conditions. | Office | 1,500+ | Series D, €200m (2026) | [check](https://oviva.com/global/en/career/) |
 | [Ovom](https://ovomcare.com) | AI-enabled fertility-clinic operating system and treatment personalization. | HQ | ~31 | Seed, €4.8m | 0 found |
 | [Pheiron](https://www.pheiron.com) | AI-native phenotyping platform for target discovery and drug development. | HQ | ~10 | Series A, $4.2m (2025) | 0 found |
 | [PraxiPal](https://praxipal.com) | Voice-AI receptionist that handles calls and scheduling for medical practices. | HQ | ~21 | Seed, $6.7m (2025) | [12](https://www.linkedin.com/company/praxipal/jobs/) |
+| [Recare](https://recareai.com) | AI care-coordination platform connecting hospitals with post-acute providers and automating discharge workflows. | HQ | 100+ | Growth round, €37m (2026) | [9](https://recareai.com/karriere) |
 | [StratifAI](https://stratifai.de) | Clinical decision support that predicts patient risks from longitudinal health data. | HQ | ~16 | Non-dilutive / angel funding | 0 found |
 | [Thryve](https://www.thryve.health) | Wearable-data infrastructure and predictive analytics for preventive healthcare. | HQ | 11–50 | Growth round, €4m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=Thryve%20health&location=Berlin%2C%20Germany) |
 | [Una Health](https://unahealth.de) | Data-driven digital therapy and coaching for metabolic disease. | HQ | ~22 | Seed, $2.5m (2024) | 0 found |
@@ -149,8 +170,11 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | [3IVIS](https://3ivis.com) | Computer-vision inspection for manufacturing quality and process automation. | HQ | 11–50 | Bootstrapped / undisclosed | [check](https://www.linkedin.com/jobs/search/?keywords=3IVIS&location=Berlin%2C%20Germany) |
 | [alcemy](https://alcemy.tech) | Predictive quality control that reduces cement and concrete emissions. | HQ | 11–50 | Series A, $10m (2022) | [check](https://www.linkedin.com/jobs/search/?keywords=alcemy&location=Berlin%2C%20Germany) |
 | [Almetra](https://almetra.ai) | Computer-vision production analytics for identifying losses and improving factory output. | HQ | ~54 | Series A, €16.3m (2026) | 0 found |
-| [Andercore](https://andercore.com) | AI-native procurement and supply-chain platform for industrial materials. | HQ | 51–200 | Series B, $40m (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=Andercore&location=Berlin%2C%20Germany) |
+| [Andercore](https://andercore.com) | AI-native procurement and supply-chain platform for industrial materials. | HQ | 51–200 | Series B, $40m (2026) | [35](https://jobs.ashbyhq.com/andercore) |
+| [Deltia](https://www.deltia.ai) | Computer vision and AI copilots for improving assembly-line productivity and quality. | HQ | 11–50 | Seed, €4.5m (2024) | 0 found |
 | [dive solutions](https://www.dive-solutions.de) | Cloud-native simulation accelerated with machine learning for engineering teams. | HQ | ~41 | Series A, €10m (2025) | [4](https://www.linkedin.com/company/dive-solutions/jobs/) |
+| [Dunia](https://dunia.ai) | Physics-informed AI and autonomous laboratories for discovering advanced materials and catalysts. | HQ | ~59 | Seed, $11.5m (2024) | [16](https://dunia.jobs.personio.com/) |
+| [German Bionic](https://www.germanbionic.com) | AI-controlled robotic exoskeletons that adapt lifting support to workers' movements in industry and care. | Office | 51–200 | Strategic acquisition by Archimedes Partners (2026); prior venture funding | [check](https://www.germanbionic.com/about) |
 | [Intenseye](https://www.intenseye.com) | Computer-vision workplace-safety monitoring for industrial facilities. | Office | 201–500 | Series B, $64m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=Intenseye&location=Berlin%2C%20Germany) |
 | [Juna AI](https://juna.ai) | Industrial AI agents that plan, control, and optimize factory operations. | HQ | ~20 | Seed, $7.5m (2025) | [3](https://www.linkedin.com/company/juna-ai/jobs/) |
 | [KREATIZE](https://www.kreatize.com) | AI-assisted sourcing and production platform for custom industrial components. | HQ | 51–200 | Series A, €4m | [check](https://www.linkedin.com/jobs/search/?keywords=KREATIZE&location=Berlin%2C%20Germany) |
@@ -168,12 +192,17 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 
 | Company | What it does | Berlin | Team | Latest disclosed financing | Berlin openings |
 |---|---|---:|---:|---|---:|
+| [1KOMMA5°](https://1komma5.com) | Heartbeat AI virtual power plant and energy-management platform for distributed home-energy assets. | Office / R&D | ~2,500 | Pre-IPO round, €150m (2025) | [49](https://1komma5grad.jobs.personio.de/) |
 | [Beebop](https://beebop.ai) | AI optimization for flexible electric loads, batteries, and distributed energy assets. | HQ | ~24 | Seed, $5.5m | 0 found |
 | [Caeli Wind](https://caeli-wind.de) | AI and geospatial analytics for finding and evaluating wind-energy sites. | HQ | 51–200 | Series A, €11m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=Caeli%20Wind&location=Berlin%2C%20Germany) |
+| [carbmee](https://www.carbmee.com) | AI-powered enterprise carbon-management software for product footprints, supply-chain data, and reduction planning. | HQ | 51–200 | Series A, €20m (2024) | [1](https://carbmee.jobs.personio.com/?language=en) |
 | [Climatiq](https://www.climatiq.io) | Carbon-calculation API and emissions-data infrastructure for software products. | HQ | ~51 | Seed, $2m (2022) | 0 found |
+| [Cloover](https://www.cloover.com) | AI operating system for renewable-energy sales, financing, procurement, and installation. | HQ | 51–200 | Seed, $114m equity and debt (2024); $1.2bn financing commitment (2026) | [14](https://cloover.jobs.personio.com/) |
 | [Dryad Networks](https://www.dryad.net) | Sensor-network and AI platform for ultra-early wildfire detection. | HQ | 51–200 | Series B, €6.3m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Dryad%20Networks&location=Berlin%2C%20Germany) |
+| [forward earth](https://www.forward-earth.com) | AI-powered environmental-data and carbon-management platform for supply chains. | HQ | 11–50 | Seed, €4.5m (2024) | [3](https://forwardearth.recruitee.com/) |
 | [Freshflow](https://www.freshflow.ai) | Machine-learning demand forecasting and replenishment for fresh grocery inventory. | HQ | ~53 | Series A, $10m (2026) | 0 found |
 | [Frequenz](https://www.frequenz.com) | AI-native operating platform for distributed energy resources and microgrids. | HQ | ~56 | Series A, $13m (2022) | [check](https://www.linkedin.com/jobs/search/?keywords=Frequenz&location=Berlin%2C%20Germany) |
+| [GALVANY](https://galvany.de) | Integrated heat-pump platform with AI energy management for residential buildings. | HQ | ~90 | Seed, €10m (2026) | [11](https://jobs.ashbyhq.com/galvany) |
 | [Green Fusion](https://www.green-fusion.de) | AI control platform for efficient, low-carbon building heat systems. | HQ | 51–200 | Series A, €12m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=Green%20Fusion&location=Berlin%2C%20Germany) |
 | [HexaFarms](https://hexafarms.com) | AI crop forecasting and climate control for commercial greenhouses. | HQ | ~19 | Seed, €1.3m+ | [6](https://www.linkedin.com/company/hexafarms/jobs/) |
 | [Hortiya](https://hortiya.com) | Foundation models that predict plant responses for controlled agriculture. | HQ | 11–50 | Seed, €2.5m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=Hortiya&location=Berlin%2C%20Germany) |
@@ -181,7 +210,9 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | [LiveEO](https://live-eo.com) | Satellite-image AI for monitoring rail, grid, and other infrastructure assets. | HQ | ~161 | Series B, €28m (2026) | [10](https://www.linkedin.com/company/liveeo/jobs/) |
 | [MonitorFish](https://monitorfish.com) | Computer vision and analytics for fish welfare and aquaculture operations. | HQ | 11–50 | Seed, €3.2m | [check](https://www.linkedin.com/jobs/search/?keywords=MonitorFish&location=Berlin%2C%20Germany) |
 | [PEAT / Plantix](https://plantix.net) | Computer vision that diagnoses crop disease from smartphone photos. | HQ | 51–200 | Series C, €20m+ total | [check](https://www.linkedin.com/jobs/search/?keywords=Plantix&location=Berlin%2C%20Germany) |
-| [Seqana](https://seqana.com) | Satellite and machine-learning measurement of soil carbon for climate projects. | HQ | ~26 | Seed, €2.1m | 0 found |
+| [Plan A](https://plana.earth) | AI-enhanced carbon accounting, decarbonization, and ESG reporting software. | HQ | 51–200 | Series A, $27m (2023) | [check](https://plana.earth/careers) |
+| [Root Global](https://www.rootglobal.io) | AI-enabled primary-data and decarbonization platform for food and agricultural supply chains. | HQ | 11–50 | Seed, €8m (2024); >€10m total | [4](https://jobs.ashbyhq.com/rootglobal) |
+| [Seqana](https://seqana.com) | Satellite and machine-learning measurement of soil carbon for climate projects. | HQ | ~26 | Seed, €3.2m (2026) | 0 found |
 | [Skyseed](https://skyseed.eco) | Drone, computer-vision, and data platform for forest restoration. | HQ | ~28 | Seed, €4m | 0 found |
 | [SmartCloudFarming](https://smartcloudfarming.com) | Satellite-radar AI for soil maps, moisture, and agricultural monitoring. | HQ | 11–50 | Seed, €1.5m+ | [check](https://www.linkedin.com/jobs/search/?keywords=SmartCloudFarming&location=Berlin%2C%20Germany) |
 | [Solandeo](https://www.solandeo.com) | Smart-metering data and forecasting for renewable-energy operations. | HQ | 51–200 | Growth / strategic funding | [check](https://www.linkedin.com/jobs/search/?keywords=Solandeo&location=Berlin%2C%20Germany) |
@@ -202,6 +233,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | [ICEYE](https://www.iceye.com) | Synthetic-aperture-radar satellites and AI analysis for Earth observation. | Office | ~1,055 | Growth round, $93m (2024) | 0 found |
 | [Morpheus Space](https://www.morpheus-space.com) | Autonomous satellite maneuvering and mission-planning software with electric propulsion. | Office | 51–200 | Series A, $28m (2022) | [check](https://www.linkedin.com/jobs/search/?keywords=Morpheus%20Space&location=Berlin%2C%20Germany) |
 | [MOTIONTAG](https://www.motiontag.com) | Smartphone-sensor AI that identifies travel modes and mobility behavior. | HQ | 11–50 | Series A / strategic funding | [check](https://www.linkedin.com/jobs/search/?keywords=MOTIONTAG&location=Berlin%2C%20Germany) |
+| [NexDash](https://www.nexdash.com) | AI platform for orchestrating electrified freight, charging, and carrier operations. | HQ | 11–50 | Seed, €5m (2025); €2.5m pre-Series A commitment (2026) | [check](https://www.linkedin.com/jobs/search/?keywords=NexDash&location=Berlin%2C%20Germany) |
 | [Peregrine](https://peregrine.ai) | Privacy-preserving video intelligence for road fleets and public safety. | HQ | 51–200 | Series A, €7.5m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=Peregrine%20AI&location=Berlin%2C%20Germany) |
 | [Tilla](https://tilla.tech) | AI crew-travel planning and operations software for shipping companies. | HQ | 11–50 | Seed, €2m+ | [check](https://www.linkedin.com/jobs/search/?keywords=Tilla%20shipping&location=Berlin%2C%20Germany) |
 | [UP42](https://up42.com) | Marketplace and processing platform for satellite and geospatial data. | HQ | ~100 | Airbus-backed scaleup | [6](https://www.linkedin.com/company/up42/jobs/) |
@@ -231,7 +263,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 | [Mirelo](https://mirelo.ai) | Generative sound-effects models for video, games, and creative production. | HQ | ~31 | Seed, $41m (2026) | 0 found |
 | [nyris](https://www.nyris.io) | Visual search and synthetic-data models for products and industrial spare parts. | HQ | ~35 | EIC investment and grant, €5m (2022) | 0 found |
 | [Passionfroot](https://www.passionfroot.me) | AI-assisted campaign, workflow, and relationship software for creator businesses. | HQ | 11–50 | Series A / €7m+ total | [check](https://www.linkedin.com/jobs/search/?keywords=Passionfroot&location=Berlin%2C%20Germany) |
-| [Peec AI](https://peec.ai) | Analytics for measuring and improving brand visibility in AI search answers. | HQ | ~98 | Series A, €18m (2025) | [33](https://www.linkedin.com/company/peec-ai/jobs/) |
+| [Peec AI](https://peec.ai) | Analytics for measuring and improving brand visibility in AI search answers. | HQ | ~98 | Series A, €18m (2025) | [34](https://jobs.ashbyhq.com/peec) |
 | [Pollinations.AI](https://pollinations.ai) | Open generative-media APIs and models for images, text, audio, and video. | HQ | 2–10 | Bootstrapped / ecosystem-funded | [check](https://www.linkedin.com/jobs/search/?keywords=Pollinations.AI&location=Berlin%2C%20Germany) |
 | [SAIZ](https://www.saiz.io) | AI product-data and size-advice platform for fashion retailers. | HQ | ~21 | Seed, €2.5m (2024) | [check](https://www.linkedin.com/jobs/search/?keywords=SAIZ&location=Berlin%2C%20Germany) |
 | [Uplane](https://uplane.ai) | Autonomous AI marketing agents for campaign planning and execution. | HQ | ~19 | Seed, $4.5m (2026) | [4](https://www.linkedin.com/company/uplane-ai/jobs/) |
@@ -242,22 +274,26 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 
 | Company | What it does | Berlin | Team | Latest disclosed financing | Berlin openings |
 |---|---|---:|---:|---|---:|
+| [All3](https://www.all3.com) | AI design software, robotic prefabrication, and autonomous on-site assembly for custom buildings. | Office | 11–50 | Seed, $25m (2026) | 0 found |
 | [Arbio](https://arbio.com) | AI operating platform for managing and pricing short-term rental properties. | HQ | ~75 | Series A, $30m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Arbio&location=Berlin%2C%20Germany) |
 | [Basking Automation](https://www.basking.io) | Wi-Fi and AI analytics for occupancy and workplace portfolio decisions. | HQ | 11–50 | Seed / revenue-funded | [check](https://www.linkedin.com/jobs/search/?keywords=Basking%20Automation&location=Berlin%2C%20Germany) |
 | [BuildingMinds](https://buildingminds.com) | Building-data platform and AI analytics for real-estate portfolios. | HQ | ~130 | Schindler-backed scaleup | [2](https://www.linkedin.com/company/buildingminds/jobs/) |
 | [Buena](https://buena.com) | AI-native operating company and software platform for property management. | HQ | 51–200 | Series A, $58m (2025) | [check](https://www.linkedin.com/jobs/search/?keywords=Buena%20property&location=Berlin%2C%20Germany) |
+| [Cosuno](https://www.cosuno.com) | AI tendering, pricing, and procurement platform for general contractors and subcontractors. | HQ | 51–200 | Series B, $30m (2021) | [15](https://jobs.ashbyhq.com/cosuno) |
 | [Enter](https://enter.de) | AI-supported energy assessment and renovation planning for residential buildings. | HQ | 51–200 | Series A, €19.4m (2023) | [check](https://www.linkedin.com/jobs/search/?keywords=Enter%20energy%20Berlin&location=Berlin%2C%20Germany) |
 | [Fuchs & Eule](https://www.fuchs-eule.de) | Data-driven home energy consulting and renovation recommendations. | HQ | 51–200 | Series A, €9m (2022) | [check](https://www.linkedin.com/jobs/search/?keywords=Fuchs%20Eule&location=Berlin%2C%20Germany) |
 | [handly](https://handly.de) | AI business-management software for home-service and trades companies. | HQ | 11–50 | Seed, €3.8m (2025); €5.3m total | [check](https://www.linkedin.com/jobs/search/?keywords=handly&location=Berlin%2C%20Germany) |
+| [PlanD](https://pland.app) | AI-first ERP for building-cleaning and field-service companies. | HQ | 1–10 | Angel financing, €350k; 700+ customers | [1](https://join.com/companies/pland) |
 | [Theo](https://www.hallotheo.de) | AI-first property-management service automating tenant and building operations. | HQ | ~102 | Seed, €10m (2025) | [14](https://www.linkedin.com/company/hallo-theo/jobs/) |
 
 ## Defence, resilience and physical security
 
 | Company | What it does | Berlin | Team | Latest disclosed financing | Berlin openings |
 |---|---|---:|---:|---|---:|
-| [Helsing](https://helsing.ai) | AI software, sensors, and autonomous systems for European defence. | Office | ~841 | Series E, €1.8bn (2026) | [27](https://www.linkedin.com/company/helsing-ai/jobs/) |
+| [Helsing](https://helsing.ai) | AI software, sensors, and autonomous systems for European defence. | Office | ~841 | Series E, €1.8bn (2026) | [29](https://helsing.ai/jobs) |
+| [Orcrist Technologies](https://orcrist.org) | AI sensor- and data-fusion intelligence platform for defence, law enforcement, and public safety. | HQ / remote-first | 11–50 | Corporate-backed by SRH; amount undisclosed | [15](https://job-boards.eu.greenhouse.io/orcristtechnologies) |
 | [promiseQ](https://www.promiseq.com) | Computer vision that verifies security-camera alarms and suppresses false positives. | HQ | ~5 | Seed, €3m+ | 0 found |
-| [STARK](https://stark-defence.com) | AI-enabled, software-defined unmanned systems for defence missions. | HQ | ~149 | Series C, €500m (2026) | 0 found |
+| [STARK](https://stark-defence.com) | AI-enabled, software-defined unmanned systems for defence missions. | HQ | ~149 | Series C, €500m (2026) | [36](https://stark.jobs.personio.com/) |
 
 ## HR, education, public services and frontline work
 
@@ -278,12 +314,12 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 
 The following are examples of records deliberately removed during verification; this is not a second company list.
 
-- **Pre-seed only:** AICURA, aiomics, Acemate, Blocks, Cerpro, Faircado, Forgent AI, GeneralMind, INXM, Integral, Key Ward, Kyrok, Lyceum, Scenarium AI, SkoneLabs, Spoke.ai, telli, The Climate Choice, WhyBrilliant, yoona.ai, and Zentio.
-- **Ceased or insolvency evidence:** Bearcover, German Autolabs, i2x, LabTwin, Solsten, and ZyseMe / Be-trim.
-- **Acquired, merged, or no longer independent:** Aaron.ai, Atlas Metrics, brighter AI, Cara Care, Gestalt Robotics, Hasty, Jina AI, Kaiko Systems, Kern AI, Kodex AI, Langfuse, Libra, Mobius Labs, Monite, Nomitri, Quantistry, Reliant AI, Signatrix, SPLX, StackFuel, Ultimate, VION, and xbird.
+- **Pre-seed only:** Afori, AICURA, aiomics, Acemate, autarc, Blocks, Cerpro, Emblematic, Faircado, Forgent AI, GeneralMind, INXM, Integral, Just 4 Noise, Key Ward, Kyrok, Lyceum, reverse.fashion, Scenarium AI, SkoneLabs, Spoke.ai, telli, The Climate Choice, WhyBrilliant, yoona.ai, and Zentio.
+- **Ceased or insolvency evidence:** Bearcover, clare&me, German Autolabs, i2x, LabTwin, Purpose Green, Solsten, and ZyseMe / Be-trim.
+- **Absorbed acquisition or no independently operating product company:** Aaron.ai, Atlas Metrics, brighter AI, Cara Care, Gestalt Robotics, Hasty, Jina AI, Kaiko Systems, Kern AI, Kodex AI, Langfuse, Libra, Mobius Labs, Monite, Nomitri, Quantistry, Reliant AI, Signatrix, SPLX, StackFuel, Ultimate, VION, and xbird.
 - **No longer a Berlin company:** revel8 announced a move to Munich and was excluded pending evidence of a continuing Berlin operation.
 
-Aleph Alpha remains listed because the announced Cohere transaction had not completed at the verification date. Yaak remains listed because the current product company and Berlin team continue under a Danish parent despite the prior German entity's insolvency.
+Aleph Alpha remains listed because the announced Cohere transaction had not completed at the verification date. German Bionic and IDnow remain listed because they still operate distinct products and Berlin offices after their strategic ownership changes. Nostos Genomics remains listed because its acquirer says both companies continue independently and its AION product has current 2026 releases. Yaak remains listed because the current product company and Berlin team continue under a Danish parent despite the prior German entity's insolvency.
 
 ## Sources and verification policy
 
@@ -309,4 +345,4 @@ Corrections and additions are welcome. A useful pull request should include:
 4. a recent activity signal; and
 5. sources for team size, latest financing, and open roles.
 
-Please do not add agencies, consultancies, research projects, acquired product brands, stealth companies, or pre-seed-only startups.
+Please do not add agencies, consultancies, research projects, absorbed product brands, companies no longer independently operating, stealth companies, or pre-seed-only startups.

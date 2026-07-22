@@ -6,6 +6,8 @@ Verified on **22 July 2026**. This role-focused list mirrors the format and comp
 
 Job boards change continuously. Follow the application link to confirm that a role remains open and to check its location and remote-work requirements.
 
+💰 Compensation ranges are shown only when publicly disclosed by the employer; equity and bonuses are noted when the source mentions them.
+
 **Entry metadata:** 👥 team size · 💰 latest disclosed financing · 💼 all Berlin openings
 
 ## Current Product Manager openings
@@ -74,7 +76,7 @@ Job boards change continuously. Follow the application link to confirm that a ro
 
 **PM roles:**
 
-- [AI Product Manager](https://jobs.ashbyhq.com/cortea/566d0b74-03d9-4f64-bec5-95ed8f723a71)
+- [AI Product Manager](https://jobs.ashbyhq.com/cortea/566d0b74-03d9-4f64-bec5-95ed8f723a71) — 💰 [€60k–€90k base + equity](https://jobs.ashbyhq.com/cortea/35965bff-5691-480f-b87e-6482e4fed6e8)
 
 **[Cosuno](https://www.cosuno.com)**: AI tendering, pricing, and procurement platform for general contractors and subcontractors.<br>
   👥 51–200 · 💰 [Series B, $30m (2021)](https://www.cosuno.com/web/en/blog/series-b-cosuno) · 💼 [15](https://jobs.ashbyhq.com/cosuno)<br>

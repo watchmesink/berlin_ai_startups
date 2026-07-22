@@ -1,26 +1,26 @@
-# Berlin AI startups and scaleups
+# 🤖 Berlin AI startups and scaleups
 
-An industry-organized directory of active AI/ML product companies with a headquarters, office, or substantial operating team in Berlin.
+🗺️ An industry-organized directory of active AI/ML product companies with a headquarters, office, or substantial operating team in Berlin.
 
-**Drop me a message** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
+**✍️ Drop me a message:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
-**Last verified:** 22 July 2026 · **Scope:** 236 active companies; pre-seed-only, ceased, absorbed acquisitions or brands no longer independently operating, and consultancy-only businesses excluded.
+**🗓️ Last verified:** 22 July 2026 · **📚 Scope:** 236 active companies; pre-seed-only, ceased, absorbed acquisitions or brands no longer independently operating, and consultancy-only businesses excluded.
 
-**Hiring:** [Product Manager openings](PM_OPENINGS.md)
+**💼 Hiring:** [Product Manager openings](PM_OPENINGS.md)
 
-## How to read this list
+## 🧭 How to read this list
 
-- **Inclusion:** AI/ML is core to the product; the company has a verifiable Berlin presence; it is active; and it has announced at least a Seed round or has comparable evidence of maturity (sustained bootstrapped revenue, corporate backing, or a substantial non-dilutive growth award).
-- **Berlin presence:** headquarters, an operating office, or substantial local team is sufficient. Team size is global unless a Berlin-only figure is public.
-- **Team:** `~N` is the approximate number of current LinkedIn profiles associated with the company; a range is LinkedIn's company-size band. It is a directional hiring signal, not payroll data.
-- **Financing:** the latest clearly disclosed institutional round or maturity signal, not necessarily total capital raised. Amounts are left in their announced currencies.
-- **Openings:** public Berlin vacancies found on company pages or LinkedIn on the verification date. `0 found` means no public Berlin vacancy was found, not that the company has frozen hiring; `~` marks an approximate quantity and links to a live search when a stable count was unavailable.
+- **✅ Inclusion:** AI/ML is core to the product; the company has a verifiable Berlin presence; it is active; and it has announced at least a Seed round or has comparable evidence of maturity (sustained bootstrapped revenue, corporate backing, or a substantial non-dilutive growth award).
+- **📍 Berlin presence:** headquarters, an operating office, or substantial local team is sufficient. Team size is global unless a Berlin-only figure is public.
+- **👥 Team:** `~N` is the approximate number of current LinkedIn profiles associated with the company; a range is LinkedIn's company-size band. It is a directional hiring signal, not payroll data.
+- **💰 Financing:** the latest clearly disclosed institutional round or maturity signal, not necessarily total capital raised. Amounts are left in their announced currencies.
+- **💼 Openings:** public Berlin vacancies found on company pages or LinkedIn on the verification date. `0 found` means no public Berlin vacancy was found, not that the company has frozen hiring; `~` marks an approximate quantity and links to a live search when a stable count was unavailable.
 
 **Entry metadata:** 👥 team size · 💰 latest disclosed financing · 💼 Berlin openings
 
 This is intended to be exhaustive **within that definition**, not a list of every Berlin organization that happens to use AI. The baselines disagree: [appliedAI counted 283 Berlin-headquartered AI startups in its 2025 landscape](https://www.appliedai-institute.de/en/publications/ai-startup-landscape-2025/), [Seedtable tracks 188 funded Berlin AI companies](https://seedtable.com/best-ai-startups-in-berlin), and [ai.berlin's directory](https://ai.berlin/ecosystem/directory) contains 809 mixed startups, scaleups, SMEs, corporates, consultancies, research groups, and ecosystem organizations. Each candidate was therefore checked rather than copied from any single database.
 
-## Foundation models, AI infrastructure and developer tools
+## 🧠 Foundation models, AI infrastructure and developer tools
 
 **[Affinidi](https://www.affinidi.com)**: Trust infrastructure that gives AI agents verifiable identity, policy guardrails, and real-time observability.<br>
   👥 100+ · 💰 [Temasek-backed corporate venture](https://www.affinidi.com/newsroom/) · 💼 [4](https://job-boards.greenhouse.io/affinidi)
@@ -109,7 +109,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[UltiHash](https://ultihash.io)**: High-performance object storage that reduces the infrastructure footprint of AI data.<br>
   👥 11–50 · 💰 Seed, $5m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=UltiHash&location=Berlin%2C%20Germany)
 
-## Enterprise software, data and workflow automation
+## 🏢 Enterprise software, data and workflow automation
 
 **[akirolabs](https://akirolabs.com)**: AI-powered strategic procurement and category-management software.<br>
   👥 ~34 · 💰 Seed, $5m (2024) · 💼 [1](https://www.linkedin.com/company/akirolabs/jobs/)
@@ -189,7 +189,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[Workist](https://workist.com)**: AI processing of orders, invoices, and other B2B documents.<br>
   👥 ~53 · 💰 Series A, €9m (2022) · 💼 [4](https://www.linkedin.com/company/workist/jobs/)
 
-## Voice AI, customer experience and sales
+## 🎙️ Voice AI, customer experience and sales
 
 **[charles](https://www.hello-charles.com)**: Conversational-commerce and AI customer-service platform for messaging channels.<br>
   👥 ~77 · 💰 [Series A, $20m (2022)](https://www.hello-charles.com/about/) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=charles%20commerce&location=Berlin%2C%20Germany)
@@ -236,7 +236,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[Wonderful](https://www.wonderful.ai)**: Multilingual AI agents for enterprise customer operations.<br>
   👥 51–200 · 💰 Seed, $34m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Wonderful%20AI&location=Berlin%2C%20Germany)
 
-## Finance, legal, compliance and cybersecurity
+## 💳 Finance, legal, compliance and cybersecurity
 
 **[ARC Intelligence](https://www.arc-intelligence.de)**: Private AI analytics and forecasting over sensitive enterprise finance data.<br>
   👥 2–10 · 💰 Seed, €4m (2026) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=ARC%20Intelligence&location=Berlin%2C%20Germany)
@@ -304,7 +304,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[YUKKA Lab](https://www.yukkalab.com)**: NLP-based news analytics and risk signals for financial markets.<br>
   👥 11–50 · 💰 Series A / strategic funding · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=YUKKA%20Lab&location=Berlin%2C%20Germany)
 
-## Health, care and life sciences
+## 🧬 Health, care and life sciences
 
 **[Ada Health](https://ada.com)**: Clinical reasoning and symptom-assessment AI for patients and healthcare organizations.<br>
   👥 ~168 · 💰 Series B, $90m (2021)
@@ -399,7 +399,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[Vara](https://www.vara.ai)**: AI breast-cancer screening and radiology workflow platform.<br>
   👥 ~103 · 💰 Series A, $8.9m (2022)
 
-## Industrial AI, manufacturing and robotics
+## 🏭 Industrial AI, manufacturing and robotics
 
 **[1000 Kelvin](https://1000kelvin.com)**: AI process optimization and printability prediction for additive manufacturing.<br>
   👥 ~12 · 💰 Seed, $10m (2024) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=1000%20Kelvin&location=Berlin%2C%20Germany)
@@ -464,7 +464,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[Yaak](https://www.yaak.ai)**: Computer-vision data and testing infrastructure for autonomous driving.<br>
   👥 ~30 · 💰 Seed / strategic funding; current company operates under Danish parent
 
-## Climate, energy, agriculture and environmental intelligence
+## 🌱 Climate, energy, agriculture and environmental intelligence
 
 **[1KOMMA5°](https://1komma5.com)**: Heartbeat AI virtual power plant and energy-management platform for distributed home-energy assets.<br>
   👥 ~2,500 · 💰 Pre-IPO round, €150m (2025) · 💼 [49](https://1komma5grad.jobs.personio.de/)
@@ -553,7 +553,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[Watergenics](https://watergenics.tech)**: Machine learning and sensors for real-time industrial water-quality analysis.<br>
   👥 ~26 · 💰 Seed, €2m
 
-## Mobility, logistics, geospatial and space
+## 🚚 Mobility, logistics, geospatial and space
 
 **[AIRTEAM](https://airteam.ai)**: Drone imagery and computer vision for building measurement and inspection.<br>
   👥 11–50 · 💰 Series A / growth funding · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=AIRTEAM&location=Berlin%2C%20Germany)
@@ -594,7 +594,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[Vanilla Steel](https://vanillasteel.com)**: Data-driven B2B marketplace and sourcing tools for excess steel.<br>
   👥 11–50 · 💰 Series A, €4m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Vanilla%20Steel&location=Berlin%2C%20Germany)
 
-## Retail, media, creative tools and consumer AI
+## 🎨 Retail, media, creative tools and consumer AI
 
 **[35up](https://35up.com)**: AI cross-selling API that adds contextual product recommendations to checkout.<br>
   👥 11–50 · 💰 Seed / strategic funding · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=35up&location=Berlin%2C%20Germany)
@@ -671,7 +671,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[Zebracat](https://www.zebracat.ai)**: Generative-AI video production for marketing and social content.<br>
   👥 ~19 · 💰 Seed, $2m (2024)
 
-## Construction, real estate and property operations
+## 🏗️ Construction, real estate and property operations
 
 **[All3](https://www.all3.com)**: AI design software, robotic prefabrication, and autonomous on-site assembly for custom buildings.<br>
   👥 11–50 · 💰 Seed, $25m (2026)
@@ -706,7 +706,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[Theo](https://www.hallotheo.de)**: AI-first property-management service automating tenant and building operations.<br>
   👥 ~102 · 💰 Seed, €10m (2025) · 💼 [14](https://www.linkedin.com/company/hallo-theo/jobs/)
 
-## Defence, resilience and physical security
+## 🛡️ Defence, resilience and physical security
 
 **[Helsing](https://helsing.ai)**: AI software, sensors, and autonomous systems for European defence.<br>
   👥 ~841 · 💰 [Series E, $1.8bn (2026)](https://helsing.ai/newsroom/helsing-raises-1-8bn-in-series-e) · 💼 [29](https://helsing.ai/jobs)
@@ -720,7 +720,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[STARK](https://stark-defence.com)**: AI-enabled, software-defined unmanned systems for defence missions.<br>
   👥 ~149 · 💰 Series C, €500m (2026) · 💼 [36](https://stark.jobs.personio.com/)
 
-## HR, education, public services and frontline work
+## 🎓 HR, education, public services and frontline work
 
 **[Aivy](https://www.aivy.app)**: Game-based psychometric assessment and matching for fairer hiring.<br>
   👥 11–50 · 💰 Seed, €1.3m+ · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Aivy&location=Berlin%2C%20Germany)
@@ -752,7 +752,7 @@ This is intended to be exhaustive **within that definition**, not a list of ever
 **[Polyteia](https://www.polyteia.com)**: Data and AI decision platform for municipalities and public administrations.<br>
   👥 ~16 · 💰 Seed, €5m (2023) · 💼 [1](https://www.linkedin.com/company/polyteia/jobs/)
 
-## Explicit exclusions
+## 🚫 Explicit exclusions
 
 The following are examples of records deliberately removed during verification; this is not a second company list.
 
@@ -763,7 +763,7 @@ The following are examples of records deliberately removed during verification; 
 
 Aleph Alpha remains listed because the announced Cohere transaction had not completed at the verification date. German Bionic and IDnow remain listed because they still operate distinct products and Berlin offices after their strategic ownership changes. Nostos Genomics remains listed because its acquirer says both companies continue independently and its AION product has current 2026 releases. Yaak remains listed because the current product company and Berlin team continue under a Danish parent despite the prior German entity's insolvency.
 
-## Sources and verification policy
+## 🔎 Sources and verification policy
 
 Primary discovery sources:
 
@@ -777,7 +777,7 @@ Activity was accepted when at least one strong 2025–26 signal existed: a curre
 
 Funding databases often disagree on round labels, totals, and currency conversion. This directory favors the company's or lead investor's announcement, labels undisclosed amounts honestly, and avoids adding pre-seed and Seed together unless a source explicitly reports a total.
 
-## Contributing
+## 🤝 Contributing
 
 Corrections and additions are welcome. A useful pull request should include:
 

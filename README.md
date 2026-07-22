@@ -2,6 +2,8 @@
 
 An industry-organized directory of active AI/ML product companies with a headquarters, office, or substantial operating team in Berlin.
 
+**Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb) · [X/Twitter](https://x.com/hleb_gleb_)
+
 **Last verified:** 22 July 2026 · **Scope:** 236 active companies; pre-seed-only, ceased, absorbed acquisitions or brands no longer independently operating, and consultancy-only businesses excluded.
 
 **Hiring:** [Product Manager openings](PM_OPENINGS.md)

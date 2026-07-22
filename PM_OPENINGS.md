@@ -2,6 +2,8 @@
 
 Verified on **22 July 2026**. This role-focused list mirrors the format and company metadata in the main [Berlin AI directory](README.md).
 
+**Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb) · [X/Twitter](https://x.com/hleb_gleb_)
+
 Job boards change continuously. Follow the application link to confirm that a role remains open and to check its location and remote-work requirements.
 
 **Entry metadata:** 📍 Berlin presence · 👥 team size · 💰 latest disclosed financing · 💼 all Berlin openings

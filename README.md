@@ -8,18 +8,6 @@
 
 **💼 Hiring:** [Product Manager openings](PM_OPENINGS.md)
 
-## 🧭 How to read this list
-
-- **✅ Inclusion:** AI/ML is core to the product; the company has a verifiable Berlin presence; it is active; and it has announced at least a Seed round or has comparable evidence of maturity (sustained bootstrapped revenue, corporate backing, or a substantial non-dilutive growth award).
-- **📍 Berlin presence:** headquarters, an operating office, or substantial local team is sufficient. Team size is global unless a Berlin-only figure is public.
-- **👥 Team:** `~N` is the approximate number of current LinkedIn profiles associated with the company; a range is LinkedIn's company-size band. It is a directional hiring signal, not payroll data.
-- **💰 Financing:** the latest clearly disclosed institutional round or maturity signal, not necessarily total capital raised. Amounts are left in their announced currencies.
-- **💼 Openings:** public Berlin vacancies found on company pages or LinkedIn on the verification date. `0 found` means no public Berlin vacancy was found, not that the company has frozen hiring; `~` marks an approximate quantity and links to a live search when a stable count was unavailable.
-
-**Entry metadata:** 👥 team size · 💰 latest disclosed financing · 💼 Berlin openings
-
-This is intended to be exhaustive **within that definition**, not a list of every Berlin organization that happens to use AI. The baselines disagree: [appliedAI counted 283 Berlin-headquartered AI startups in its 2025 landscape](https://www.appliedai-institute.de/en/publications/ai-startup-landscape-2025/), [Seedtable tracks 188 funded Berlin AI companies](https://seedtable.com/best-ai-startups-in-berlin), and [ai.berlin's directory](https://ai.berlin/ecosystem/directory) contains 809 mixed startups, scaleups, SMEs, corporates, consultancies, research groups, and ecosystem organizations. Each candidate was therefore checked rather than copied from any single database.
-
 ## 🧠 Foundation models, AI infrastructure and developer tools
 
 **[Affinidi](https://www.affinidi.com)**: Trust infrastructure that gives AI agents verifiable identity, policy guardrails, and real-time observability.<br>

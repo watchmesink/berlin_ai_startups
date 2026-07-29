@@ -1,6 +1,6 @@
 # Product Manager openings at Berlin AI companies
 
-Verified on **22 July 2026**. This role-focused list mirrors the format and company metadata in the main [Berlin AI directory](README.md).
+Roles checked on **29 July 2026**. This role-focused list mirrors the format and company metadata in the main [Berlin AI directory](README.md).
 
 **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
@@ -55,7 +55,7 @@ Job boards change continuously. Follow the application link to confirm that a ro
 
 **PM roles:**
 
-- [AI Adoption Product Manager](https://jobs.candis.io/jobs/8053456-ai-adoption-product-manager-m-w-d)
+- [AI Adoption Product Manager](https://jobs.candis.io/jobs/8053456-ai-adoption-product-manager-m-w-d) — 💰 €50k–€80k yearly salary
 
 **[charles](https://www.hello-charles.com)**: Conversational-commerce and AI customer-service platform for messaging channels.<br>
   👥 ~77 · 💰 [Series A, $20m (2022)](https://www.hello-charles.com/about/) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=charles%20commerce&location=Berlin%2C%20Germany)<br>
@@ -76,7 +76,7 @@ Job boards change continuously. Follow the application link to confirm that a ro
 
 **PM roles:**
 
-- [AI Product Manager](https://jobs.ashbyhq.com/cortea/566d0b74-03d9-4f64-bec5-95ed8f723a71) — 💰 [€60k–€90k base + equity](https://jobs.ashbyhq.com/cortea/35965bff-5691-480f-b87e-6482e4fed6e8)
+- [AI Product Manager](https://jobs.ashbyhq.com/cortea/74532cd7-e919-458e-a947-d8d9744576dd) — 💰 [€60k–€90k base + equity](https://jobs.ashbyhq.com/cortea/35965bff-5691-480f-b87e-6482e4fed6e8)
 
 **[Cosuno](https://www.cosuno.com)**: AI tendering, pricing, and procurement platform for general contractors and subcontractors.<br>
   👥 51–200 · 💰 [Series B, $30m (2021)](https://www.cosuno.com/web/en/blog/series-b-cosuno) · 💼 [15](https://jobs.ashbyhq.com/cosuno)<br>
@@ -86,6 +86,7 @@ Job boards change continuously. Follow the application link to confirm that a ro
 - [Technical Product Manager](https://jobs.ashbyhq.com/cosuno/1061464f-148c-4d8c-a3e3-c0224a8a47c0)
 - [Senior Product Manager – General Contractors](https://jobs.ashbyhq.com/cosuno/31db8d77-f3ae-40cf-94fc-9ed626356a69)
 - [Senior Product Manager – Marketplace](https://jobs.ashbyhq.com/cosuno/d9715024-9d46-46ab-9293-749caecf89bb)
+- [Senior Product Manager – Subcontractor Marketplace](https://jobs.ashbyhq.com/cosuno/d8c231e9-63b9-4d98-8e04-6a9d653cd7fb)
 
 **[Dataiku](https://www.dataiku.com)**: Enterprise platform for building, deploying, and governing analytics, machine-learning models, and AI agents.<br>
   👥 1,250+ · 💰 [Series F, $200m (2022)](https://www.dataiku.com/blog/dataiku-investors) · 💼 [2](https://job-boards.greenhouse.io/dataiku)<br>
@@ -137,13 +138,13 @@ Job boards change continuously. Follow the application link to confirm that a ro
 
 - [Technical Product Manager – Integrations](https://mercanis.jobs.personio.de/job/2401151?language=en)
 - [Product Manager](https://portfoliojobs.partechpartners.com/companies/mercanis/jobs/72756520-product-manager-m-f-d)
+- [Technical Account or Product Manager – SAP S/4HANA / Ariba](https://portfoliojobs.partechpartners.com/companies/mercanis/jobs/72756521-technical-account-or-product-manager-sap-s-4-ariba) — 💰 €80k–€120k yearly salary
 
 **[n8n](https://n8n.io)**: Workflow-automation platform combining integrations, code, and AI agents.<br>
   👥 ~1,165 · 💰 Series C, $180m (2025) · 💼 [22](https://jobs.ashbyhq.com/n8n)<br>
 
 **PM roles:**
 
-- [AI Product Manager](https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893)
 - [Senior Product Manager – Enterprise](https://jobs.ashbyhq.com/n8n/0bfb0054-67f6-4bf2-84de-9b36dfcb0e41)
 
 **[Nelly](https://www.getnelly.de)**: AI-supported financial and administrative operating system for medical practices.<br>
@@ -152,6 +153,7 @@ Job boards change continuously. Follow the application link to confirm that a ro
 **PM roles:**
 
 - [Senior AI Product Manager](https://jobs.ashbyhq.com/nelly/96b7ab60-cddd-4813-a0aa-84dc9e11d7d9)
+- [Platform Product Manager](https://jobs.ashbyhq.com/nelly/a9a53ead-9c54-4652-9404-f0bfb1b7bef0)
 
 **[Orcrist Technologies](https://orcrist.org)**: AI sensor- and data-fusion intelligence platform for defence, law enforcement, and public safety.<br>
   👥 11–50 · 💰 Corporate-backed by SRH; amount undisclosed · 💼 [15](https://job-boards.eu.greenhouse.io/orcristtechnologies)<br>
@@ -172,7 +174,7 @@ Job boards change continuously. Follow the application link to confirm that a ro
 
 **PM roles:**
 
-- [Product Manager](https://jobs.ashbyhq.com/peec/8a50a6b5-e62c-4b12-8fc3-619aae18e3d2)
+- [Product Manager](https://jobs.ashbyhq.com/peec/8a50a6b5-e62c-4b12-8fc3-619aae18e3d2) — 💰 €100k–€130k base + equity
 
 **[PlanD](https://pland.app)**: AI-first ERP for building-cleaning and field-service companies.<br>
   👥 1–10 · 💰 Angel financing, €350k; 700+ customers · 💼 [1](https://join.com/companies/pland)<br>
@@ -240,13 +242,6 @@ Job boards change continuously. Follow the application link to confirm that a ro
 **PM roles:**
 
 - [Senior Product Manager – Machine Learning](https://jobs.ashbyhq.com/voize/2d4215e6-c62a-49a3-9d21-eac4a0a64222)
-
-**[Workist](https://workist.com)**: AI processing of orders, invoices, and other B2B documents.<br>
-  👥 ~53 · 💰 Series A, €9m (2022) · 💼 [4](https://www.linkedin.com/company/workist/jobs/)<br>
-
-**PM roles:**
-
-- [(Senior) Product Manager](https://join.com/companies/workist/15671802-senior-product-manager-f-m-x)
 
 ## Adjacent product leadership opening
 

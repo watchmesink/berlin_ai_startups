@@ -4,7 +4,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
 
 **✍️ Drop me a message:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
-**Last verified:** 22 July 2026 · **📚 Scope:** 236 active companies; pre-seed-only, ceased, absorbed acquisitions or brands no longer independently operating, and consultancy-only businesses excluded.
+**Last verified:** 20 August 2026 · **📚 Scope:** 242 active companies; pre-seed-only, ceased, absorbed acquisitions or brands no longer independently operating, and consultancy-only businesses excluded.
 
 **💼 Hiring:** [Product Manager openings](PM_OPENINGS.md)
 
@@ -14,7 +14,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
 ## 🧠 Foundation models, AI infrastructure and developer tools
 
 **[Affinidi](https://www.affinidi.com)**: Trust infrastructure that gives AI agents verifiable identity, policy guardrails, and real-time observability.<br>
-  👥 100+ · 💰 [Temasek-backed corporate venture](https://www.affinidi.com/newsroom/) · 💼 [4](https://job-boards.greenhouse.io/affinidi)
+  👥 100+ · 💰 [Temasek-backed corporate venture](https://www.affinidi.com/newsroom/) · 💼 [9](https://job-boards.greenhouse.io/affinidi)
 
 **[Agenta](https://agenta.ai)**: Open-source evaluation, observability, and prompt management for production LLM applications.<br>
   👥 ~9 · 💰 Seed, $1.1m (2024)
@@ -38,7 +38,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 11–50 · 💰 Seed, $7.5m (2026) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Cognee&location=Berlin%2C%20Germany)
 
 **[Dataiku](https://www.dataiku.com)**: Enterprise platform for building, deploying, and governing analytics, machine-learning models, and AI agents.<br>
-  👥 1,250+ · 💰 [Series F, $200m (2022)](https://www.dataiku.com/blog/dataiku-investors) · 💼 [2](https://job-boards.greenhouse.io/dataiku)
+  👥 1,250+ · 💰 [Series F, $200m (2022)](https://www.dataiku.com/blog/dataiku-investors) · 💼 [22](https://job-boards.greenhouse.io/dataiku)
 
 **[DeepL](https://www.deepl.com)**: Neural machine translation, writing assistance, and enterprise language AI.<br>
   👥 ~1,525 · 💰 Growth round, $300m (2024)
@@ -64,8 +64,11 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[mixedbread](https://www.mixedbread.com)**: Search, reranking, and embedding models for multimodal enterprise retrieval.<br>
   👥 ~14 · 💰 Seed, $4m (2024)
 
+**[Mistral AI](https://mistral.ai)**: Frontier language models, developer tools, AI assistants, and infrastructure for enterprise and sovereign AI deployments.<br>
+  👥 1,000+ · 💰 [Series C, €1.7bn at an €11.7bn post-money valuation (2025)](https://mistral.ai/fr/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/) · 💼 [165](https://jobs.ashbyhq.com/mistral.ai)
+
 **[n8n](https://n8n.io)**: Workflow-automation platform combining integrations, code, and AI agents.<br>
-  👥 ~1,165 · 💰 Series C, $180m (2025) · 💼 [22](https://jobs.ashbyhq.com/n8n)
+  👥 ~1,165 · 💰 Series C, $180m (2025) · 💼 [37](https://jobs.ashbyhq.com/n8n)
 
 **[Nota AI](https://www.nota.ai)**: Model-compression and edge-AI optimization software for constrained hardware.<br>
   👥 201–500 · 💰 Series C, $19.9m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Nota%20AI&location=Berlin%2C%20Germany)
@@ -91,8 +94,11 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[Superduper](https://superduper.io)**: Open-source framework for building AI applications directly on enterprise data.<br>
   👥 ~6 · 💰 Seed, $1.77m
 
+**[Superhuman](https://superhuman.com)**: AI productivity suite combining Grammarly, Docs, Mail, and cross-application agents.<br>
+  👥 1,500+ · 💰 [Superhuman Mail acquired by Grammarly; amount undisclosed (2025)](https://blog.superhuman.com/superhuman-is-being-acquired-by-grammarly/) · 💼 [82](https://jobs.ashbyhq.com/superhuman%20platform%20inc)
+
 **[Synthesia](https://www.synthesia.io)**: Enterprise generative-video platform with AI avatars, voices, and localization.<br>
-  👥 501–1,000 · 💰 Series D, $180m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Synthesia&location=Berlin%2C%20Germany)
+  👥 500+ · 💰 [Series E, $200m at a $4bn valuation (2026)](https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work) · 💼 [62](https://jobs.ashbyhq.com/synthesia)
 
 **[TextCortex](https://textcortex.com)**: Customizable enterprise writing and knowledge assistant powered by language models.<br>
   👥 11–50 · 💰 Seed, $5m (2022) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=TextCortex&location=Berlin%2C%20Germany)
@@ -127,7 +133,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 11–50 · 💰 Seed, $3m · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Cogram&location=Berlin%2C%20Germany)
 
 **[Cortea](https://www.cortea.ai)**: AI quality and evidence layer for audit and assurance firms.<br>
-  👥 ~19 · 💰 [Seed, €12m (2026)](https://www.cortea.ai/blog/cortea-raises-12-mil-to-improve-audit-quality-with-ai) · 💼 [9](https://jobs.ashbyhq.com/cortea)
+  👥 ~19 · 💰 [Seed, €12m (2026)](https://www.cortea.ai/blog/cortea-raises-12-mil-to-improve-audit-quality-with-ai) · 💼 [14](https://jobs.ashbyhq.com/cortea)
 
 **[Datarade](https://datarade.ai)**: Marketplace and discovery platform for commercial data used in analytics and AI.<br>
   👥 ~7 · 💰 Series A, €7m (2022)
@@ -154,7 +160,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 11–50 · 💰 Seed, $14.5m (2026) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Plato%20AI%20Berlin&location=Berlin%2C%20Germany)
 
 **[Qorelo](https://www.qorelo.com)**: Agentic AI delivery system for planning and executing SAP transformations.<br>
-  👥 11–50 · 💰 Seed, $3.5m (2026) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Qorelo&location=Berlin%2C%20Germany)
+  👥 11–50 · 💰 Seed, $3.5m (2026) · 💼 [3](https://jobs.ashbyhq.com/qorelo)
 
 **[Rhesis AI](https://www.rhesis.ai)**: Automated testing, evaluation, and risk management for generative-AI applications.<br>
   👥 11–50 · 💰 Seed, €5m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Rhesis%20AI&location=Berlin%2C%20Germany)
@@ -207,22 +213,25 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 11–50 · 💰 Seed, €3.5m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=muffintech&location=Berlin%2C%20Germany)
 
 **[Parloa](https://www.parloa.com)**: Enterprise platform for AI voice agents in customer service.<br>
-  👥 ~558 · 💰 Series D, $350m (2026) · 💼 [19](https://job-boards.eu.greenhouse.io/parloa)
+  👥 ~558 · 💰 Series D, $350m (2026) · 💼 [47](https://job-boards.eu.greenhouse.io/parloa)
 
 **[Solda AI](https://www.solda.ai)**: Autonomous multilingual voice and text agents that run end-to-end telesales cycles.<br>
   👥 11–50 · 💰 Seed, €4m (2025)
 
 **[Superchat](https://www.superchat.com)**: Unified business-messaging platform with AI agents for customer service and sales.<br>
-  👥 ~100 · 💰 Series A, $15.6m (2022); €18m total · 💼 [7](https://www.superchat.com/en/careers)
+  👥 ~100 · 💰 Series A, $15.6m (2022); €18m total · 💼 [14](https://www.superchat.com/en/careers)
 
 **[Synthflow](https://synthflow.ai)**: No-code platform for deploying AI phone agents for business workflows.<br>
   👥 ~68 · 💰 Series A, $20m (2025) · 💼 [6](https://jobs.ashbyhq.com/synthflow)
+
+**[telli](https://www.telli.com)**: Platform for building, deploying, and continuously improving consumer-facing AI voice agents at scale.<br>
+  👥 11–50 · 💰 [Seed, $15m (2026); $18.5m total](https://www.telli.com/resources) · 💼 ~[openings](https://careers.telli.com/)
 
 **[Twain](https://www.twain.ai)**: AI sales coach and message-writing assistant for outbound teams.<br>
   👥 11–50 · 💰 Seed, $4.5m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Twain%20AI&location=Berlin%2C%20Germany)
 
 **[voize](https://www.voize.de)**: Speech recognition that turns nurses' spoken notes into structured care documentation.<br>
-  👥 ~151 · 💰 Series A, $50m (2025) · 💼 [34](https://jobs.ashbyhq.com/voize)
+  👥 ~151 · 💰 Series A, $50m (2025) · 💼 [38](https://jobs.ashbyhq.com/voize)
 
 **[Wonderful](https://www.wonderful.ai)**: Multilingual AI agents for enterprise customer operations.<br>
   👥 51–200 · 💰 Seed, $34m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Wonderful%20AI&location=Berlin%2C%20Germany)
@@ -236,7 +245,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 11–50 · 💰 Series A, €12m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Baobab%20cyber&location=Berlin%2C%20Germany)
 
 **[bunch](https://www.bunch.capital)**: AI-native fund operations and reporting infrastructure for private-market investors.<br>
-  👥 201–500 · 💰 [Series B, $35m (2026)](https://www.bunch.capital/blog-posts/bunch-sammelt-35-millionen-us-dollar-in-series-b-um-legacy-fund-operations-durch-ki-native-infrastruktur-zu-ersetzen) · 💼 [14](https://jobs.ashbyhq.com/bunch)
+  👥 201–500 · 💰 [Series B, $35m (2026)](https://www.bunch.capital/blog-posts/bunch-sammelt-35-millionen-us-dollar-in-series-b-um-legacy-fund-operations-durch-ki-native-infrastruktur-zu-ersetzen) · 💼 [26](https://jobs.ashbyhq.com/bunch)
 
 **[Cakewalk](https://www.getcakewalk.io)**: AI identity-governance and access-review automation for modern SaaS stacks.<br>
   👥 11–50 · 💰 Seed, $7.5m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Cakewalk%20Berlin&location=Berlin%2C%20Germany)
@@ -254,7 +263,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 51–200 · 💰 Seed, $10m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Flank%20legal%20AI&location=Berlin%2C%20Germany)
 
 **[IDnow](https://www.idnow.io)**: AI identity proofing, document verification, and fraud-prevention software.<br>
-  👥 ~474 · 💰 [Strategic majority investment by Corsair (2025)](https://idnow.io/insights/pr/idnow-announces-strategic-majority-investment-from-corsair-capital/) · 💼 [7](https://job-boards.eu.greenhouse.io/idnow)
+  👥 ~474 · 💰 [Strategic majority investment by Corsair (2025)](https://idnow.io/insights/pr/idnow-announces-strategic-majority-investment-from-corsair-capital/) · 💼 [17](https://job-boards.eu.greenhouse.io/idnow)
 
 **[Inhubber](https://inhubber.com)**: AI contract analysis combined with secure contract lifecycle management and e-signatures.<br>
   👥 11–50 · 💰 Crowd financing, €1.14m (2025)
@@ -284,7 +293,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 11–50 · 💰 Series A, €12m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Rulemapping&location=Berlin%2C%20Germany)
 
 **[Taktile](https://www.taktile.com)**: AI decision platform for underwriting, fraud, and risk operations.<br>
-  👥 ~231 · 💰 Series C, $110m (2026) · 💼 [19](https://jobs.ashbyhq.com/taktile)
+  👥 ~231 · 💰 Series C, $110m (2026) · 💼 [45](https://jobs.ashbyhq.com/taktile)
 
 **[Taxforce](https://taxforce.ai)**: AI-native tax workflow and compliance platform for professional firms.<br>
   👥 11–50 · 💰 Seed, €5m (2026) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Taxforce&location=Berlin%2C%20Germany)
@@ -346,7 +355,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 ~80 · 💰 Growth round, €12m (2024) · 💼 [2](https://www.linkedin.com/company/mediaire/jobs/)
 
 **[Nelly](https://www.getnelly.de)**: AI-supported financial and administrative operating system for medical practices.<br>
-  👥 201–500 · 💰 Series B, €50m (2025) · 💼 [18](https://jobs.ashbyhq.com/nelly)
+  👥 201–500 · 💰 Series B, €50m (2025) · 💼 [17](https://jobs.ashbyhq.com/nelly)
 
 **[Nia Health](https://www.nia-health.de)**: AI-supported digital therapeutics and monitoring for chronic skin conditions.<br>
   👥 ~38 · 💰 Seed, €3.5m · 💼 [5](https://www.linkedin.com/company/nia-health/jobs/)
@@ -356,6 +365,9 @@ An industry-organized directory of active AI/ML product companies with a headqua
 
 **[Nostos Genomics](https://www.nostos-genomics.com)**: Machine-learning interpretation of genetic variants for rare-disease diagnosis.<br>
   👥 ~14 · 💰 Seed, $5m (2021) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Nostos%20Genomics&location=Berlin%2C%20Germany)
+
+**[Nucs AI](https://www.nucs.ai)**: AI medical-imaging platform for prostate-cancer diagnosis, treatment planning, and longitudinal oncology workflows.<br>
+  👥 11–50 · 💰 [Seed, $3.5m (2024)](https://www.nucs.ai/resources/nucs-ai-closes-3-5-million-in-seed-funding-round) · 💼 [7](https://nucsai.recruitee.com/)
 
 **[Nuuron](https://www.nuuron.com)**: Digital Alzheimer's therapy using ML-guided photonic neuromodulation and immersive interfaces.<br>
   👥 11–50 · 💰 Seed, €3.5m (2024)
@@ -405,7 +417,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 ~54 · 💰 Series A, €16.3m (2026)
 
 **[Andercore](https://andercore.com)**: AI-native procurement and supply-chain platform for industrial materials.<br>
-  👥 51–200 · 💰 [Series B, $40m (2026)](https://www.andercore.com/press/andercore-secures-40m-series-b-for-ai-driven-industrial-trade-platform) · 💼 [35](https://jobs.ashbyhq.com/andercore)
+  👥 51–200 · 💰 [Series B, $40m (2026)](https://www.andercore.com/press/andercore-secures-40m-series-b-for-ai-driven-industrial-trade-platform) · 💼 [33](https://jobs.ashbyhq.com/andercore)
 
 **[Deltia](https://www.deltia.ai)**: Computer vision and AI copilots for improving assembly-line productivity and quality.<br>
   👥 11–50 · 💰 Seed, €4.5m (2024)
@@ -458,7 +470,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
 ## 🌱 Climate, energy, agriculture and environmental intelligence
 
 **[1KOMMA5°](https://1komma5.com)**: Heartbeat AI virtual power plant and energy-management platform for distributed home-energy assets.<br>
-  👥 ~2,500 · 💰 Pre-IPO round, €150m (2025) · 💼 [49](https://1komma5grad.jobs.personio.de/)
+  👥 ~2,500 · 💰 [Pre-IPO round, €150m (2025)](https://1komma5.com/en/press/press-releases/1komma5-extends-pre-ipo-round/) · 💼 [316](https://1komma5grad.jobs.personio.de/)
 
 **[Beebop](https://beebop.ai)**: AI optimization for flexible electric loads, batteries, and distributed energy assets.<br>
   👥 ~24 · 💰 Seed, $5.5m
@@ -488,7 +500,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 ~56 · 💰 Series A, $13m (2022) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Frequenz&location=Berlin%2C%20Germany)
 
 **[GALVANY](https://galvany.de)**: Integrated heat-pump platform with AI energy management for residential buildings.<br>
-  👥 ~90 · 💰 Seed, €10m (2026) · 💼 [11](https://jobs.ashbyhq.com/galvany)
+  👥 ~90 · 💰 Seed, €10m (2026) · 💼 [20](https://jobs.ashbyhq.com/galvany)
 
 **[Green Fusion](https://www.green-fusion.de)**: AI control platform for efficient, low-carbon building heat systems.<br>
   👥 51–200 · 💰 Series A, €12m (2024) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Green%20Fusion&location=Berlin%2C%20Germany)
@@ -514,8 +526,11 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[Plan A](https://plana.earth)**: AI-enhanced carbon accounting, decarbonization, and ESG reporting software.<br>
   👥 51–200 · 💰 Series A, $27m (2023) · 💼 ~[openings](https://plana.earth/careers)
 
+**[Reonic](https://reonic.com)**: AI-native operating system for renewable-energy installers, covering sales, design, procurement, and operations.<br>
+  👥 100+ · 💰 [Series A, €13m (2024)](https://reonic.com/en-gb/about/us/) · 💼 [31](https://jobs.ashbyhq.com/reonic)
+
 **[Root Global](https://www.rootglobal.io)**: AI-enabled primary-data and decarbonization platform for food and agricultural supply chains.<br>
-  👥 11–50 · 💰 Seed, €8m (2024); >€10m total · 💼 [4](https://jobs.ashbyhq.com/rootglobal)
+  👥 11–50 · 💰 Seed, €8m (2024); >€10m total · 💼 [3](https://jobs.ashbyhq.com/rootglobal)
 
 **[Seqana](https://seqana.com)**: Satellite and machine-learning measurement of soil carbon for climate projects.<br>
   👥 ~26 · 💰 Seed, €3.2m (2026)
@@ -641,11 +656,11 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[nyris](https://www.nyris.io)**: Visual search and synthetic-data models for products and industrial spare parts.<br>
   👥 ~35 · 💰 EIC investment and grant, €5m (2022)
 
-**[Passionfroot](https://www.passionfroot.me)**: AI-assisted campaign, workflow, and relationship software for creator businesses.<br>
-  👥 11–50 · 💰 Series A / €7m+ total · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Passionfroot&location=Berlin%2C%20Germany)
+**[Passionfroot](https://www.passionfroot.me)**: Creator-led growth platform whose Zest AI agent helps brands discover creators and run campaign workflows.<br>
+  👥 ~15 · 💰 [Series A, $15m (2026)](https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/) · 💼 ~[openings](https://www.passionfroot.me/careers)
 
 **[Peec AI](https://peec.ai)**: Analytics for measuring and improving brand visibility in AI search answers.<br>
-  👥 ~98 · 💰 Series A, €18m (2025) · 💼 [34](https://jobs.ashbyhq.com/peec)
+  👥 ~98 · 💰 Series A, €18m (2025) · 💼 [30](https://jobs.ashbyhq.com/peec)
 
 **[Pollinations.AI](https://pollinations.ai)**: Open generative-media APIs and models for images, text, audio, and video.<br>
   👥 2–10 · 💰 Bootstrapped / ecosystem-funded · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Pollinations.AI&location=Berlin%2C%20Germany)
@@ -680,7 +695,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 51–200 · 💰 Series A, $58m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Buena%20property&location=Berlin%2C%20Germany)
 
 **[Cosuno](https://www.cosuno.com)**: AI tendering, pricing, and procurement platform for general contractors and subcontractors.<br>
-  👥 51–200 · 💰 [Series B, $30m (2021)](https://www.cosuno.com/web/en/blog/series-b-cosuno) · 💼 [15](https://jobs.ashbyhq.com/cosuno)
+  👥 51–200 · 💰 [Series B, $30m (2021)](https://www.cosuno.com/web/en/blog/series-b-cosuno) · 💼 [16](https://jobs.ashbyhq.com/cosuno)
 
 **[Enter](https://enter.de)**: AI-supported energy assessment and renovation planning for residential buildings.<br>
   👥 51–200 · 💰 Series A, €19.4m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Enter%20energy%20Berlin&location=Berlin%2C%20Germany)
@@ -695,21 +710,24 @@ An industry-organized directory of active AI/ML product companies with a headqua
   👥 1–10 · 💰 Angel financing, €350k; 700+ customers · 💼 [1](https://join.com/companies/pland)
 
 **[Theo](https://www.hallotheo.de)**: AI-first property-management service automating tenant and building operations.<br>
-  👥 ~102 · 💰 Seed, €10m (2025) · 💼 [14](https://www.linkedin.com/company/hallo-theo/jobs/)
+  👥 ~102 · 💰 [Series A, €25m (2026); €36m total](https://hallotheo.de/series-a) · 💼 [14](https://www.linkedin.com/company/hallo-theo/jobs/)
 
 ## 🛡️ Defence, resilience and physical security
 
 **[Helsing](https://helsing.ai)**: AI software, sensors, and autonomous systems for European defence.<br>
-  👥 ~841 · 💰 [Series E, $1.8bn (2026)](https://helsing.ai/newsroom/helsing-raises-1-8bn-in-series-e) · 💼 [29](https://helsing.ai/jobs)
+  👥 ~841 · 💰 [Series E, $1.8bn (2026)](https://helsing.ai/newsroom/helsing-raises-1-8bn-in-series-e) · 💼 [134](https://helsing.ai/jobs)
 
 **[Orcrist Technologies](https://orcrist.org)**: AI sensor- and data-fusion intelligence platform for defence, law enforcement, and public safety.<br>
   👥 11–50 · 💰 Corporate-backed by SRH; amount undisclosed · 💼 [15](https://job-boards.eu.greenhouse.io/orcristtechnologies)
+
+**[Project Q](https://project-q.ai/)**: Open-architecture defence platform that fuses sensor and intelligence data into mission-ready situational awareness.<br>
+  👥 ~38 · 💰 [Series A, €15m (2026)](https://www.heliad.com/highlights/european-defense-tech-company-project-q-raises-eur-15m-to-further-develop-its-open-source-platform-hydris) · 💼 [4](https://project-q.jobs.personio.com/)
 
 **[promiseQ](https://www.promiseq.com)**: Computer vision that verifies security-camera alarms and suppresses false positives.<br>
   👥 ~5 · 💰 Seed, €3m+
 
 **[STARK](https://stark-defence.com)**: AI-enabled, software-defined unmanned systems for defence missions.<br>
-  👥 ~149 · 💰 Series C, €500m (2026) · 💼 [36](https://stark.jobs.personio.com/)
+  👥 ~149 · 💰 Series C, €500m (2026) · 💼 [152](https://stark.jobs.personio.com/)
 
 ## 🎓 HR, education, public services and frontline work
 
@@ -747,7 +765,7 @@ An industry-organized directory of active AI/ML product companies with a headqua
 
 The following are examples of records deliberately removed during verification; this is not a second company list.
 
-- **Pre-seed only:** Afori, AICURA, aiomics, Acemate, autarc, Blocks, Cerpro, Emblematic, Faircado, Forgent AI, GeneralMind, INXM, Integral, Just 4 Noise, Key Ward, Kyrok, Lyceum, reverse.fashion, Scenarium AI, SkoneLabs, Spoke.ai, telli, The Climate Choice, WhyBrilliant, yoona.ai, and Zentio.
+- **Pre-seed only:** Afori, AICURA, aiomics, Acemate, autarc, Blocks, Cerpro, Emblematic, Faircado, Forgent AI, GeneralMind, INXM, Integral, Just 4 Noise, Key Ward, Kyrok, Lyceum, reverse.fashion, Scenarium AI, SkoneLabs, Spoke.ai, The Climate Choice, WhyBrilliant, yoona.ai, and Zentio.
 - **Ceased or insolvency evidence:** Bearcover, clare&me, German Autolabs, i2x, LabTwin, Purpose Green, Solsten, and ZyseMe / Be-trim.
 - **Absorbed acquisition or no independently operating product company:** Aaron.ai, Atlas Metrics, brighter AI, Cara Care, Gestalt Robotics, Hasty, Jina AI, Kaiko Systems, Kern AI, Kodex AI, Langfuse, Libra, Mobius Labs, Monite, Nomitri, Quantistry, Reliant AI, Signatrix, SPLX, StackFuel, Ultimate, VION, and xbird.
 - **No longer a Berlin company:** revel8 announced a move to Munich and was excluded pending evidence of a continuing Berlin operation.

@@ -4,13 +4,13 @@
 
 <br>
 
-**A verified directory of 242 active AI/ML companies with a headquarters, office, or substantial operating team in Berlin. Organized by industry, with team size, latest disclosed funding, and links to open roles.**
+**A verified directory of 244 active AI/ML companies with a headquarters, office, or substantial operating team in Berlin. Organized by industry, with team size, latest disclosed funding, and links to open roles.**
 
 Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no longer operating independently, relocations, and consultancy-only businesses are excluded — and the removals are published with reasons, not silently dropped.
 
 <br>
 
-**Last verified:** 20 August 2026 · **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
+**Last verified:** 21 August 2026 · **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
 </div>
 
@@ -37,10 +37,10 @@ Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no lon
 
 ## Browse by industry
 
-- [Foundation models, AI infrastructure and developer tools](#foundation-models-ai-infrastructure-and-developer-tools) · 31
+- [Foundation models, AI infrastructure and developer tools](#foundation-models-ai-infrastructure-and-developer-tools) · 32
 - [Enterprise software, data and workflow automation](#enterprise-software-data-and-workflow-automation) · 26
 - [Voice AI, customer experience and sales](#voice-ai-customer-experience-and-sales) · 16
-- [Finance, legal, compliance and cybersecurity](#finance-legal-compliance-and-cybersecurity) · 22
+- [Finance, legal, compliance and cybersecurity](#finance-legal-compliance-and-cybersecurity) · 23
 - [Health, care and life sciences](#health-care-and-life-sciences) · 32
 - [Industrial AI, manufacturing and robotics](#industrial-ai-manufacturing-and-robotics) · 21
 - [Climate, energy, agriculture and environmental intelligence](#climate-energy-agriculture-and-environmental-intelligence) · 30
@@ -109,6 +109,9 @@ A working directory for people who need to know who is actually building AI in B
 
 **[GlassFlow](https://www.glassflow.dev)**: Python-native streaming data pipelines for real-time AI and analytics.<br>
   👥 11–50 · 💰 Seed, $4.8m · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=GlassFlow&location=Berlin%2C%20Germany)
+
+**[GreenPow](https://greenpow.io)**: AI compute control plane that places workloads across cloud, private, sovereign, and edge infrastructure based on cost, energy, carbon, latency, and compliance.<br>
+  👥 2–10 · 💰 [Revenue-generating; EIT Climate-KIC and EU-backed; Seed round open](https://greenpow.io/en/investors)
 
 **[GitButler](https://gitbutler.com)**: AI-assisted Git client and collaborative version-control workflow.<br>
   👥 11–50 · 💰 Series A, $17m (2026) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=GitButler&location=Berlin%2C%20Germany)
@@ -349,6 +352,9 @@ A working directory for people who need to know who is actually building AI in B
 
 **[RealRate](https://realrate.ai)**: Explainable AI ratings of insurers, banks, and other financial companies.<br>
   👥 11–50 · 💰 Seed, €1.5m · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=RealRate&location=Berlin%2C%20Germany)
+
+**[re:cap](https://www.re-cap.com)**: AI-powered capital operating system combining financial analysis, cash-flow forecasting, autonomous agents, and non-dilutive financing.<br>
+  👥 55+ · 💰 [Series A, €13.5m (2024)](https://www.re-cap.com/de/press/re-cap-series-a-releases-saas-platform-investors-businesses)
 
 **[Rulemapping](https://rulemapping.com)**: Converts complex laws and policies into transparent, machine-executable decision logic.<br>
   👥 11–50 · 💰 Series A, €12m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Rulemapping&location=Berlin%2C%20Germany)
@@ -849,7 +855,7 @@ The following are examples of records deliberately removed during verification; 
 - **Absorbed acquisition or no independently operating product company:** Aaron.ai, Atlas Metrics, brighter AI, Cara Care, Gestalt Robotics, Hasty, Jina AI, Kaiko Systems, Kern AI, Kodex AI, Langfuse, Libra, Mobius Labs, Monite, Nomitri, Quantistry, Reliant AI, Signatrix, SPLX, StackFuel, Ultimate, VION, and xbird.
 - **No longer a Berlin company:** revel8 announced a move to Munich and was excluded pending evidence of a continuing Berlin operation.
 
-Aleph Alpha remains listed because the announced Cohere transaction had not completed at the verification date. German Bionic and IDnow remain listed because they still operate distinct products and Berlin offices after their strategic ownership changes. Nostos Genomics remains listed because its acquirer says both companies continue independently and its AION product has current 2026 releases. Yaak remains listed because the current product company and Berlin team continue under a Danish parent despite the prior German entity's insolvency.
+Langfuse remains excluded because ClickHouse acquired it in January 2026: its product, team, and Berlin operation continue, but it is no longer an independent startup. Aleph Alpha remains listed because the announced Cohere transaction had not completed at the verification date. German Bionic and IDnow remain listed because they still operate distinct products and Berlin offices after their strategic ownership changes. Nostos Genomics remains listed because its acquirer says both companies continue independently and its AION product has current 2026 releases. Yaak remains listed because the current product company and Berlin team continue under a Danish parent despite the prior German entity's insolvency.
 
 <a id="sources-and-verification-policy"></a>
 
@@ -860,6 +866,7 @@ Primary discovery sources:
 - [appliedAI Institute — AI Startup Landscape 2025](https://www.appliedai-institute.de/en/publications/ai-startup-landscape-2025/) and its [live company database](https://www.appliedai-institute.de/ressourcen/ai-startups-deutschland/)
 - [ai.berlin ecosystem directory](https://ai.berlin/ecosystem/directory) and [Berlin AI facts](https://ai.berlin/ecosystem/facts)
 - [Seedtable's funded Berlin AI index](https://seedtable.com/best-ai-startups-in-berlin)
+- [r/berlinstartups](https://www.reddit.com/r/berlinstartups/) for community-submitted leads, each independently checked against primary sources
 - Company websites, press rooms, legal notices, career pages, and investor announcements
 - Public LinkedIn company profiles and Berlin job listings for directional team and vacancy data
 

@@ -1,15 +1,78 @@
+<div align="center">
+
 # Berlin AI startups and scaleups
 
-An industry-organized directory of active AI/ML product companies with a headquarters, office, or substantial operating team in Berlin.
+> *The exclusions list is the point: every company removed, and the reason why.*
 
-**✍️ Drop me a message:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
+[![Companies](https://img.shields.io/badge/Companies-242-2563eb)](#browse-by-industry)
+[![Industries](https://img.shields.io/badge/Industries-12-7c3aed)](#browse-by-industry)
+[![Last verified](https://img.shields.io/badge/Last_verified-20_Aug_2026-16a34a)](#sources-and-verification-policy)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-f59e0b)](#contributing)
 
-**Last verified:** 20 August 2026 · **📚 Scope:** 242 active companies; pre-seed-only, ceased, absorbed acquisitions or brands no longer independently operating, and consultancy-only businesses excluded.
+<br>
 
-**💼 Hiring:** [Product Manager openings](PM_OPENINGS.md)
+**A verified directory of 242 active AI/ML companies with a headquarters, office, or substantial operating team in Berlin. Organized by industry, with team size, latest disclosed funding, and links to open roles.**
 
+Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no longer operating independently, relocations, and consultancy-only businesses are excluded — and the removals are published with reasons, not silently dropped.
 
+<br>
 
+**Last verified:** 20 August 2026 · **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
+
+</div>
+
+---
+
+## Also in this repo
+
+| List | What it covers |
+| --- | --- |
+| [Product Manager openings](PM_OPENINGS.md) | Live PM roles at the companies in this directory, with the same company metadata. |
+| [AI PM roles compatible with staying in Berlin](GERMANY_AI_EMPLOYERS.md) | 118 roles across 79 companies: Berlin-based, Germany-remote, EMEA-remote, and global-remote AI PM work, wherever the employer is headquartered. |
+
+## How to read an entry
+
+```text
+**[Company](https://site)**: What the product actually does.
+  👥 team size · 💰 latest disclosed financing · 💼 current openings
+```
+
+- **👥** team size, from the company's own figures or its public LinkedIn profile. `~` means approximate.
+- **💰** latest disclosed round, with amount and year when a source states them. Undisclosed amounts are labelled as such rather than guessed, and pre-seed and Seed are not added together unless a source reports a total.
+- **💼** open roles. A number links to the company's own board; `~openings` means the board does not expose a reliable count and the link is a search.
+
+<a id="browse-by-industry"></a>
+
+## Browse by industry
+
+- [Foundation models, AI infrastructure and developer tools](#foundation-models-ai-infrastructure-and-developer-tools) · 31
+- [Enterprise software, data and workflow automation](#enterprise-software-data-and-workflow-automation) · 26
+- [Voice AI, customer experience and sales](#voice-ai-customer-experience-and-sales) · 16
+- [Finance, legal, compliance and cybersecurity](#finance-legal-compliance-and-cybersecurity) · 22
+- [Health, care and life sciences](#health-care-and-life-sciences) · 32
+- [Industrial AI, manufacturing and robotics](#industrial-ai-manufacturing-and-robotics) · 21
+- [Climate, energy, agriculture and environmental intelligence](#climate-energy-agriculture-and-environmental-intelligence) · 30
+- [Mobility, logistics, geospatial and space](#mobility-logistics-geospatial-and-space) · 13
+- [Retail, media, creative tools and consumer AI](#retail-media-creative-tools-and-consumer-ai) · 25
+- [Construction, real estate and property operations](#construction-real-estate-and-property-operations) · 11
+- [Defence, resilience and physical security](#defence-resilience-and-physical-security) · 5
+- [HR, education, public services and frontline work](#hr-education-public-services-and-frontline-work) · 10
+
+**Policy:** [Explicit exclusions](#explicit-exclusions) · [Sources and verification policy](#sources-and-verification-policy) · [Contributing](#contributing)
+
+## What this is
+
+A working directory for people who need to know who is actually building AI in Berlin: for job hunting, partnership and competitive research, investor mapping, or event and community work. Every entry had to clear an activity bar, and the bar is written down.
+
+## What this is not
+
+- Not a funding database. Round labels and totals follow the company's or lead investor's own announcement, and disagree with aggregators in places.
+- Not a list of everything with a Berlin address. Agencies, consultancies, research projects, and stealth companies are out of scope.
+- Not a startup ranking. Nothing here is ordered by quality, size, or promise.
+- Not exhaustive on hiring. Job boards change continuously; the openings figures are a snapshot, and the link is the source of truth.
+- Not automated. Entries are verified by hand, which is why the verification date matters.
+
+<a id="foundation-models-ai-infrastructure-and-developer-tools"></a>
 
 ## 🧠 Foundation models, AI infrastructure and developer tools
 
@@ -106,6 +169,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[UltiHash](https://ultihash.io)**: High-performance object storage that reduces the infrastructure footprint of AI data.<br>
   👥 11–50 · 💰 Seed, $5m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=UltiHash&location=Berlin%2C%20Germany)
 
+<a id="enterprise-software-data-and-workflow-automation"></a>
+
 ## 🏢 Enterprise software, data and workflow automation
 
 **[akirolabs](https://akirolabs.com)**: AI-powered strategic procurement and category-management software.<br>
@@ -186,6 +251,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[Workist](https://workist.com)**: AI processing of orders, invoices, and other B2B documents.<br>
   👥 ~53 · 💰 Series A, €9m (2022) · 💼 [4](https://www.linkedin.com/company/workist/jobs/)
 
+<a id="voice-ai-customer-experience-and-sales"></a>
+
 ## 🎙️ Voice AI, customer experience and sales
 
 **[charles](https://www.hello-charles.com)**: Conversational-commerce and AI customer-service platform for messaging channels.<br>
@@ -235,6 +302,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 
 **[Wonderful](https://www.wonderful.ai)**: Multilingual AI agents for enterprise customer operations.<br>
   👥 51–200 · 💰 Seed, $34m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Wonderful%20AI&location=Berlin%2C%20Germany)
+
+<a id="finance-legal-compliance-and-cybersecurity"></a>
 
 ## 💳 Finance, legal, compliance and cybersecurity
 
@@ -303,6 +372,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 
 **[YUKKA Lab](https://www.yukkalab.com)**: NLP-based news analytics and risk signals for financial markets.<br>
   👥 11–50 · 💰 Series A / strategic funding · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=YUKKA%20Lab&location=Berlin%2C%20Germany)
+
+<a id="health-care-and-life-sciences"></a>
 
 ## 🧬 Health, care and life sciences
 
@@ -402,6 +473,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[Vara](https://www.vara.ai)**: AI breast-cancer screening and radiology workflow platform.<br>
   👥 ~103 · 💰 Series A, $8.9m (2022)
 
+<a id="industrial-ai-manufacturing-and-robotics"></a>
+
 ## 🏭 Industrial AI, manufacturing and robotics
 
 **[1000 Kelvin](https://1000kelvin.com)**: AI process optimization and printability prediction for additive manufacturing.<br>
@@ -466,6 +539,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 
 **[Yaak](https://www.yaak.ai)**: Computer-vision data and testing infrastructure for autonomous driving.<br>
   👥 ~30 · 💰 Seed / strategic funding; current company operates under Danish parent
+
+<a id="climate-energy-agriculture-and-environmental-intelligence"></a>
 
 ## 🌱 Climate, energy, agriculture and environmental intelligence
 
@@ -559,6 +634,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[Watergenics](https://watergenics.tech)**: Machine learning and sensors for real-time industrial water-quality analysis.<br>
   👥 ~26 · 💰 Seed, €2m
 
+<a id="mobility-logistics-geospatial-and-space"></a>
+
 ## 🚚 Mobility, logistics, geospatial and space
 
 **[AIRTEAM](https://airteam.ai)**: Drone imagery and computer vision for building measurement and inspection.<br>
@@ -599,6 +676,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 
 **[Vanilla Steel](https://vanillasteel.com)**: Data-driven B2B marketplace and sourcing tools for excess steel.<br>
   👥 11–50 · 💰 Series A, €4m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Vanilla%20Steel&location=Berlin%2C%20Germany)
+
+<a id="retail-media-creative-tools-and-consumer-ai"></a>
 
 ## 🎨 Retail, media, creative tools and consumer AI
 
@@ -677,6 +756,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[Zebracat](https://www.zebracat.ai)**: Generative-AI video production for marketing and social content.<br>
   👥 ~19 · 💰 Seed, $2m (2024)
 
+<a id="construction-real-estate-and-property-operations"></a>
+
 ## 🏗️ Construction, real estate and property operations
 
 **[All3](https://www.all3.com)**: AI design software, robotic prefabrication, and autonomous on-site assembly for custom buildings.<br>
@@ -712,6 +793,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[Theo](https://www.hallotheo.de)**: AI-first property-management service automating tenant and building operations.<br>
   👥 ~102 · 💰 [Series A, €25m (2026); €36m total](https://hallotheo.de/series-a) · 💼 [14](https://www.linkedin.com/company/hallo-theo/jobs/)
 
+<a id="defence-resilience-and-physical-security"></a>
+
 ## 🛡️ Defence, resilience and physical security
 
 **[Helsing](https://helsing.ai)**: AI software, sensors, and autonomous systems for European defence.<br>
@@ -728,6 +811,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 
 **[STARK](https://stark-defence.com)**: AI-enabled, software-defined unmanned systems for defence missions.<br>
   👥 ~149 · 💰 Series C, €500m (2026) · 💼 [152](https://stark.jobs.personio.com/)
+
+<a id="hr-education-public-services-and-frontline-work"></a>
 
 ## 🎓 HR, education, public services and frontline work
 
@@ -761,6 +846,8 @@ An industry-organized directory of active AI/ML product companies with a headqua
 **[Polyteia](https://www.polyteia.com)**: Data and AI decision platform for municipalities and public administrations.<br>
   👥 ~16 · 💰 Seed, €5m (2023) · 💼 [1](https://www.linkedin.com/company/polyteia/jobs/)
 
+<a id="explicit-exclusions"></a>
+
 ## 🚫 Explicit exclusions
 
 The following are examples of records deliberately removed during verification; this is not a second company list.
@@ -771,6 +858,8 @@ The following are examples of records deliberately removed during verification; 
 - **No longer a Berlin company:** revel8 announced a move to Munich and was excluded pending evidence of a continuing Berlin operation.
 
 Aleph Alpha remains listed because the announced Cohere transaction had not completed at the verification date. German Bionic and IDnow remain listed because they still operate distinct products and Berlin offices after their strategic ownership changes. Nostos Genomics remains listed because its acquirer says both companies continue independently and its AION product has current 2026 releases. Yaak remains listed because the current product company and Berlin team continue under a Danish parent despite the prior German entity's insolvency.
+
+<a id="sources-and-verification-policy"></a>
 
 ## 🔎 Sources and verification policy
 
@@ -785,6 +874,8 @@ Primary discovery sources:
 Activity was accepted when at least one strong 2025–26 signal existed: a current product and legal presence plus recent funding, customer/product news, active hiring, or an operating team. A live landing page by itself was not enough when credible closure, acquisition, relocation, or insolvency evidence existed.
 
 Funding databases often disagree on round labels, totals, and currency conversion. This directory favors the company's or lead investor's announcement, labels undisclosed amounts honestly, and avoids adding pre-seed and Seed together unless a source explicitly reports a total.
+
+<a id="contributing"></a>
 
 ## 🤝 Contributing
 

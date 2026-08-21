@@ -20,8 +20,7 @@ Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no lon
 
 | List | What it covers |
 | --- | --- |
-| [Product Manager openings](PM_OPENINGS.md) | Live PM roles at the companies in this directory, with the same company metadata. |
-| [AI PM roles compatible with staying in Berlin](GERMANY_AI_EMPLOYERS.md) | 118 roles across 79 companies: Berlin-based, Germany-remote, EMEA-remote, and global-remote AI PM work, wherever the employer is headquartered. |
+| [AI Product Manager jobs for people based in Berlin or Germany](GERMANY_AI_EMPLOYERS.md) | The single jobs tracker: 118 roles across 79 companies, covering local, Germany-remote, EMEA-remote, and global-remote work. |
 
 ## How to read an entry
 

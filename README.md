@@ -2,13 +2,6 @@
 
 # Berlin AI startups and scaleups
 
-> *The exclusions list is the point: every company removed, and the reason why.*
-
-[![Companies](https://img.shields.io/badge/Companies-242-2563eb)](#browse-by-industry)
-[![Industries](https://img.shields.io/badge/Industries-12-7c3aed)](#browse-by-industry)
-[![Last verified](https://img.shields.io/badge/Last_verified-20_Aug_2026-16a34a)](#sources-and-verification-policy)
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-f59e0b)](#contributing)
-
 <br>
 
 **A verified directory of 242 active AI/ML companies with a headquarters, office, or substantial operating team in Berlin. Organized by industry, with team size, latest disclosed funding, and links to open roles.**

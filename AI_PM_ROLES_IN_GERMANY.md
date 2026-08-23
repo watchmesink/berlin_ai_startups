@@ -1,10 +1,12 @@
-# 🌍 AI Product Manager jobs for people based in Berlin or Germany
+# 🇩🇪 AI PM roles in Germany
 
-Roles checked on **20 August 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere.
+The full directory was checked on **20 August 2026**; the North American expansion was checked on **23 August 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere.
 
 **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
-The list currently contains **118 roles across 79 companies**. Inclusion requires a live role on the employer's own careers site, an explicit Berlin/Germany/Europe/EMEA/global location signal, and an employer that is beyond pre-seed or is an established bootstrapped, corporate-backed, or public company. Roles that require moving away from Berlin are excluded.
+The list currently contains **129 roles across 86 companies**. Inclusion requires a live role on the employer's own careers site, an explicit Berlin/Germany/Europe/EMEA/global location signal, and an employer that is beyond pre-seed or is an established bootstrapped, corporate-backed, or public company. Roles that require moving away from Berlin are excluded.
+
+Looking specifically for overseas employers? See the focused companion list of [North American AI PM roles open to Germany-based candidates](NORTH_AMERICAN_AI_PM_ROLES_FOR_GERMANY.md).
 
 This is a high-confidence live snapshot rather than a mathematically exhaustive list: international job boards change continuously, and some employers do not publish every eligible hiring country. Follow the application link to confirm that a role remains open and to check payroll-entity, work-authorization, language, time-zone, and remote-work requirements.
 
@@ -60,7 +62,7 @@ AI-first platform for regulatory, medical, and clinical authoring used by global
 
 **PM roles:**
 
-- [AI Product Manager (EU)](https://jobs.ashbyhq.com/alphalifesci/8135f25e-d2cb-401f-a90f-7dcc5acd0bf8) — Europe remote
+- [AI Product Manager (EU)](https://jobs.ashbyhq.com/alphalifesci/8135f25e-d2cb-401f-a90f-7dcc5acd0bf8) — Europe remote; posting also contains US work-authorization boilerplate, so confirm eligibility · 💰 $130k–$170k yearly base + equity
 
 ## [Amazon](https://www.amazon.jobs/en/teams/amazon-music)
 
@@ -258,6 +260,15 @@ AI workforce platform whose agents execute operational work across enterprise re
 
 - [Founding Product Manager](https://jobs.ashbyhq.com/duvo/2ac82145-9890-4f82-a9cc-3478b9d88099) — EU/UK remote
 
+## [Everstream Analytics](https://www.everstream.ai)
+
+AI-powered predictive intelligence for anticipating and managing risk across global supply chains.<br>
+  👥 201–500 · 💰 [Series B, $50m (2023)](https://www.everstream.ai/media/everstream-analytics-raises-50m-series-b-funding-for-supply-chain-sustainability/) · 💼 [3](https://www.everstream.ai/careers/jobs/)<br>
+
+**PM roles:**
+
+- [Senior Product Manager (m/f/d)](https://www.everstream.ai/careers/jobs/?gh_jid=6135117004) — Europe remote
+
 ## [Eye-Able](https://eye-able.com)
 
 AI-supported digital-accessibility platform for auditing and improving websites and software.<br>
@@ -266,6 +277,16 @@ AI-supported digital-accessibility platform for auditing and improving websites 
 **PM roles:**
 
 - [Senior Product Manager – AI-Native Product & Product Ops](https://eye-able.jobs.personio.de/job/2700020?language=en) — Germany remote; Berlin eligible
+
+## [Fingerprint](https://fingerprint.com)
+
+Device-intelligence and fraud-prevention platform that detects bots, AI agents, account takeovers, and suspicious users.<br>
+  👥 200+ · 💰 [$77m raised](https://fingerprint.com/careers/) · 💼 [18](https://fingerprint.com/careers/jobs/)<br>
+
+**PM roles:**
+
+- [Sr Technical Product Manager, Bot & AI Automation Intelligence](https://fingerprint.com/careers/jobs/apply/?gh_jid=6011760004) — global remote; Americas through Central European time zones preferred · 💰 $144k–$195k US yearly base; local range differs
+- [Technical Product Manager, Data Insights](https://fingerprint.com/careers/jobs/apply/?gh_jid=6140406004) — global remote · 💰 $126k–$170k US yearly base; local range differs
 
 ## [FLEX Capital](https://www.flex.capital)
 
@@ -294,6 +315,16 @@ Decentralized compute and coordination network for training machine-learning mod
 **PM roles:**
 
 - [Technical Product Manager](https://job-boards.eu.greenhouse.io/gensyn/jobs/4660248101) — remote between Portugal and Central European time zones
+
+## [Google](https://about.google)
+
+Alphabet's technology company building search, cloud, Gemini, and AI-powered products and developer tools.<br>
+  👥 180,000+ · 💰 [Public company (NASDAQ: GOOGL)](https://abc.xyz/investor/) · 💼 ~[openings](https://www.google.com/about/careers/applications/jobs/results/?location=Germany)<br>
+
+**PM roles:**
+
+- [Product Manager I, Technical Risk Management](https://www.google.com/about/careers/applications/jobs/results/110651933890355910-product-manager-i-technical-risk-management) — Munich; owns AI agents for autonomous compliance · 💰 €102k–€105k yearly base + 15% bonus target, equity, and benefits
+- [Senior Product Manager, CodeAI Foundations](https://www.google.com/about/careers/applications/jobs/results/80418755103859398-senior-product-manager-codeai-foundations) — Munich; builds AI-powered developer tools and agentic IDE workflows · 💰 €184k–€189k yearly base + 25% bonus target, equity, and benefits
 
 ## [Grafana Labs](https://grafana.com)
 
@@ -396,6 +427,15 @@ Product-development system for teams and AI agents to plan, build, and track sof
 **PM roles:**
 
 - [Product Manager](https://jobs.ashbyhq.com/Linear/86abcce0-04b2-405c-9a8e-e0ca84813914) — Europe remote
+
+## [Litmus](https://litmus.io)
+
+Industrial edge-data platform that connects and contextualizes operational-technology data for analytics and AI applications.<br>
+  👥 ~90 · 💰 [Strategic investment, amount undisclosed (2025)](https://litmus.io/newsroom/litmus-secures-additional-investment-led-by-insight-partners-to-accelerate) · 💼 [30](https://jobs.ashbyhq.com/litmus)<br>
+
+**PM roles:**
+
+- [Senior Product Manager, Cloud, AI & Strategic Partnerships](https://jobs.ashbyhq.com/litmus/5dd5a528-7c2c-49eb-8096-1bf1ce1ebd85) — Germany; hybrid
 
 ## [LivePerson](https://www.liveperson.com)
 
@@ -559,6 +599,16 @@ Agentic AI delivery system for planning and executing SAP transformations.<br>
 **PM roles:**
 
 - [Platform Product Manager – SAP](https://jobs.ashbyhq.com/qorelo/744e6914-a4b1-4689-bfa8-5e57661b495f) — Berlin; on-site
+
+## [Rasa](https://rasa.com)
+
+Enterprise platform and open-source framework for building governed conversational AI assistants and agents.<br>
+  👥 ~110 · 💰 [Series C, $30m (2024)](https://www.linkedin.com/posts/rasa_correcting-and-replacing-rasa-raises-30-activity-7163493729637494785-ZZMW) · 💼 [3](https://jobs.ashbyhq.com/Rasa)<br>
+
+**PM roles:**
+
+- [Director of Product Management](https://jobs.ashbyhq.com/Rasa/4d17796c-be9e-45e0-91fc-b101e4156039) — Germany or UK remote; Berlin preferred
+- [Senior Product Manager – Infrastructure](https://jobs.ashbyhq.com/Rasa/a80e960f-ea30-413b-b79d-c37a7df4c658/) — Germany, Serbia, or UK remote
 
 ## [Remote](https://remote.com)
 
@@ -726,6 +776,15 @@ Form, survey, and conversational-data platform developing AI-first analytics and
 - [Senior Product Manager – Analytics](https://job-boards.greenhouse.io/typeform/jobs/7090089) — Germany remote
 - [Senior Product Manager – Create](https://job-boards.greenhouse.io/typeform/jobs/8066471) — Germany remote
 
+## [vCluster Labs](https://www.vcluster.com)
+
+Kubernetes virtualization and GPU-infrastructure platform for platform teams and AI-cloud operators.<br>
+  👥 51–200 · 💰 [Series A, $24m (2024)](https://www.vcluster.com/blog/our-24m-series-a-led-by-khosla-ventures) · 💼 [21](https://jobs.ashbyhq.com/vClusterLabs)<br>
+
+**PM roles:**
+
+- [Senior Product Manager (vMetal)](https://jobs.ashbyhq.com/vClusterLabs/a3e4dd4c-84d6-4ca8-ba09-b84d819e7404) — EMEA remote · 💰 €115k–€130k yearly base in Germany + equity and bonus
+
 ## [voize](https://www.voize.ai)
 
 Speech recognition that turns nurses' spoken notes into structured care documentation.<br>
@@ -752,6 +811,16 @@ European fashion platform using AI for personalization, partner operations, logi
 **PM roles:**
 
 - [Senior Principal Product Manager – Partner Experience & AI Platform](https://jobs.zalando.com/en/jobs/2723860-Senior-Principal-Product-Manager-%E2%80%93-Partner-Experie) — Berlin or Helsinki; Berlin application is available
+
+## [Zendesk](https://www.zendesk.com)
+
+AI-first customer- and employee-service platform building autonomous agents and resolution workflows.<br>
+  👥 5,000+ · 💰 [Acquired for $10.2bn by Hellman & Friedman and Permira (2022)](https://www.zendesk.com/newsroom/press-releases/consortium-led-by-hellman-friedman-and-permira-completes-acquisition-of-zendesk/) · 💼 ~[openings](https://jobs.zendesk.com/us/en/search-results)<br>
+
+**PM roles:**
+
+- [Senior Product Manager, AI Agents Testing](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Remote-Germany/Senior-Product-Manager--AI-Agents-Testing_R34948) — Germany remote; other European locations also listed
+- [Senior Product Manager, AI Agents](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Senior-Product-Manager--AI-Agents_R35259) — Berlin or Germany remote; other European locations also listed
 
 ## [Zeta Global](https://zetaglobal.com)
 

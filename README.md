@@ -21,7 +21,6 @@ Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no lon
 | List | What it covers |
 | --- | --- |
 | [AI PM roles in Germany](AI_PM_ROLES_IN_GERMANY.md) | The single jobs tracker: 129 roles across 86 companies, covering local, Germany-remote, EMEA-remote, and global-remote work. |
-| [North American AI PM roles open to Germany-based candidates](NORTH_AMERICAN_AI_PM_ROLES_FOR_GERMANY.md) | A focused slice of 33 roles across 25 US- and Canada-based employers that can hire someone who remains in Germany. |
 
 ## How to read an entry
 

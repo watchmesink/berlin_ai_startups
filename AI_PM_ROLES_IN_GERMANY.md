@@ -1,12 +1,10 @@
 # 🇩🇪 AI PM roles in Germany
 
-The full directory was checked on **20 August 2026**; the North American expansion was checked on **23 August 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere.
+The full directory was checked on **20 August 2026**; the latest international additions were checked on **23 August 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere.
 
 **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
 The list currently contains **129 roles across 86 companies**. Inclusion requires a live role on the employer's own careers site, an explicit Berlin/Germany/Europe/EMEA/global location signal, and an employer that is beyond pre-seed or is an established bootstrapped, corporate-backed, or public company. Roles that require moving away from Berlin are excluded.
-
-Looking specifically for overseas employers? See the focused companion list of [North American AI PM roles open to Germany-based candidates](NORTH_AMERICAN_AI_PM_ROLES_FOR_GERMANY.md).
 
 This is a high-confidence live snapshot rather than a mathematically exhaustive list: international job boards change continuously, and some employers do not publish every eligible hiring country. Follow the application link to confirm that a role remains open and to check payroll-entity, work-authorization, language, time-zone, and remote-work requirements.
 
@@ -117,7 +115,7 @@ Hospitality platform building autonomous AI agents for hotel distribution, guest
 
 **PM roles:**
 
-- [Senior Product Manager, Hosto Agent](https://jobs.workable.com/view/etKYEo63qnJoudZfQmtL8R/senior-product-manager%2C-hosto-agent-%28remote-europe%29-in-romania-at-bnberry) — Europe remote
+- [Senior Product Manager, Hosto Agent](https://jobs.workable.com/view/uQVV7WzTjFt291eZWJ8L9i/senior-product-manager%2C-hosto-agent-%28remote-europe%29-in-portugal-at-bnberry) — Europe remote
 
 ## [Bonsai Labs](https://bonsai-labs.com)
 
@@ -754,7 +752,7 @@ AI construction-estimating platform that reads plans, performs takeoffs, and aut
 
 **PM roles:**
 
-- [Senior Product Manager – Trades](https://jobs.ashbyhq.com/togal-ai/1ce02e93-6b0b-4496-8f36-44ddf93b01c1) — EMEA remote
+- [Senior Product Manager – Trades](https://jobs.ashbyhq.com/togal-ai/d249803f-5c33-4d63-95e1-8a9b2ae95e72) — EMEA remote
 
 ## [traide AI](https://www.traide.ai)
 

@@ -4,13 +4,13 @@
 
 <br>
 
-**A verified directory of 244 active AI/ML companies with a headquarters, office, or substantial operating team in Berlin. Organized by industry, with team size, latest disclosed funding, and links to open roles.**
+**A verified directory of 245 active AI/ML companies with a headquarters, office, or substantial operating team in Berlin. Organized by industry, with team size, latest disclosed funding, and links to open roles.**
 
 Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no longer operating independently, relocations, and consultancy-only businesses are excluded — and the removals are published with reasons, not silently dropped.
 
 <br>
 
-**Last verified:** 21 August 2026 · **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
+**Directory verified:** 21 August 2026 · **Latest addition checked:** 25 August 2026 · **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
 </div>
 
@@ -45,7 +45,7 @@ Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no lon
 - [Industrial AI, manufacturing and robotics](#industrial-ai-manufacturing-and-robotics) · 21
 - [Climate, energy, agriculture and environmental intelligence](#climate-energy-agriculture-and-environmental-intelligence) · 30
 - [Mobility, logistics, geospatial and space](#mobility-logistics-geospatial-and-space) · 13
-- [Retail, media, creative tools and consumer AI](#retail-media-creative-tools-and-consumer-ai) · 25
+- [Retail, media, creative tools and consumer AI](#retail-media-creative-tools-and-consumer-ai) · 26
 - [Construction, real estate and property operations](#construction-real-estate-and-property-operations) · 11
 - [Defence, resilience and physical security](#defence-resilience-and-physical-security) · 5
 - [HR, education, public services and frontline work](#hr-education-public-services-and-frontline-work) · 10
@@ -687,6 +687,9 @@ A working directory for people who need to know who is actually building AI in B
 
 **[ALOCAI](https://alocai.com)**: AI-native localization workflow for multilingual video and media content.<br>
   👥 11–50 · 💰 Seed / strategic funding · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=ALOCAI&location=Berlin%2C%20Germany)
+
+**[Awtomated](https://awtomated.com)**: AI-powered translation business management system that automates project, vendor, CRM, and finance workflows for language service providers.<br>
+  👥 ~13 · 💰 Privately held; funding undisclosed · 💼 [2](https://join.com/companies/awtomated)
 
 **[Bayes Esports](https://www.bayesesports.com)**: Live esports data, probabilities, and machine-learning trading products.<br>
   👥 51–200 · 💰 Series A / strategic funding · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Bayes%20Esports&location=Berlin%2C%20Germany)

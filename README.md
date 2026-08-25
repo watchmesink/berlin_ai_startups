@@ -866,6 +866,7 @@ Primary discovery sources:
 - [appliedAI Institute — AI Startup Landscape 2025](https://www.appliedai-institute.de/en/publications/ai-startup-landscape-2025/) and its [live company database](https://www.appliedai-institute.de/ressourcen/ai-startups-deutschland/)
 - [ai.berlin ecosystem directory](https://ai.berlin/ecosystem/directory) and [Berlin AI facts](https://ai.berlin/ecosystem/facts)
 - [Seedtable's funded Berlin AI index](https://seedtable.com/best-ai-startups-in-berlin)
+- [DataBerlin's Product Manager roles](https://databerlin.net/jobs/category/product-manager) and [Berlin data-company directory](https://databerlin.net/companies), with vacancies rechecked on employer career sites
 - [r/berlinstartups](https://www.reddit.com/r/berlinstartups/) for community-submitted leads, each independently checked against primary sources
 - Company websites, press rooms, legal notices, career pages, and investor announcements
 - Public LinkedIn company profiles and Berlin job listings for directional team and vacancy data

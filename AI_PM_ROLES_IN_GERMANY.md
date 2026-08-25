@@ -1,10 +1,10 @@
 # 🇩🇪 AI PM roles in Germany
 
-The full directory was checked on **20 August 2026**; the latest international additions were checked on **23 August 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere.
+The full directory was checked on **20 August 2026**; the newest additions were checked on **25 August 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere.
 
 **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
-The list currently contains **129 roles across 86 companies**. Inclusion requires a live role on the employer's own careers site, an explicit Berlin/Germany/Europe/EMEA/global location signal, and an employer that is beyond pre-seed or is an established bootstrapped, corporate-backed, or public company. Roles that require moving away from Berlin are excluded.
+The list currently contains **137 roles across 91 companies**. Inclusion requires a live role on the employer's own careers site, an explicit Berlin/Germany/Europe/EMEA/global location signal, and an employer that is beyond pre-seed or is an established bootstrapped, corporate-backed, or public company. Roles that require moving away from Berlin are excluded.
 
 This is a high-confidence live snapshot rather than a mathematically exhaustive list: international job boards change continuously, and some employers do not publish every eligible hiring country. Follow the application link to confirm that a role remains open and to check payroll-entity, work-authorization, language, time-zone, and remote-work requirements.
 
@@ -134,7 +134,7 @@ AI-native fund operations and reporting infrastructure for private-market invest
 **PM roles:**
 
 - [Product Manager – Capital Management](https://jobs.ashbyhq.com/bunch/51832bae-1b4f-4be3-8336-25bf6fd28cad) — Berlin
-- [Product Manager – Growth](https://jobs.ashbyhq.com/bunch/24aaebc9-e3e8-4026-adb4-dafae750220e) — Berlin
+- [(Senior / Staff) Product Manager – Growth](https://jobs.ashbyhq.com/bunch/24aaebc9-e3e8-4026-adb4-dafae750220e) — Berlin
 
 ## [CANDIS](https://www.candis.io)
 
@@ -171,6 +171,15 @@ AI-native procurement and procure-to-pay platform for supplier selection, orderi
 **PM roles:**
 
 - [Senior Product Manager – AI & Procurement Platform](https://cisbox-gmbh.jobs.personio.de/job/2627599) — Germany remote; Solingen and Wangen also listed
+
+## [Climatiq](https://www.climatiq.io)
+
+AI-powered carbon-intelligence platform combining emissions data, calculation APIs, and automated factor matching.<br>
+  👥 ~51 · 💰 [Series A, €10m (2025)](https://www.climatiq.io/blog/series-a-investment) · 💼 ~[openings](https://jobs.ashbyhq.com/climatiq)<br>
+
+**PM roles:**
+
+- [Senior Product Manager, Data and API](https://jobs.ashbyhq.com/climatiq/223f9692-58f1-415e-a38c-f2b3213e361b) — Berlin
 
 ## [Constructor](https://constructor.com)
 
@@ -237,6 +246,7 @@ Global delivery platform using agentic AI to improve developer tooling, commerce
 
 **PM roles:**
 
+- [Data Product Manager – Dynamic Assortment, Quick Commerce](https://careers.deliveryhero.com/job/data-product-manager-dynamic-assortment-quick-commerce-in-berlin-germany-jid-9814) — Berlin; hybrid; owns ML-powered recommendations, personalization, and automated merchandising
 - [Senior Technical Product Manager – Agentic AI IDEs](https://jobs.smartrecruiters.com/DeliveryHero/744000133613719-senior-technical-product-manager-agentic-ai-ides-developer-tools-tech-foundations) — Berlin; hybrid
 - [Senior Technical Product Manager – AI & Service Strategy](https://jobs.smartrecruiters.com/DeliveryHero/744000134701317-senior-technical-product-manager-ai-service-strategy) — Berlin; leads the AI transformation of global IT service delivery
 
@@ -344,6 +354,15 @@ AI software, sensors, and autonomous systems for European defence.<br>
 - [Product Manager](https://helsing.ai/jobs/4936025101?gh_jid=4936025101) — Berlin or Munich
 - [Product Manager – Autonomous Systems Command & Control](https://helsing.ai/jobs/4947377101?gh_jid=4947377101) — Berlin
 
+## [HomeToGo](https://www.hometogo.com)
+
+AI-powered vacation-rental marketplace and software group using machine learning and generative AI across search, booking, and partner systems.<br>
+  👥 600+ · 💰 [Public company (Frankfurt: HTG)](https://ir.hometogo.de/) · 💼 ~[openings](https://hometogo.jobs.personio.com/)<br>
+
+**PM roles:**
+
+- [Senior Product Manager – Marketplace Infrastructure & Data](https://hometogo.jobs.personio.com/job/2723434?display=en&language=en) — Berlin; owns an AI-ready stack spanning LLMs, machine learning, NLP, and embeddings
+
 ## [honeysales](https://www.honeysales.io)
 
 Agentic sales operating system that researches prospects and runs personalized outbound workflows.<br>
@@ -407,6 +426,7 @@ Streaming discovery and recommendation engine built from global viewing data.<br
 **PM roles:**
 
 - [Product Manager – MarTech](https://www.justwatch.com/talent/jobs/tech/product-manager-%E2%80%93-martech) — Berlin
+- [Working Student Product Manager – MarTech](https://www.justwatch.com/talent/jobs/tech/working-student-product-manager-%E2%80%93-martech) — Berlin; part-time
 
 ## [Kestra](https://kestra.io)
 
@@ -608,6 +628,15 @@ Enterprise platform and open-source framework for building governed conversation
 - [Director of Product Management](https://jobs.ashbyhq.com/Rasa/4d17796c-be9e-45e0-91fc-b101e4156039) — Germany or UK remote; Berlin preferred
 - [Senior Product Manager – Infrastructure](https://jobs.ashbyhq.com/Rasa/a80e960f-ea30-413b-b79d-c37a7df4c658/) — Germany, Serbia, or UK remote
 
+## [Refurbed](https://www.refurbed.de)
+
+European recommerce marketplace using machine learning for pricing, ranking, recommendations, and marketplace steering.<br>
+  👥 300+ · 💰 [Growth round, €50m (2025)](https://www.refurbed.de/a/refurbed-deutschland-pr-investment-2025/) · 💼 ~[openings](https://www.refurbed.de/jobs/)<br>
+
+**PM roles:**
+
+- [Machine Learning Product Manager](https://www.refurbed.de/jobs/?gh_jid=4906140101) — Europe remote, including the UK; valid local work authorization required
+
 ## [Remote](https://remote.com)
 
 Global employment and payroll platform whose Remote Build unit creates agent-facing apps, connectors, APIs, MCP tools, and automations.<br>
@@ -657,6 +686,15 @@ Enterprise applications and Business AI for finance, supply chain, human resourc
 **PM roles:**
 
 - [Area Product Owner – Industry Knowledge Graphs](https://jobs.sap.com/job/Berlin-Area-Product-Owner-%28fmd%29-for-the-Industry-Knowledge-Graphs-10557/1407043433/) — Berlin; hybrid; owns knowledge graphs that ground generative-AI and foundation-model applications
+
+## [Scalable Capital](https://de.scalable.capital/en)
+
+Digital investing and banking platform building a shared AI platform for models, LLM applications, and internal agents.<br>
+  👥 700+ · 💰 [Growth round, €155m (2025); €470m+ total funding](https://de.scalable.capital/en/newsroom/funding-round-2025) · 💼 ~[openings](https://jobs.smartrecruiters.com/ScalableGmbH)<br>
+
+**PM roles:**
+
+- [Product Manager – AI Platform](https://jobs.smartrecruiters.com/ScalableGmbH/744000140458474) — Berlin; hybrid
 
 ## [Sereact](https://sereact.ai)
 
@@ -745,6 +783,15 @@ AI-first property-management service automating tenant and building operations.<
 
 - [Senior Technical Product Manager – Data](https://hallotheo.softgarden.io/job/65853941?l=en) — Berlin
 
+## [think-cell](https://www.think-cell.com)
+
+Productivity software for PowerPoint and Excel with an AI assistant for analysis, chart creation, editing, and translation.<br>
+  👥 220+ · 💰 [Majority investment by Cinven; amount undisclosed (2021)](https://www.cinven.com/news-insights/cinven-to-make-a-majority-investment-in-think-cell/) · 💼 ~[openings](https://job-boards.eu.greenhouse.io/thinkcellsoftware)<br>
+
+**PM roles:**
+
+- [Principal Product Manager – AI Product](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4952453101) — Berlin; four office days per week
+
 ## [Togal AI](https://www.togal.ai)
 
 AI construction-estimating platform that reads plans, performs takeoffs, and automates trade-specific estimating workflows.<br>
@@ -808,6 +855,7 @@ European fashion platform using AI for personalization, partner operations, logi
 
 **PM roles:**
 
+- [Principal Product Manager – Lounge Data Platform](https://zalando.wd3.myworkdayjobs.com/en-US/ZalandoSiteWD/job/Berlin/Principal-Product-Manager---Lounge-Data-Platform--all-genders-_2724985-1) — Berlin; builds an AI-ready data foundation for agents, machine learning, and predictive models
 - [Senior Principal Product Manager – Partner Experience & AI Platform](https://jobs.zalando.com/en/jobs/2723860-Senior-Principal-Product-Manager-%E2%80%93-Partner-Experie) — Berlin or Helsinki; Berlin application is available
 
 ## [Zendesk](https://www.zendesk.com)

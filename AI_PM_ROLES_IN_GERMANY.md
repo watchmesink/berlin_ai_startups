@@ -1,10 +1,10 @@
 # 🇩🇪 AI PM roles in Germany
 
-The full directory was checked on **20 August 2026**; the latest international additions were checked on **23 August 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere.
+The full directory was checked on **26 August 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere.
 
 **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
-The list currently contains **129 roles across 86 companies**. Inclusion requires a live role on the employer's own careers site, an explicit Berlin/Germany/Europe/EMEA/global location signal, and an employer that is beyond pre-seed or is an established bootstrapped, corporate-backed, or public company. Roles that require moving away from Berlin are excluded.
+The list currently contains **130 roles across 86 companies**. Inclusion requires a live role on the employer's own careers site, an explicit Berlin/Germany/Europe/EMEA/global location signal, and an employer that is beyond pre-seed or is an established bootstrapped, corporate-backed, or public company. Roles that require moving away from Berlin are excluded.
 
 This is a high-confidence live snapshot rather than a mathematically exhaustive list: international job boards change continuously, and some employers do not publish every eligible hiring country. Follow the application link to confirm that a role remains open and to check payroll-entity, work-authorization, language, time-zone, and remote-work requirements.
 
@@ -25,15 +25,6 @@ Heartbeat AI connects home-energy systems into a virtual power plant and optimiz
 - [(Senior) Product Manager – Smart Metering & Steering](https://1komma5grad.jobs.personio.de/job/2659159?language=en) — Germany remote; Berlin, Hamburg, or Munich also listed
 - [Product Manager – Global Services](https://1komma5grad.jobs.personio.de/job/2419435?language=en) — Germany remote; Berlin, Hamburg, or Munich also listed
 
-## [Actian](https://www.actian.com)
-
-Data-intelligence and integration platform that makes enterprise data usable by analytics systems and AI agents.<br>
-  👥 501–1,000 · 💰 [Acquired for $330m by HCL and Sumeru (2018); now part of HCLSoftware](https://www.actian.com/company/press-releases/hcl-technologies-and-sumeru-equity-partners-acquire-actian-corporation/) · 💼 [18](https://jobs.lever.co/actian)<br>
-
-**PM roles:**
-
-- [Senior Product Manager, Smart Data Products](https://jobs.lever.co/actian/30c7b2cf-35d0-4562-94ad-c7a88c5bec21) — Europe remote
-
 ## [Affinidi](https://www.affinidi.com)
 
 Trust infrastructure that gives AI agents verifiable identity, policy guardrails, and real-time observability.<br>
@@ -41,17 +32,27 @@ Trust infrastructure that gives AI agents verifiable identity, policy guardrails
 
 **PM roles:**
 
-- [Senior Product Manager, Technical](https://job-boards.greenhouse.io/affinidi/jobs/7835275003) — Berlin; hybrid
+- [Senior Product Manager, Technical (m/f/d)](https://job-boards.greenhouse.io/affinidi/jobs/7977852003) — Berlin; hybrid
 
 ## [Aignostics](https://www.aignostics.com)
 
 Foundation-model pathology and biomarker discovery for precision medicine.<br>
-  👥 ~122 · 💰 [Series B, $34m (2024)](https://www.aignostics.com/news/aignostics-secures-34-million-series-b-to-enhance-precision-medicine-with-ai) · 💼 ~[openings](https://aignostics.teamtailor.com/jobs)<br>
+  👥 ~122 · 💰 [Series B, $34m (2024)](https://www.aignostics.com/news/aignostics-secures-34-million-series-b-to-enhance-precision-medicine-with-ai) · 💼 [2](https://aignostics.teamtailor.com/jobs)<br>
 
 **PM roles:**
 
 - [Senior Product Manager – AI Pathology](https://aignostics.teamtailor.com/jobs/7687827-senior-product-manager-ai-pathology-d-f-m) — Berlin
 - [Senior Product Manager – Biopharma](https://aignostics.teamtailor.com/jobs/7825590-senior-product-manager-biopharma-d-f-m) — Berlin
+
+## [AIOS](https://www.aiosmedical.com/)
+
+AI-native healthcare infrastructure for delivering and scaling automated consumer care.<br>
+  👥 100 · 💰 [Y Combinator W20](https://www.ycombinator.com/companies/aios); [profitable (company-stated)](https://jobs.ashbyhq.com/Aios/e0971cdd-b061-4530-ae6e-d45d58714529) · 💼 [17](https://jobs.ashbyhq.com/Aios)<br>
+
+**PM roles:**
+
+- [Head of Product Growth – Referrals & Viral Loops](https://jobs.ashbyhq.com/Aios/e0971cdd-b061-4530-ae6e-d45d58714529) — remote in US or European time zones; overlap through midday Pacific Time required · 💰 $200k–$400k yearly compensation + 0.15%–0.50% equity
+- [Product Manager – Engagement](https://jobs.ashbyhq.com/Aios/299eba4f-69aa-484c-a9e9-37bd818d8aee) — global remote with European and US time-zone overlap · 💰 $100k–$200k yearly compensation including equity
 
 ## [AlphaLife Sciences](https://alphalifesci.com)
 
@@ -108,15 +109,6 @@ AI- and LiDAR-powered operating system for heat-pump planning, sales, and instal
 
 - [(Senior) Product Manager – AI](https://autarcenergy.jobs.personio.de/job/2636803?language=en) — Berlin; hybrid
 
-## [BnBerry](https://www.bnberry.com)
-
-Hospitality platform building autonomous AI agents for hotel distribution, guest communication, and property operations.<br>
-  👥 100+ · 💰 [Bootstrapped; no external funding disclosed](https://getlatka.com/companies/bnberry) · 💼 ~[openings](https://jobs.workable.com/search?query=Bnberry)<br>
-
-**PM roles:**
-
-- [Senior Product Manager, Hosto Agent](https://jobs.workable.com/view/uQVV7WzTjFt291eZWJ8L9i/senior-product-manager%2C-hosto-agent-%28remote-europe%29-in-portugal-at-bnberry) — Europe remote
-
 ## [Bonsai Labs](https://bonsai-labs.com)
 
 AI product-development firm delivering custom ML systems, automations, and production AI workflows for clients.<br>
@@ -134,7 +126,7 @@ AI-native fund operations and reporting infrastructure for private-market invest
 **PM roles:**
 
 - [Product Manager – Capital Management](https://jobs.ashbyhq.com/bunch/51832bae-1b4f-4be3-8336-25bf6fd28cad) — Berlin
-- [Product Manager – Growth](https://jobs.ashbyhq.com/bunch/24aaebc9-e3e8-4026-adb4-dafae750220e) — Berlin
+- [(Senior / Staff) Product Manager – Growth](https://jobs.ashbyhq.com/bunch/24aaebc9-e3e8-4026-adb4-dafae750220e) — Berlin
 
 ## [CANDIS](https://www.candis.io)
 
@@ -172,6 +164,15 @@ AI-native procurement and procure-to-pay platform for supplier selection, orderi
 
 - [Senior Product Manager – AI & Procurement Platform](https://cisbox-gmbh.jobs.personio.de/job/2627599) — Germany remote; Solingen and Wangen also listed
 
+## [Climatiq](https://www.climatiq.io)
+
+AI-powered carbon-intelligence platform combining emissions data, calculation APIs, and automated factor matching.<br>
+  👥 ~51 · 💰 [Series A, €10m (2025)](https://www.climatiq.io/blog/series-a-investment) · 💼 ~[openings](https://jobs.ashbyhq.com/climatiq)<br>
+
+**PM roles:**
+
+- [Senior Product Manager, Data and API](https://jobs.ashbyhq.com/climatiq/223f9692-58f1-415e-a38c-f2b3213e361b) — Berlin
+
 ## [Constructor](https://constructor.com)
 
 AI-first ecommerce search, recommendations, and product-discovery platform trained on shopper behavior.<br>
@@ -203,15 +204,6 @@ AI-powered construction-procurement platform for tendering, subcontractor sourci
 - [Senior Product Manager – General Contractors](https://jobs.ashbyhq.com/cosuno/31db8d77-f3ae-40cf-94fc-9ed626356a69) — Berlin or Germany remote
 - [Senior Product Manager – Marketplace](https://jobs.ashbyhq.com/cosuno/d9715024-9d46-46ab-9293-749caecf89bb) — Berlin or Germany remote; owns AI matching and recommendations
 
-## [credium](https://www.credium.de)
-
-AI building-analytics platform that combines geospatial and property data to assess modernization potential.<br>
-  👥 11–50 · 💰 Funding amount undisclosed · 💼 ~[openings](https://credium.jobs.personio.de/)<br>
-
-**PM roles:**
-
-- [AI Product Manager – Residential Building Modernization](https://credium.jobs.personio.de/job/2286082?language=en) — Germany remote; Augsburg also listed · 💰 €65k–€90k yearly salary + VSOP
-
 ## [Databricks](https://www.databricks.com)
 
 Data-intelligence platform for analytics, machine learning, generative AI, and AI agents.<br>
@@ -237,6 +229,8 @@ Global delivery platform using agentic AI to improve developer tooling, commerce
 
 **PM roles:**
 
+- [Data Product Manager – Dynamic Assortment, Quick Commerce](https://careers.deliveryhero.com/job/data-product-manager-dynamic-assortment-quick-commerce-in-berlin-germany-jid-9814) — Berlin; hybrid; owns ML-powered recommendations, personalization, and automated merchandising
+- [(Senior) Product Manager – Business Automation](https://jobs.smartrecruiters.com/DeliveryHero/744000144751629--senior-product-manager-business-automation) — Berlin; hybrid; owns agentic-AI and automation initiatives for business operations
 - [Senior Technical Product Manager – Agentic AI IDEs](https://jobs.smartrecruiters.com/DeliveryHero/744000133613719-senior-technical-product-manager-agentic-ai-ides-developer-tools-tech-foundations) — Berlin; hybrid
 - [Senior Technical Product Manager – AI & Service Strategy](https://jobs.smartrecruiters.com/DeliveryHero/744000134701317-senior-technical-product-manager-ai-service-strategy) — Berlin; leads the AI transformation of global IT service delivery
 
@@ -247,7 +241,7 @@ AI-native business identity and compliance platform for onboarding and verifying
 
 **Product leadership role:**
 
-- [Product Lead](https://duna.com/careers) — Berlin
+- [Product Lead](https://jobs.ashbyhq.com/duna/8e5d65f5-3487-442a-ba47-3983e0d54b51) — global remote
 
 ## [Duvo](https://www.duvo.ai)
 
@@ -257,15 +251,6 @@ AI workforce platform whose agents execute operational work across enterprise re
 **PM roles:**
 
 - [Founding Product Manager](https://jobs.ashbyhq.com/duvo/2ac82145-9890-4f82-a9cc-3478b9d88099) — EU/UK remote
-
-## [Everstream Analytics](https://www.everstream.ai)
-
-AI-powered predictive intelligence for anticipating and managing risk across global supply chains.<br>
-  👥 201–500 · 💰 [Series B, $50m (2023)](https://www.everstream.ai/media/everstream-analytics-raises-50m-series-b-funding-for-supply-chain-sustainability/) · 💼 [3](https://www.everstream.ai/careers/jobs/)<br>
-
-**PM roles:**
-
-- [Senior Product Manager (m/f/d)](https://www.everstream.ai/careers/jobs/?gh_jid=6135117004) — Europe remote
 
 ## [Eye-Able](https://eye-able.com)
 
@@ -295,6 +280,15 @@ Software-focused private-equity investor building internal AI products for deal 
 
 - [AI Product Manager](https://flex-capital-management-gmbh.jobs.personio.com/job/2689046) — Berlin; hybrid
 
+## [fluege.de](https://www.fluege.de/)
+
+Flight-search and booking platform building data products with machine learning, generative AI, RAG, and agentic workflows.<br>
+  👥 51–200 · 💰 [Part of Tongcheng Travel](https://jobs.fluege.de/en/stellen/stelle/product-owner-data-ai-m-f-d-fluege-de-2747686/) · 💼 [4](https://jobs.fluege.de/en/jobs/)<br>
+
+**PM roles:**
+
+- [Product Owner – Data & AI](https://jobs.fluege.de/en/stellen/stelle/product-owner-data-ai-m-f-d-fluege-de-2747686/) — Berlin; hybrid; 15-month parental-leave cover
+
 ## [GALVANY](https://galvany.de)
 
 AI-based energy operating system connecting heat pumps, storage, and home-energy management.<br>
@@ -321,7 +315,6 @@ Alphabet's technology company building search, cloud, Gemini, and AI-powered pro
 
 **PM roles:**
 
-- [Product Manager I, Technical Risk Management](https://www.google.com/about/careers/applications/jobs/results/110651933890355910-product-manager-i-technical-risk-management) — Munich; owns AI agents for autonomous compliance · 💰 €102k–€105k yearly base + 15% bonus target, equity, and benefits
 - [Senior Product Manager, CodeAI Foundations](https://www.google.com/about/careers/applications/jobs/results/80418755103859398-senior-product-manager-codeai-foundations) — Munich; builds AI-powered developer tools and agentic IDE workflows · 💰 €184k–€189k yearly base + 25% bonus target, equity, and benefits
 
 ## [Grafana Labs](https://grafana.com)
@@ -332,6 +325,16 @@ Open observability platform for cloud, data, application, and AI infrastructure.
 **PM roles:**
 
 - [Senior Product Manager – Infrastructure Observability](https://job-boards.greenhouse.io/grafanalabs/jobs/6008082004) — Germany remote · 💰 €97,034–€116,441 yearly salary + RSUs
+- [Staff Product Manager – OpenTelemetry](https://job-boards.greenhouse.io/grafanalabs/jobs/6161254004) — Germany remote; owns instrumentation experiences for developers and coding agents · 💰 €124,571–€149,485 yearly base + RSUs
+
+## [handly](https://www.handly.de/)
+
+AI-first operating system for launching and running home-service and craft businesses.<br>
+  👥 1–10 · 💰 [Seed, €3.75m from 20VC, Stride, and Base10](https://join.com/companies/handly/16610581-founding-product-manager-handly-20vc-backed) · 💼 [4](https://join.com/companies/handly)<br>
+
+**PM roles:**
+
+- [Founding Product Manager](https://join.com/companies/handly/16610581-founding-product-manager-handly-20vc-backed) — Berlin; on-site; fluent German required · 💰 €80k–€100k yearly salary
 
 ## [Helsing](https://helsing.ai)
 
@@ -344,6 +347,15 @@ AI software, sensors, and autonomous systems for European defence.<br>
 - [Product Manager](https://helsing.ai/jobs/4936025101?gh_jid=4936025101) — Berlin or Munich
 - [Product Manager – Autonomous Systems Command & Control](https://helsing.ai/jobs/4947377101?gh_jid=4947377101) — Berlin
 
+## [HomeToGo](https://www.hometogo.com)
+
+AI-powered vacation-rental marketplace and software group using machine learning and generative AI across search, booking, and partner systems.<br>
+  👥 600+ · 💰 [Public company (Frankfurt: HTG)](https://ir.hometogo.de/) · 💼 ~[openings](https://hometogo.jobs.personio.com/)<br>
+
+**PM roles:**
+
+- [Senior Product Manager – Marketplace Infrastructure & Data](https://hometogo.jobs.personio.com/job/2723434?display=en&language=en) — Berlin; owns an AI-ready stack spanning LLMs, machine learning, NLP, and embeddings
+
 ## [honeysales](https://www.honeysales.io)
 
 Agentic sales operating system that researches prospects and runs personalized outbound workflows.<br>
@@ -352,15 +364,6 @@ Agentic sales operating system that researches prospects and runs personalized o
 **PM roles:**
 
 - [Product Manager](https://honeysales-gmbh.jobs.personio.de/job/2679554?language=en) — Berlin or Germany remote
-
-## [Hostaway](https://www.hostaway.com)
-
-AI-powered operating system for vacation-rental managers, covering distribution, guest communication, revenue, and operations.<br>
-  👥 500+ · 💰 [Growth investment, $365m (2024)](https://www.hostaway.com/blog/hostaway-raises-365-million/) · 💼 ~[openings](https://careers.hostaway.com/)<br>
-
-**PM roles:**
-
-- [Staff Product Manager – AI](https://careers.hostaway.com/o/staff-product-manager-ai-remote-emea/c/new) — EMEA remote; Berlin explicitly listed
 
 ## [Hypatos](https://www.hypatos.ai)
 
@@ -407,6 +410,7 @@ Streaming discovery and recommendation engine built from global viewing data.<br
 **PM roles:**
 
 - [Product Manager – MarTech](https://www.justwatch.com/talent/jobs/tech/product-manager-%E2%80%93-martech) — Berlin
+- [Working Student Product Manager – MarTech](https://www.justwatch.com/talent/jobs/tech/working-student-product-manager-%E2%80%93-martech) — Berlin; part-time
 
 ## [Kestra](https://kestra.io)
 
@@ -425,24 +429,6 @@ Product-development system for teams and AI agents to plan, build, and track sof
 **PM roles:**
 
 - [Product Manager](https://jobs.ashbyhq.com/Linear/86abcce0-04b2-405c-9a8e-e0ca84813914) — Europe remote
-
-## [Litmus](https://litmus.io)
-
-Industrial edge-data platform that connects and contextualizes operational-technology data for analytics and AI applications.<br>
-  👥 ~90 · 💰 [Strategic investment, amount undisclosed (2025)](https://litmus.io/newsroom/litmus-secures-additional-investment-led-by-insight-partners-to-accelerate) · 💼 [30](https://jobs.ashbyhq.com/litmus)<br>
-
-**PM roles:**
-
-- [Senior Product Manager, Cloud, AI & Strategic Partnerships](https://jobs.ashbyhq.com/litmus/5dd5a528-7c2c-49eb-8096-1bf1ce1ebd85) — Germany; hybrid
-
-## [LivePerson](https://www.liveperson.com)
-
-Conversational-AI platform for customer-service agents, automation, messaging, and enterprise contact centers.<br>
-  👥 500–1,000 · 💰 [Public company (NASDAQ: LPSN)](https://ir.liveperson.com/resources/investor-faqs/) · 💼 [17](https://job-boards.greenhouse.io/liveperson)<br>
-
-**PM roles:**
-
-- [Senior Product Manager – Agent Experience](https://job-boards.greenhouse.io/liveperson/jobs/8088754) — Berlin
 
 ## [Matrix42](https://www.matrix42.com)
 
@@ -463,15 +449,6 @@ AI-native sourcing and supplier-management suite for procurement organizations.<
 
 - [Technical Product Manager – Integrations](https://mercanis.jobs.personio.de/job/2401151?language=en) — Berlin
 
-## [Mistral AI](https://mistral.ai)
-
-Frontier language models, developer tools, AI assistants, and infrastructure for enterprise and sovereign AI deployments.<br>
-  👥 1,000+ · 💰 [Series C, €1.7bn at an €11.7bn post-money valuation (2025)](https://mistral.ai/fr/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/) · 💼 [165](https://jobs.ashbyhq.com/mistral.ai)<br>
-
-**PM roles:**
-
-- [Product Manager, Vibe](https://jobs.ashbyhq.com/mistral.ai/036efa0f-73c4-4737-b4ad-c4e834e5b31c) — Berlin, Munich, Amsterdam, London, Paris, or Zurich
-
 ## [n8n](https://n8n.io)
 
 Open workflow-automation and AI-orchestration platform for connecting applications, tools, models, and agents.<br>
@@ -479,32 +456,38 @@ Open workflow-automation and AI-orchestration platform for connecting applicatio
 
 **PM roles:**
 
-- [AI Product Manager](https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893) — Berlin or Germany remote
 - [Senior Product Manager – Core Platform](https://jobs.ashbyhq.com/n8n/d418f8fb-b2f2-405e-8f22-db73dcf4e8b4) — Berlin or Germany remote
 
 ## [Nebius](https://nebius.com)
 
 Full-stack AI cloud providing GPU infrastructure, managed compute, storage, networking, and model-serving services.<br>
-  👥 1,500+ · 💰 [Public company (NASDAQ: NBIS)](https://nebius.com/investor-hub) · 💼 [334](https://careers.nebius.com/)<br>
+  👥 1,500+ · 💰 [Public company (NASDAQ: NBIS)](https://nebius.com/investor-hub) · 💼 [355](https://careers.nebius.com/)<br>
 
 **PM roles:**
 
+- [Group Product Manager – Platform Experience](https://careers.nebius.com/?gh_jid=4945631101) — Europe remote
 - [Product Manager – Security](https://careers.nebius.com/?gh_jid=4711796101) — Berlin or Europe remote
-- [Senior Technical Product Manager – Serverless AI](https://careers.nebius.com/?gh_jid=4849763101) — Europe remote
-- [Senior Technical Product Manager – Token Factory](https://careers.nebius.com/?gh_jid=4921994101) — Europe remote
-- [Technical Product Manager – AI Compute Platform](https://careers.nebius.com/?gh_jid=4897805101) — Europe remote
+- [Senior Technical Product Manager – Compute API & Experience](https://careers.nebius.com/?gh_jid=4897805101) — Europe remote
 - [Technical Product Manager – Soperator](https://careers.nebius.com/?gh_jid=4737052101) — Berlin or Europe remote
 - [Technical Product Manager – Storage](https://careers.nebius.com/?gh_jid=4907634101) — Europe remote
-- [Technical Product Manager – WAN & Network Connectivity](https://careers.nebius.com/?gh_jid=4907631101) — Berlin or Europe remote
 
 ## [Nelly](https://www.getnelly.de)
 
 AI-supported financial and administrative operating system for medical practices.<br>
-  👥 201–500 · 💰 [Series B, €50m (2025)](https://www.getnelly.de/en/blog/nelly-series-b) · 💼 [17](https://jobs.ashbyhq.com/nelly)<br>
+  👥 201–500 · 💰 [Series B, €50m (2025)](https://www.getnelly.de/en/blog/nelly-series-b) · 💼 [18](https://jobs.ashbyhq.com/nelly)<br>
 
 **PM roles:**
 
-- [Senior AI Product Manager](https://jobs.ashbyhq.com/nelly/96b7ab60-cddd-4813-a0aa-84dc9e11d7d9) — Berlin
+- [Product Growth Manager](https://jobs.ashbyhq.com/nelly/e1974165-2055-48f1-918c-5e8cc66358e0) — Berlin; hybrid; owns growth across software, AI, and fintech surfaces
+
+## [Nodes & Links](https://nodeslinks.com/)
+
+Agentic-AI construction platform that predicts project risks, automates reporting, and surfaces real-time delivery insights.<br>
+  👥 11–50 · 💰 [Series B, $12m (2025)](https://nodeslinks.com/blog/nodes-links-raises-12m-to-transform-12t-construction-industry-with-ai/) · 💼 ~[openings](https://app.screenloop.com/careers/nodesandlinks/)<br>
+
+**PM roles:**
+
+- [Growth Product Owner](https://app.screenloop.com/careers/nodesandlinks/job_posts/8782) — Germany remote · 💰 €40k–€60k yearly salary
 
 ## [Nucs AI](https://www.nucs.ai)
 
@@ -550,17 +533,18 @@ Analytics for measuring and improving brand visibility in AI search answers.<br>
 **PM roles:**
 
 - [Product Manager](https://jobs.ashbyhq.com/peec/8a50a6b5-e62c-4b12-8fc3-619aae18e3d2) — Berlin
-- [Product Manager, Agents](https://jobs.ashbyhq.com/peec/b662c87a-f190-4872-99c0-b423d7079ff8) — Berlin
+- [Product Manager, Agents](https://jobs.ashbyhq.com/peec/b662f02a-5d3b-4eba-a5d8-83c16026394a) — Berlin
 
 ## [Pencil](https://www.trypencil.com)
 
 Generative-AI advertising platform for planning, creating, and optimizing brand-safe marketing content and workflows.<br>
-  👥 ~200 · 💰 [Acquired by The Brandtech Group (2023)](https://jobs.ashbyhq.com/pencil/e4bbf9ae-0be6-455f-8b24-f960be4c6f2c) · 💼 [9](https://jobs.ashbyhq.com/pencil)<br>
+  👥 ~200 · 💰 [Acquired by The Brandtech Group (2023)](https://jobs.ashbyhq.com/pencil/e4bbf9ae-0be6-455f-8b24-f960be4c6f2c) · 💼 [19](https://jobs.ashbyhq.com/pencil)<br>
 
 **PM roles:**
 
 - [Senior Product Manager](https://jobs.ashbyhq.com/pencil/e4bbf9ae-0be6-455f-8b24-f960be4c6f2c) — EMEA remote
 - [Lead Product Manager – Editor](https://jobs.ashbyhq.com/pencil/765370fa-a2b2-487f-af2e-73a53cd1bad6) — EMEA remote
+- [Product Manager – Media](https://jobs.ashbyhq.com/pencil/e5fae779-63bd-43d8-b21c-646786d52a97) — EMEA remote
 
 ## [PiNCAMP](https://www.pincamp.de)
 
@@ -580,15 +564,6 @@ B2B payments and corporate-card platform developing AI-first experiences for fin
 
 - [(Senior) Product Manager – AI Experience](https://jobs.ashbyhq.com/pliant/70f384cf-1256-49df-85c7-82c241aba71b) — EU/UK remote
 
-## [Qonto](https://qonto.com)
-
-Finance workspace for European SMEs using machine learning and LLMs for transaction categorization, cash-flow tools, and document matching.<br>
-  👥 1,600+ · 💰 [Series D, €486m (2022)](https://qonto.com/en/blog/qonto/company-news/qonto-raises-486-million-euros) · 💼 [39](https://jobs.lever.co/qonto)<br>
-
-**PM roles:**
-
-- [Staff Product Manager – AI Products](https://jobs.lever.co/qonto/7c6908ae-fa05-49a2-8680-ca1aeb885460) — Berlin, Paris, Milan, or Barcelona; hybrid
-
 ## [Qorelo](https://www.qorelo.com)
 
 Agentic AI delivery system for planning and executing SAP transformations.<br>
@@ -606,7 +581,15 @@ Enterprise platform and open-source framework for building governed conversation
 **PM roles:**
 
 - [Director of Product Management](https://jobs.ashbyhq.com/Rasa/4d17796c-be9e-45e0-91fc-b101e4156039) — Germany or UK remote; Berlin preferred
-- [Senior Product Manager – Infrastructure](https://jobs.ashbyhq.com/Rasa/a80e960f-ea30-413b-b79d-c37a7df4c658/) — Germany, Serbia, or UK remote
+
+## [Refurbed](https://www.refurbed.de)
+
+European recommerce marketplace using machine learning for pricing, ranking, recommendations, and marketplace steering.<br>
+  👥 300+ · 💰 [Growth round, €50m (2025)](https://www.refurbed.de/a/refurbed-deutschland-pr-investment-2025/) · 💼 ~[openings](https://www.refurbed.de/jobs/)<br>
+
+**PM roles:**
+
+- [Machine Learning Product Manager](https://www.refurbed.de/jobs/?gh_jid=4906140101) — Europe remote, including the UK; valid local work authorization required
 
 ## [Remote](https://remote.com)
 
@@ -627,14 +610,14 @@ AI-native operating system for renewable-energy installers, covering sales, desi
 - [Growth Product Manager – Italy](https://jobs.ashbyhq.com/reonic/5b4b65b1-6c2b-4166-8bfa-deaf27de430e) — Berlin
 - [Growth Product Manager – UK](https://jobs.ashbyhq.com/reonic/451974a6-bd7f-4fff-a2b0-5da1d6d1eb97) — Berlin
 
-## [Root Global](https://www.rootglobal.io)
+## [RIB Software](https://www.rib-software.com/)
 
-AI-enabled enterprise climate platform for measuring and reducing emissions across food and agricultural supply chains.<br>
-  👥 11–50 · 💰 [Seed, €8m (2024)](https://www.rootglobal.io/press-articles); more than €10m total funding disclosed in current job posts · 💼 [3](https://jobs.ashbyhq.com/rootglobal)<br>
+Construction and AEC software combining analytics, configurable dashboards, and AI-assisted product experiences.<br>
+  👥 2,300+ · 💰 [Wholly owned by Schneider Electric](https://www.rib-software.com/de/ueber-rib) · 💼 ~[openings](https://aveva.wd3.myworkdayjobs.com/RIB_Careers)<br>
 
 **PM roles:**
 
-- [Founding Product Manager](https://jobs.ashbyhq.com/rootglobal/8b618929-5509-4074-91dc-fb8cd0c2e3cd) — Berlin; on-site
+- [Agile Product Owner – Analytics Platform, Scrum, AI & Data](https://aveva.wd3.myworkdayjobs.com/en-US/RIB_Careers/job/Berlin-Germany/Agile-Product-Owner--m-f--Analytics-Plattform---Scrum--AI---Data_R014861) — Berlin
 
 ## [Ruby Labs](https://rubylabs.com)
 
@@ -643,11 +626,8 @@ Remote consumer-technology company building and operating AI products across hea
 
 **PM roles:**
 
-- [Head of Product](https://jobs.ashbyhq.com/ruby-labs/425aa85f-b49a-415d-86dc-e3fce2465e4e) — European Union remote
 - [Product Owner](https://jobs.ashbyhq.com/ruby-labs/7ac14e51-8052-4bf1-97b6-14fede5dcfb3) — European Union remote
-- [Senior Growth Product Manager](https://jobs.ashbyhq.com/ruby-labs/6336bb39-e326-4054-96c0-2831cfa9e56a) — European Union remote
 - [Senior Product Manager](https://jobs.ashbyhq.com/ruby-labs/d4ebc9dc-a05a-4906-8bb7-c26810ae5602) — European Union remote
-- [Technical AI Product Manager](https://jobs.ashbyhq.com/ruby-labs/2f4ce81b-a9df-4e4b-a6a7-09a161e81dbe) — European Union remote
 
 ## [SAP](https://www.sap.com)
 
@@ -657,6 +637,15 @@ Enterprise applications and Business AI for finance, supply chain, human resourc
 **PM roles:**
 
 - [Area Product Owner – Industry Knowledge Graphs](https://jobs.sap.com/job/Berlin-Area-Product-Owner-%28fmd%29-for-the-Industry-Knowledge-Graphs-10557/1407043433/) — Berlin; hybrid; owns knowledge graphs that ground generative-AI and foundation-model applications
+
+## [Scalable Capital](https://de.scalable.capital/en)
+
+Digital investing and banking platform building a shared AI platform for models, LLM applications, and internal agents.<br>
+  👥 700+ · 💰 [Growth round, €155m (2025); €470m+ total funding](https://de.scalable.capital/en/newsroom/funding-round-2025) · 💼 ~[openings](https://jobs.smartrecruiters.com/ScalableGmbH)<br>
+
+**PM roles:**
+
+- [Product Manager – AI Platform](https://jobs.smartrecruiters.com/ScalableGmbH/744000140458474) — Berlin; hybrid
 
 ## [Sereact](https://sereact.ai)
 
@@ -684,17 +673,20 @@ AI-enabled, software-defined unmanned systems for defence missions.<br>
 **PM roles:**
 
 - [Product Manager – Safety Critical Systems](https://stark.jobs.personio.com/job/2680589) — Berlin
+- [Product Manager – Localization & Navigation](https://stark.jobs.personio.com/job/2704109) — Berlin or Munich; owns localization, navigation, computer-vision, and autonomy capabilities
+- [Technical Product Manager](https://stark.jobs.personio.com/job/2764928) — Berlin
 
 ## [Supabase](https://supabase.com)
 
 Open-source backend and Postgres developer platform used to build data-intensive, vector-search, and AI applications.<br>
-  👥 ~400 · 💰 [Series F, $500m; more than $1bn total funding (company-stated)](https://supabase.com/blog/supabase-series-f) · 💼 [51](https://jobs.ashbyhq.com/supabase)<br>
+  👥 ~400 · 💰 [Series F, $500m; more than $1bn total funding (company-stated)](https://supabase.com/blog/supabase-series-f) · 💼 [58](https://jobs.ashbyhq.com/supabase)<br>
 
 **PM roles:**
 
 - [Product Manager – Marketplace](https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441) — global remote
 - [Product Manager – Security & Trust](https://jobs.ashbyhq.com/supabase/b8010a28-109c-46a9-b8b7-c7f9b24077fa) — EMEA or Americas remote
 - [Product Manager – Infrastructure](https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c) — global remote
+- [Product Manager – Branching](https://jobs.ashbyhq.com/supabase/9773ea1b-e25b-437c-bdbd-3fce0c69101e) — global remote; develops database branching workflows for humans and coding agents
 
 ## [Superchat](https://www.superchat.com)
 
@@ -703,18 +695,9 @@ Unified business-messaging platform with AI agents for customer service and sale
 
 **PM roles:**
 
-- [Product Manager – Core](https://www.superchat.com/careers/4872981101) — Berlin
-- [Product Manager – Integrations](https://www.superchat.com/careers/4873019101) — Berlin
-- [Senior Product Manager – Core](https://www.superchat.com/careers/4955759101) — Berlin
-
-## [Superhuman](https://superhuman.com)
-
-AI productivity suite combining Grammarly, Docs, Mail, and cross-application agents.<br>
-  👥 1,500+ · 💰 [Superhuman Mail acquired by Grammarly; amount undisclosed (2025)](https://blog.superhuman.com/superhuman-is-being-acquired-by-grammarly/) · 💼 [82](https://jobs.ashbyhq.com/superhuman%20platform%20inc)<br>
-
-**PM roles:**
-
-- [Senior Product Manager – Agents](https://jobs.ashbyhq.com/superhuman%20platform%20inc/a3d52c7b-44b3-4e3f-9027-1d7cebb1b0dd) — Berlin hub
+- [Senior Technical Product Owner – Core](https://www.superchat.com/careers/4955759101) — Berlin
+- [Technical Product Owner – Core](https://www.superchat.com/careers/4872981101) — Berlin
+- [Technical Product Owner – Integrations](https://www.superchat.com/careers/4873019101) — Berlin
 
 ## [Synthesia](https://www.synthesia.io)
 
@@ -723,9 +706,7 @@ Generative-AI video platform for creating, editing, localizing, and governing en
 
 **PM roles:**
 
-- [Product Manager – Enterprise](https://jobs.ashbyhq.com/synthesia/31e1dca3-74fd-4f74-8f40-5bb19f4034bb) — Europe remote
 - [Product Manager – Growth](https://jobs.ashbyhq.com/synthesia/85e7b0df-f603-416b-a7bd-3331b6576186) — Europe remote
-- [Product Manager – New Product Bet](https://jobs.ashbyhq.com/synthesia/c2ba6d4d-f991-4432-a9c8-1514a93b08bb) — Europe remote
 
 ## [Taktile](https://www.taktile.com)
 
@@ -745,6 +726,15 @@ AI-first property-management service automating tenant and building operations.<
 
 - [Senior Technical Product Manager – Data](https://hallotheo.softgarden.io/job/65853941?l=en) — Berlin
 
+## [think-cell](https://www.think-cell.com)
+
+Productivity software for PowerPoint and Excel with an AI assistant for analysis, chart creation, editing, and translation.<br>
+  👥 220+ · 💰 [Majority investment by Cinven; amount undisclosed (2021)](https://www.cinven.com/news-insights/cinven-to-make-a-majority-investment-in-think-cell/) · 💼 ~[openings](https://job-boards.eu.greenhouse.io/thinkcellsoftware)<br>
+
+**PM roles:**
+
+- [Principal Product Manager – AI Product](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4952453101) — Berlin; four office days per week
+
 ## [Togal AI](https://www.togal.ai)
 
 AI construction-estimating platform that reads plans, performs takeoffs, and automates trade-specific estimating workflows.<br>
@@ -752,7 +742,7 @@ AI construction-estimating platform that reads plans, performs takeoffs, and aut
 
 **PM roles:**
 
-- [Senior Product Manager – Trades](https://jobs.ashbyhq.com/togal-ai/d249803f-5c33-4d63-95e1-8a9b2ae95e72) — EMEA remote
+- [Senior Product Manager – Trades](https://jobs.ashbyhq.com/togal-ai/1ce02e93-6b0b-4496-8f36-44ddf93b01c1) — EMEA remote
 
 ## [traide AI](https://www.traide.ai)
 
@@ -761,7 +751,7 @@ AI trade-compliance platform for tariff classification and customs decisions.<br
 
 **PM roles:**
 
-- [Product Manager – Trade Intelligence](https://traide-ai.jobs.personio.com/job/2715361?language=en) — Berlin
+- [Senior Product Manager – Trade Intelligence](https://traide-ai.jobs.personio.com/job/2715361?language=en) — Berlin
 
 ## [Typeform](https://www.typeform.com)
 
@@ -771,7 +761,6 @@ Form, survey, and conversational-data platform developing AI-first analytics and
 **PM roles:**
 
 - [Senior Product Manager](https://job-boards.greenhouse.io/typeform/jobs/8121116) — Germany remote; role explicitly shapes the company's AI-first direction
-- [Senior Product Manager – Analytics](https://job-boards.greenhouse.io/typeform/jobs/7090089) — Germany remote
 - [Senior Product Manager – Create](https://job-boards.greenhouse.io/typeform/jobs/8066471) — Germany remote
 
 ## [vCluster Labs](https://www.vcluster.com)
@@ -782,6 +771,15 @@ Kubernetes virtualization and GPU-infrastructure platform for platform teams and
 **PM roles:**
 
 - [Senior Product Manager (vMetal)](https://jobs.ashbyhq.com/vClusterLabs/a3e4dd4c-84d6-4ca8-ba09-b84d819e7404) — EMEA remote · 💰 €115k–€130k yearly base in Germany + equity and bonus
+
+## [Viessmann Climate Solutions](https://www.viessmann-climatesolutions.com/)
+
+Digital climate and energy systems whose Climate-as-a-Service team is scaling customer and installer workflows with automation and AI.<br>
+  👥 12,000+ · 💰 [Acquired by Carrier (2024)](https://www.viessmann-climatesolutions.com/en/newsroom/company/carrier-completes-acquisition-of-viessmann-climate-solutions.html) · 💼 [83](https://jobs.carrier.com/en/search_jobs?acm=ALL&alrpm=ALL&ascf=%5B%7B%22key%22%3A%22custom_fields.Viessmann%22%2C%22value%22%3A%22VCSGermany%22%7D%5D)<br>
+
+**PM roles:**
+
+- [Product Manager – Automation & AI](https://jobs.carrier.com/en/job/berlin/produkt-manager-m-w-d-automatisierung-and-ai/29289/99535080720) — Berlin or Allendorf; German-language role · 💰 €59,000–€117,646 yearly salary
 
 ## [voize](https://www.voize.ai)
 
@@ -808,7 +806,11 @@ European fashion platform using AI for personalization, partner operations, logi
 
 **PM roles:**
 
+- [Principal Product Manager – Lounge Data Platform](https://zalando.wd3.myworkdayjobs.com/en-US/ZalandoSiteWD/job/Berlin/Principal-Product-Manager---Lounge-Data-Platform--all-genders-_2724985-1) — Berlin; builds an AI-ready data foundation for agents, machine learning, and predictive models
+- [Principal Product Manager – Pricing Product](https://jobs.zalando.com/en/jobs/2724685) — Berlin; owns ML forecasting and price-optimization products
+- [Senior Principal Product Manager – Post-Purchase Engagement](https://jobs.zalando.com/en/jobs/2724716) — Berlin; develops AI-enabled and agentic post-purchase experiences
 - [Senior Principal Product Manager – Partner Experience & AI Platform](https://jobs.zalando.com/en/jobs/2723860-Senior-Principal-Product-Manager-%E2%80%93-Partner-Experie) — Berlin or Helsinki; Berlin application is available
+- [Senior Principal Product Manager – Search](https://jobs.zalando.com/en/jobs/2724971) — Berlin; leads semantic search, LLM, vector-search, ranking, and generative-AI experiences
 
 ## [Zendesk](https://www.zendesk.com)
 
@@ -817,8 +819,7 @@ AI-first customer- and employee-service platform building autonomous agents and 
 
 **PM roles:**
 
-- [Senior Product Manager, AI Agents Testing](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Remote-Germany/Senior-Product-Manager--AI-Agents-Testing_R34948) — Germany remote; other European locations also listed
-- [Senior Product Manager, AI Agents](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Senior-Product-Manager--AI-Agents_R35259) — Berlin or Germany remote; other European locations also listed
+- [Senior Product Manager, AI Agents](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Berlin-Germany/Senior-Product-Manager--AI-Agents_R35259) — Berlin or Germany remote; other European locations also listed
 
 ## [Zeta Global](https://zetaglobal.com)
 

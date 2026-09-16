@@ -10,7 +10,7 @@ Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no lon
 
 <br>
 
-**Directory verified:** 21 August 2026 · **Latest addition checked:** 25 August 2026 · **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
+**Directory composition verified:** 21 August 2026 · **Latest addition checked:** 25 August 2026 · **Overlapping company facts** (team, funding, openings) aligned with the jobs tracker of 12 September 2026 · **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
 </div>
 
@@ -20,7 +20,7 @@ Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no lon
 
 | List | What it covers |
 | --- | --- |
-| [AI PM roles in Germany](AI_PM_ROLES_IN_GERMANY.md) | The single jobs tracker: 129 roles across 86 companies, covering local, Germany-remote, EMEA-remote, and global-remote work. |
+| [AI PM roles in Germany](AI_PM_ROLES_IN_GERMANY.md) | The single jobs tracker: 126 roles across 87 companies, covering local, Germany-remote, EMEA-remote, and global-remote work. Many employers are not Berlin startups; see that file's inclusion note. |
 
 ## How to read an entry
 
@@ -31,7 +31,7 @@ Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no lon
 
 - **👥** team size, from the company's own figures or its public LinkedIn profile. `~` means approximate.
 - **💰** latest disclosed round, with amount and year when a source states them. Undisclosed amounts are labelled as such rather than guessed, and pre-seed and Seed are not added together unless a source reports a total.
-- **💼** open roles. A number links to the company's own board; `~openings` means the board does not expose a reliable count and the link is a search.
+- **💼** open roles. A number links to the company's own board and is the board's published total — often worldwide, not Berlin-only — unless the URL is location-filtered. `~openings` means the board does not expose a reliable count and the link is a search. A missing 💼 field means openings were not recorded at the last directory pass, not that the company is closed.
 
 <a id="browse-by-industry"></a>
 
@@ -69,7 +69,7 @@ A working directory for people who need to know who is actually building AI in B
 ## 🧠 Foundation models, AI infrastructure and developer tools
 
 **[Affinidi](https://www.affinidi.com)**: Trust infrastructure that gives AI agents verifiable identity, policy guardrails, and real-time observability.<br>
-  👥 100+ · 💰 [Temasek-backed corporate venture](https://www.affinidi.com/newsroom/) · 💼 [9](https://job-boards.greenhouse.io/affinidi)
+  👥 100+ · 💰 [Temasek-backed corporate venture](https://www.affinidi.com/newsroom/) · 💼 [11](https://job-boards.greenhouse.io/affinidi)
 
 **[Agenta](https://agenta.ai)**: Open-source evaluation, observability, and prompt management for production LLM applications.<br>
   👥 ~9 · 💰 Seed, $1.1m (2024)
@@ -126,7 +126,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 1,000+ · 💰 [Series C, €1.7bn at an €11.7bn post-money valuation (2025)](https://mistral.ai/fr/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/) · 💼 [165](https://jobs.ashbyhq.com/mistral.ai)
 
 **[n8n](https://n8n.io)**: Workflow-automation platform combining integrations, code, and AI agents.<br>
-  👥 ~1,165 · 💰 Series C, $180m (2025) · 💼 [37](https://jobs.ashbyhq.com/n8n)
+  👥 ~1,165 · 💰 [Series C, $180m; $240m total funding (2025)](https://blog.n8n.io/series-c/) · 💼 [39](https://jobs.ashbyhq.com/n8n)
 
 **[Nota AI](https://www.nota.ai)**: Model-compression and edge-AI optimization software for constrained hardware.<br>
   👥 201–500 · 💰 Series C, $19.9m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Nota%20AI&location=Berlin%2C%20Germany)
@@ -147,16 +147,16 @@ A working directory for people who need to know who is actually building AI in B
   👥 ~147 · 💰 Series B, $50m (2026) · 💼 [1](https://www.linkedin.com/company/qdrant/jobs/)
 
 **[Rasa](https://rasa.com)**: Conversational-AI framework and enterprise platform for controlled assistants.<br>
-  👥 ~186 · 💰 Series C, $30m (2020)
+  👥 ~110 · 💰 [Series C, $30m (2024)](https://www.linkedin.com/posts/rasa_correcting-and-replacing-rasa-raises-30-activity-7163493729637494785-ZZMW) · 💼 [4](https://jobs.ashbyhq.com/Rasa)
 
 **[Superduper](https://superduper.io)**: Open-source framework for building AI applications directly on enterprise data.<br>
   👥 ~6 · 💰 Seed, $1.77m
 
 **[Superhuman](https://superhuman.com)**: AI productivity suite combining Grammarly, Docs, Mail, and cross-application agents.<br>
-  👥 1,500+ · 💰 [Superhuman Mail acquired by Grammarly; amount undisclosed (2025)](https://blog.superhuman.com/superhuman-is-being-acquired-by-grammarly/) · 💼 [82](https://jobs.ashbyhq.com/superhuman%20platform%20inc)
+  👥 1,500+ · 💰 [Superhuman Mail acquired by Grammarly; amount undisclosed (2025)](https://blog.superhuman.com/superhuman-is-being-acquired-by-grammarly/) · 💼 [82](https://jobs.ashbyhq.com/superhuman)
 
 **[Synthesia](https://www.synthesia.io)**: Enterprise generative-video platform with AI avatars, voices, and localization.<br>
-  👥 500+ · 💰 [Series E, $200m at a $4bn valuation (2026)](https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work) · 💼 [62](https://jobs.ashbyhq.com/synthesia)
+  👥 500+ · 💰 [Series E, $200m at a $4bn valuation (2026)](https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work) · 💼 [56](https://jobs.ashbyhq.com/synthesia)
 
 **[TextCortex](https://textcortex.com)**: Customizable enterprise writing and knowledge assistant powered by language models.<br>
   👥 11–50 · 💰 Seed, $5m (2022) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=TextCortex&location=Berlin%2C%20Germany)
@@ -187,13 +187,13 @@ A working directory for people who need to know who is actually building AI in B
   👥 201–500 · 💰 Series B, $66m (2021) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=BRYTER&location=Berlin%2C%20Germany)
 
 **[CANDIS](https://www.candis.io)**: AI-assisted invoice capture, approval, and accounting workflows for finance teams.<br>
-  👥 51–200 · 💰 Series C, €16m (2022) · 💼 [2](https://jobs.candis.io/jobs)
+  👥 51–200 · 💰 Series C, €16m (2022) · 💼 [3](https://jobs.candis.io/jobs)
 
 **[Cogram](https://www.cogram.com)**: AI meeting assistant that produces notes, actions, and structured project documentation.<br>
   👥 11–50 · 💰 Seed, $3m · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Cogram&location=Berlin%2C%20Germany)
 
 **[Cortea](https://www.cortea.ai)**: AI quality and evidence layer for audit and assurance firms.<br>
-  👥 ~19 · 💰 [Seed, €12m (2026)](https://www.cortea.ai/blog/cortea-raises-12-mil-to-improve-audit-quality-with-ai) · 💼 [14](https://jobs.ashbyhq.com/cortea)
+  👥 ~19 · 💰 [Seed, €12m (2026)](https://www.cortea.ai/blog/cortea-raises-12-mil-to-improve-audit-quality-with-ai) · 💼 [12](https://jobs.ashbyhq.com/cortea)
 
 **[Datarade](https://datarade.ai)**: Marketplace and discovery platform for commercial data used in analytics and AI.<br>
   👥 ~7 · 💰 Series A, €7m (2022)
@@ -205,7 +205,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 ~43 · 💰 Corporate-backed scaleup
 
 **[Hypatos](https://www.hypatos.ai)**: AI document processing and autonomous finance operations for enterprises.<br>
-  👥 ~103 · 💰 Series A, $11.8m (2021)
+  👥 80+ · 💰 [Series A, €27m](https://www.hypatos.ai/about-us) · 💼 [4](https://hypatos-gmbh.jobs.personio.com/?language=en)
 
 **[kyp.ai](https://www.kyp.ai)**: Process-intelligence platform that identifies automation and productivity opportunities.<br>
   👥 51–200 · 💰 Series A, €17.5m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=kyp.ai&location=Berlin%2C%20Germany)
@@ -235,7 +235,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 ~96 · 💰 Series B, $30m (2026) · 💼 [7](https://www.linkedin.com/company/spread-ai/jobs/)
 
 **[traide AI](https://www.traide.ai)**: AI trade-compliance platform for tariff classification and customs decisions.<br>
-  👥 ~26 · 💰 Series A, €7m (2025) · 💼 [9](https://www.linkedin.com/company/traide-ai/jobs/)
+  👥 ~26 · 💰 Series A, €7m (2025) · 💼 [10](https://traide-ai.jobs.personio.com/)
 
 **[Tucan](https://tucan.ai)**: AI transcription and knowledge workflows for meetings and regulated organizations.<br>
   👥 ~9 · 💰 Seed, €1m+
@@ -275,7 +275,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 11–50 · 💰 Seed, €3.5m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=muffintech&location=Berlin%2C%20Germany)
 
 **[Parloa](https://www.parloa.com)**: Enterprise platform for AI voice agents in customer service.<br>
-  👥 ~558 · 💰 Series D, $350m (2026) · 💼 [47](https://job-boards.eu.greenhouse.io/parloa)
+  👥 ~558 · 💰 Series D, $350m (2026) · 💼 [51](https://job-boards.eu.greenhouse.io/parloa)
 
 **[Solda AI](https://www.solda.ai)**: Autonomous multilingual voice and text agents that run end-to-end telesales cycles.<br>
   👥 11–50 · 💰 Seed, €4m (2025)
@@ -292,8 +292,8 @@ A working directory for people who need to know who is actually building AI in B
 **[Twain](https://www.twain.ai)**: AI sales coach and message-writing assistant for outbound teams.<br>
   👥 11–50 · 💰 Seed, $4.5m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Twain%20AI&location=Berlin%2C%20Germany)
 
-**[voize](https://www.voize.de)**: Speech recognition that turns nurses' spoken notes into structured care documentation.<br>
-  👥 ~151 · 💰 Series A, $50m (2025) · 💼 [38](https://jobs.ashbyhq.com/voize)
+**[voize](https://www.voize.ai)**: Speech recognition that turns nurses' spoken notes into structured care documentation.<br>
+  👥 ~151 · 💰 [Series A, $50m (2025)](https://www.voize.ai/de/blog/series-a-funding) · 💼 [49](https://jobs.ashbyhq.com/voize)
 
 **[Wonderful](https://www.wonderful.ai)**: Multilingual AI agents for enterprise customer operations.<br>
   👥 51–200 · 💰 Seed, $34m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Wonderful%20AI&location=Berlin%2C%20Germany)
@@ -309,7 +309,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 11–50 · 💰 Series A, €12m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Baobab%20cyber&location=Berlin%2C%20Germany)
 
 **[bunch](https://www.bunch.capital)**: AI-native fund operations and reporting infrastructure for private-market investors.<br>
-  👥 201–500 · 💰 [Series B, $35m (2026)](https://www.bunch.capital/blog-posts/bunch-sammelt-35-millionen-us-dollar-in-series-b-um-legacy-fund-operations-durch-ki-native-infrastruktur-zu-ersetzen) · 💼 [26](https://jobs.ashbyhq.com/bunch)
+  👥 201–500 · 💰 [Series B, $35m (2026)](https://www.bunch.capital/blog-posts/bunch-sammelt-35-millionen-us-dollar-in-series-b-um-legacy-fund-operations-durch-ki-native-infrastruktur-zu-ersetzen) · 💼 [28](https://jobs.ashbyhq.com/bunch)
 
 **[Cakewalk](https://www.getcakewalk.io)**: AI identity-governance and access-review automation for modern SaaS stacks.<br>
   👥 11–50 · 💰 Seed, $7.5m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Cakewalk%20Berlin&location=Berlin%2C%20Germany)
@@ -321,13 +321,13 @@ A working directory for people who need to know who is actually building AI in B
   👥 11–50 · 💰 Seed, $2.5m (2026) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Diligent%20AI%20Berlin&location=Berlin%2C%20Germany)
 
 **[Duna](https://duna.com)**: AI-native business identity and compliance platform for onboarding and verifying companies.<br>
-  👥 11–50 · 💰 Series A, €30m (2026) · 💼 ~[openings](https://duna.com/careers)
+  👥 11–50 · 💰 Series A, €30m (2026) · 💼 [10](https://duna.com/careers)
 
 **[Flank](https://flank.ai)**: Enterprise legal agents that answer requests and automate routine in-house work.<br>
   👥 51–200 · 💰 Seed, $10m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Flank%20legal%20AI&location=Berlin%2C%20Germany)
 
 **[IDnow](https://www.idnow.io)**: AI identity proofing, document verification, and fraud-prevention software.<br>
-  👥 ~474 · 💰 [Strategic majority investment by Corsair (2025)](https://idnow.io/insights/pr/idnow-announces-strategic-majority-investment-from-corsair-capital/) · 💼 [17](https://job-boards.eu.greenhouse.io/idnow)
+  👥 500+ · 💰 [Strategic majority investment by Corsair (2025)](https://idnow.io/insights/pr/idnow-announces-strategic-majority-investment-from-corsair-capital/) · 💼 [9](https://job-boards.eu.greenhouse.io/idnow)
 
 **[Inhubber](https://inhubber.com)**: AI contract analysis combined with secure contract lifecycle management and e-signatures.<br>
   👥 11–50 · 💰 Crowd financing, €1.14m (2025)
@@ -360,7 +360,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 11–50 · 💰 Series A, €12m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Rulemapping&location=Berlin%2C%20Germany)
 
 **[Taktile](https://www.taktile.com)**: AI decision platform for underwriting, fraud, and risk operations.<br>
-  👥 ~231 · 💰 Series C, $110m (2026) · 💼 [45](https://jobs.ashbyhq.com/taktile)
+  👥 ~231 · 💰 [Series C, $110m (2026)](https://taktile.com/articles/taktile-secures-110m-in-goldman-sachs-led-series-c-to-power-ai-transformation-in-financial-institutions) · 💼 [46](https://jobs.ashbyhq.com/taktile)
 
 **[Taxforce](https://taxforce.ai)**: AI-native tax workflow and compliance platform for professional firms.<br>
   👥 11–50 · 💰 Seed, €5m (2026) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Taxforce&location=Berlin%2C%20Germany)
@@ -379,7 +379,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 ~168 · 💰 Series B, $90m (2021)
 
 **[Aignostics](https://www.aignostics.com)**: Foundation-model pathology and biomarker discovery for precision medicine.<br>
-  👥 ~122 · 💰 [Series B, $34m (2024)](https://www.aignostics.com/news/aignostics-secures-34-million-series-b-to-enhance-precision-medicine-with-ai) · 💼 [2](https://www.linkedin.com/company/aignostics/jobs/)
+  👥 ~122 · 💰 [Series B, $34m (2024)](https://www.aignostics.com/news/aignostics-secures-34-million-series-b-to-enhance-precision-medicine-with-ai) · 💼 [2](https://aignostics.teamtailor.com/jobs)
 
 **[Ascléa](https://asclea.ai)**: Clinical AI platform for running hospital language models securely on premises.<br>
   👥 11–50 · 💰 Series A (2026, amount undisclosed) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Asclea%20AI&location=Berlin%2C%20Germany)
@@ -424,7 +424,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 ~80 · 💰 Growth round, €12m (2024) · 💼 [2](https://www.linkedin.com/company/mediaire/jobs/)
 
 **[Nelly](https://www.getnelly.de)**: AI-supported financial and administrative operating system for medical practices.<br>
-  👥 201–500 · 💰 Series B, €50m (2025) · 💼 [17](https://jobs.ashbyhq.com/nelly)
+  👥 201–500 · 💰 [Series B, €50m (2025)](https://www.getnelly.de/en/blog/nelly-series-b) · 💼 [21](https://jobs.ashbyhq.com/nelly)
 
 **[Nia Health](https://www.nia-health.de)**: AI-supported digital therapeutics and monitoring for chronic skin conditions.<br>
   👥 ~38 · 💰 Seed, €3.5m · 💼 [5](https://www.linkedin.com/company/nia-health/jobs/)
@@ -436,7 +436,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 ~14 · 💰 Seed, $5m (2021) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Nostos%20Genomics&location=Berlin%2C%20Germany)
 
 **[Nucs AI](https://www.nucs.ai)**: AI medical-imaging platform for prostate-cancer diagnosis, treatment planning, and longitudinal oncology workflows.<br>
-  👥 11–50 · 💰 [Seed, $3.5m (2024)](https://www.nucs.ai/resources/nucs-ai-closes-3-5-million-in-seed-funding-round) · 💼 [7](https://nucsai.recruitee.com/)
+  👥 11–50 · 💰 [Seed, $3.5m (2024)](https://www.nucs.ai/resources/nucs-ai-closes-3-5-million-in-seed-funding-round) · 💼 [11](https://nucsai.recruitee.com/)
 
 **[Nuuron](https://www.nuuron.com)**: Digital Alzheimer's therapy using ML-guided photonic neuromodulation and immersive interfaces.<br>
   👥 11–50 · 💰 Seed, €3.5m (2024)
@@ -487,8 +487,8 @@ A working directory for people who need to know who is actually building AI in B
 **[Almetra](https://almetra.ai)**: Computer-vision production analytics for identifying losses and improving factory output.<br>
   👥 ~54 · 💰 Series A, €16.3m (2026)
 
-**[Andercore](https://andercore.com)**: AI-native procurement and supply-chain platform for industrial materials.<br>
-  👥 51–200 · 💰 [Series B, $40m (2026)](https://www.andercore.com/press/andercore-secures-40m-series-b-for-ai-driven-industrial-trade-platform) · 💼 [33](https://jobs.ashbyhq.com/andercore)
+**[Andercore](https://www.andercore.com)**: AI-native procurement and supply-chain platform for industrial materials.<br>
+  👥 51–200 · 💰 [Series B, $40m (2026)](https://www.andercore.com/press/andercore-secures-40m-series-b-for-ai-driven-industrial-trade-platform) · 💼 [31](https://jobs.ashbyhq.com/andercore)
 
 **[Deltia](https://www.deltia.ai)**: Computer vision and AI copilots for improving assembly-line productivity and quality.<br>
   👥 11–50 · 💰 Seed, €4.5m (2024)
@@ -543,7 +543,7 @@ A working directory for people who need to know who is actually building AI in B
 ## 🌱 Climate, energy, agriculture and environmental intelligence
 
 **[1KOMMA5°](https://1komma5.com)**: Heartbeat AI virtual power plant and energy-management platform for distributed home-energy assets.<br>
-  👥 ~2,500 · 💰 [Pre-IPO round, €150m (2025)](https://1komma5.com/en/press/press-releases/1komma5-extends-pre-ipo-round/) · 💼 [316](https://1komma5grad.jobs.personio.de/)
+  👥 3,000+ · 💰 [Pre-IPO round, €150m (2025)](https://1komma5.com/en/press/press-releases/1komma5-extends-pre-ipo-round/) · 💼 [323](https://1komma5grad.jobs.personio.de/)
 
 **[Beebop](https://beebop.ai)**: AI optimization for flexible electric loads, batteries, and distributed energy assets.<br>
   👥 ~24 · 💰 Seed, $5.5m
@@ -555,7 +555,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 51–200 · 💰 Series A, €20m (2024) · 💼 [1](https://carbmee.jobs.personio.com/?language=en)
 
 **[Climatiq](https://www.climatiq.io)**: Carbon-calculation API and emissions-data infrastructure for software products.<br>
-  👥 ~51 · 💰 Seed, $2m (2022)
+  👥 ~51 · 💰 [Series A, €10m (2025)](https://www.climatiq.io/blog/series-a-investment) · 💼 [2](https://jobs.ashbyhq.com/climatiq)
 
 **[Cloover](https://www.cloover.com)**: AI operating system for renewable-energy sales, financing, procurement, and installation.<br>
   👥 51–200 · 💰 [Series A, $22m (2026); $1.2bn debt facility (2026)](https://www.globenewswire.com/news-release/2026/01/21/3222642/0/en/cloover-secures-1-2-billion-financing-commitment-to-build-the-ai-operating-system-for-energy-independence.html) · 💼 [14](https://cloover.jobs.personio.com/)
@@ -573,7 +573,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 ~56 · 💰 Series A, $13m (2022) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Frequenz&location=Berlin%2C%20Germany)
 
 **[GALVANY](https://galvany.de)**: Integrated heat-pump platform with AI energy management for residential buildings.<br>
-  👥 ~90 · 💰 Seed, €10m (2026) · 💼 [20](https://jobs.ashbyhq.com/galvany)
+  👥 51–200 · 💰 [Seed, €10m (2026)](https://setventures.com/galvany-raises-10-million-seed-round/) · 💼 [24](https://jobs.ashbyhq.com/galvany)
 
 **[Green Fusion](https://www.green-fusion.de)**: AI control platform for efficient, low-carbon building heat systems.<br>
   👥 51–200 · 💰 Series A, €12m (2024) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Green%20Fusion&location=Berlin%2C%20Germany)
@@ -600,7 +600,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 51–200 · 💰 Series A, $27m (2023) · 💼 ~[openings](https://plana.earth/careers)
 
 **[Reonic](https://reonic.com)**: AI-native operating system for renewable-energy installers, covering sales, design, procurement, and operations.<br>
-  👥 100+ · 💰 [Series A, €13m (2024)](https://reonic.com/en-gb/about/us/) · 💼 [31](https://jobs.ashbyhq.com/reonic)
+  👥 100+ · 💰 [Series A, €13m (2024)](https://reonic.com/en-gb/about/us/) · 💼 [26](https://jobs.ashbyhq.com/reonic)
 
 **[Root Global](https://www.rootglobal.io)**: AI-enabled primary-data and decarbonization platform for food and agricultural supply chains.<br>
   👥 11–50 · 💰 Seed, €8m (2024); >€10m total · 💼 [3](https://jobs.ashbyhq.com/rootglobal)
@@ -722,7 +722,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 51–200 · 💰 Series C, $37m (2024) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Inkitt&location=Berlin%2C%20Germany)
 
 **[JustWatch](https://www.justwatch.com)**: Streaming discovery and recommendation engine built from global viewing data.<br>
-  👥 201–500 · 💰 Bootstrapped / profitable scaleup · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=JustWatch&location=Berlin%2C%20Germany)
+  👥 201–500 · 💰 Bootstrapped / profitable scaleup · 💼 [7](https://jobs.lever.co/justwatch)
 
 **[Kittl](https://www.kittl.com)**: Browser-based design platform with generative image, vector, and layout tools.<br>
   👥 ~156 · 💰 Series B, $36m (2024) · 💼 [3](https://www.linkedin.com/company/kittl/jobs/)
@@ -740,7 +740,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 ~15 · 💰 [Series A, $15m (2026)](https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/) · 💼 ~[openings](https://www.passionfroot.me/careers)
 
 **[Peec AI](https://peec.ai)**: Analytics for measuring and improving brand visibility in AI search answers.<br>
-  👥 ~98 · 💰 Series A, €18m (2025) · 💼 [30](https://jobs.ashbyhq.com/peec)
+  👥 ~98 · 💰 [Series A, $21m (2025)](https://peec.ai/blog/we-raised-21m-series-a-to-help-brands-win-in-ai-search) · 💼 [29](https://jobs.ashbyhq.com/peec)
 
 **[Pollinations.AI](https://pollinations.ai)**: Open generative-media APIs and models for images, text, audio, and video.<br>
   👥 2–10 · 💰 Bootstrapped / ecosystem-funded · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Pollinations.AI&location=Berlin%2C%20Germany)
@@ -777,7 +777,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 51–200 · 💰 Series A, $58m (2025) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Buena%20property&location=Berlin%2C%20Germany)
 
 **[Cosuno](https://www.cosuno.com)**: AI tendering, pricing, and procurement platform for general contractors and subcontractors.<br>
-  👥 51–200 · 💰 [Series B, $30m (2021)](https://www.cosuno.com/web/en/blog/series-b-cosuno) · 💼 [16](https://jobs.ashbyhq.com/cosuno)
+  👥 100+ · 💰 [Series B, $30m](https://www.cosuno.com/web/en/blog/series-b-cosuno); [€45m total investment](https://www.cosuno.com/web/en/company) · 💼 [17](https://jobs.ashbyhq.com/cosuno)
 
 **[Enter](https://enter.de)**: AI-supported energy assessment and renovation planning for residential buildings.<br>
   👥 51–200 · 💰 Series A, €19.4m (2023) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Enter%20energy%20Berlin&location=Berlin%2C%20Germany)
@@ -785,8 +785,8 @@ A working directory for people who need to know who is actually building AI in B
 **[Fuchs & Eule](https://www.fuchs-eule.de)**: Data-driven home energy consulting and renovation recommendations.<br>
   👥 51–200 · 💰 Series A, €9m (2022) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Fuchs%20Eule&location=Berlin%2C%20Germany)
 
-**[handly](https://handly.de)**: AI business-management software for home-service and trades companies.<br>
-  👥 11–50 · 💰 Seed, €3.8m (2025); €5.3m total · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=handly&location=Berlin%2C%20Germany)
+**[handly](https://www.handly.de/)**: AI business-management software for home-service and trades companies.<br>
+  👥 1–10 · 💰 [Seed, €3.75m from 20VC, Stride, and Base10](https://join.com/companies/handly/16658767-founding-product-manager-handly-20vc-backed) · 💼 [5](https://join.com/companies/handly)
 
 **[PlanD](https://pland.app)**: AI-first ERP for building-cleaning and field-service companies.<br>
   👥 1–10 · 💰 Angel financing, €350k; 700+ customers · 💼 [1](https://join.com/companies/pland)
@@ -799,7 +799,7 @@ A working directory for people who need to know who is actually building AI in B
 ## 🛡️ Defence, resilience and physical security
 
 **[Helsing](https://helsing.ai)**: AI software, sensors, and autonomous systems for European defence.<br>
-  👥 ~841 · 💰 [Series E, $1.8bn (2026)](https://helsing.ai/newsroom/helsing-raises-1-8bn-in-series-e) · 💼 [134](https://helsing.ai/jobs)
+  👥 ~841 · 💰 [Series E, $1.8bn (2026)](https://helsing.ai/newsroom/helsing-raises-1-8bn-in-series-e) · 💼 [149](https://helsing.ai/jobs)
 
 **[Orcrist Technologies](https://orcrist.org)**: AI sensor- and data-fusion intelligence platform for defence, law enforcement, and public safety.<br>
   👥 11–50 · 💰 Corporate-backed by SRH; amount undisclosed · 💼 [15](https://job-boards.eu.greenhouse.io/orcristtechnologies)
@@ -811,7 +811,7 @@ A working directory for people who need to know who is actually building AI in B
   👥 ~5 · 💰 Seed, €3m+
 
 **[STARK](https://stark-defence.com)**: AI-enabled, software-defined unmanned systems for defence missions.<br>
-  👥 ~149 · 💰 Series C, €500m (2026) · 💼 [152](https://stark.jobs.personio.com/)
+  👥 ~149 · 💰 Series C, €500m (2026) · 💼 [117](https://stark.jobs.personio.com/)
 
 <a id="hr-education-public-services-and-frontline-work"></a>
 
@@ -858,7 +858,9 @@ The following are examples of records deliberately removed during verification; 
 - **Absorbed acquisition or no independently operating product company:** Aaron.ai, Atlas Metrics, brighter AI, Cara Care, Gestalt Robotics, Hasty, Jina AI, Kaiko Systems, Kern AI, Kodex AI, Langfuse, Libra, Mobius Labs, Monite, Nomitri, Quantistry, Reliant AI, Signatrix, SPLX, StackFuel, Ultimate, VION, and xbird.
 - **No longer a Berlin company:** revel8 announced a move to Munich and was excluded pending evidence of a continuing Berlin operation.
 
-Langfuse remains excluded because ClickHouse acquired it in January 2026: its product, team, and Berlin operation continue, but it is no longer an independent startup. Aleph Alpha remains listed because the announced Cohere transaction had not completed at the verification date. German Bionic and IDnow remain listed because they still operate distinct products and Berlin offices after their strategic ownership changes. Nostos Genomics remains listed because its acquirer says both companies continue independently and its AION product has current 2026 releases. Yaak remains listed because the current product company and Berlin team continue under a Danish parent despite the prior German entity's insolvency.
+Langfuse remains excluded because ClickHouse acquired it in January 2026: its product, team, and Berlin operation continue, but it is no longer an independent startup. ClickHouse itself can still appear in the [jobs tracker](AI_PM_ROLES_IN_GERMANY.md) when it lists Germany-eligible PM roles; that file is not a Berlin-startup directory. Aleph Alpha remains listed because the announced Cohere transaction had not completed at the verification date. German Bionic and IDnow remain listed because they still operate distinct products and Berlin offices after their strategic ownership changes. Nostos Genomics remains listed because its acquirer says both companies continue independently and its AION product has current 2026 releases. Yaak remains listed because the current product company and Berlin team continue under a Danish parent despite the prior German entity's insolvency. Superhuman remains listed because the Superhuman product suite and careers board still operate as a distinct brand after the Grammarly transaction. Fin / Intercom remains listed because Fin is still marketed as a distinct customer-agent product with a Berlin careers filter.
+
+**Still listed after ownership change:** a distinct product, brand, and Berlin operation (or an uncompleted deal). **Jobs tracker vs directory:** investor, consultancy, and international-employer PM roles may appear in `AI_PM_ROLES_IN_GERMANY.md` without a matching directory row.
 
 <a id="sources-and-verification-policy"></a>
 
@@ -877,11 +879,15 @@ Activity was accepted when at least one strong 2025–26 signal existed: a curre
 
 Funding databases often disagree on round labels, totals, and currency conversion. This directory favors the company's or lead investor's announcement, labels undisclosed amounts honestly, and avoids adding pre-seed and Seed together unless a source explicitly reports a total.
 
+The lists in this repository are licensed under [CC BY 4.0](LICENSE).
+
 <a id="contributing"></a>
 
 ## 🤝 Contributing
 
-Corrections and additions are welcome. A useful pull request should include:
+Corrections and additions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full bar.
+
+A useful pull request should include:
 
 1. the company website and evidence of a Berlin headquarters or operating team;
 2. evidence that AI/ML is core to the product;
@@ -889,4 +895,4 @@ Corrections and additions are welcome. A useful pull request should include:
 4. a recent activity signal; and
 5. sources for team size, latest financing, and open roles.
 
-Please do not add agencies, consultancies, research projects, absorbed product brands, companies no longer independently operating, stealth companies, or pre-seed-only startups.
+Please do not add agencies, consultancies, research projects, absorbed product brands, companies no longer independently operating, stealth companies, or pre-seed-only startups. Job-tracker PRs should update role counts in both this README table and `AI_PM_ROLES_IN_GERMANY.md`, and should copy company facts onto any overlapping directory entry.

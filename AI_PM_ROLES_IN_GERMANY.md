@@ -1,10 +1,12 @@
 # 🇩🇪 AI PM roles in Germany
 
-The full directory was checked on **12 September 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere.
+The list was checked on **12 September 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere, so many companies here are **not** in the Berlin directory — that file is a Seed-or-later *Berlin* company list; this file is a *Germany-eligible PM role* list.
+
+**Jobs-tracker inclusion (directory rules do not apply automatically):** a live employer-hosted PM/product role with a Berlin, Germany, Europe/EMEA, or global-remote signal. That includes public companies, international employers with a Berlin or Germany-remote seat (for example ClickHouse), and a small number of investor or services firms when the posting is a product role (FLEX Capital, Bonsai Labs). Consultancy-only *companies* stay out of the Berlin directory even if a PM role appears here.
 
 **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
-The list currently contains **127 roles across 87 companies**. Inclusion requires a live role on the employer's own careers site, an explicit Berlin/Germany/Europe/EMEA/global location signal, and an employer that is beyond pre-seed or is an established bootstrapped, corporate-backed, or public company. Roles that require moving away from Berlin are excluded.
+The list currently contains **126 roles across 87 companies**. Inclusion requires a live role on the employer's own careers site, an explicit Berlin/Germany/Europe/EMEA/global location signal, and an employer that is beyond pre-seed or is an established bootstrapped, corporate-backed, or public company. Roles that require moving away from Berlin are excluded.
 
 This is a high-confidence live snapshot rather than a mathematically exhaustive list: international job boards change continuously, and some employers do not publish every eligible hiring country. Follow the application link to confirm that a role remains open and to check payroll-entity, work-authorization, language, time-zone, and remote-work requirements.
 
@@ -131,7 +133,7 @@ AI-native fund operations and reporting infrastructure for private-market invest
 ## [CANDIS](https://www.candis.io)
 
 AI-assisted invoice capture, approval, and accounting workflows for finance teams.<br>
-  👥 51–200 · 💰 [Series C, $16m (2022)](https://www.cbinsights.com/company/candis/financials) · 💼 [3](https://jobs.candis.io/jobs)<br>
+  👥 51–200 · 💰 Series C, €16m (2022) · 💼 [3](https://jobs.candis.io/jobs)<br>
 
 **PM roles:**
 
@@ -820,10 +822,9 @@ European fashion platform using AI for personalization, partner operations, logi
 
 **PM roles:**
 
-- [Principal Product Manager – Lounge Data Platform](https://jobs.zalando.com/en/jobs/2724985-Principal-Product-Manager---Lounge-Data-Platform-%28) — Berlin; builds an AI-ready data foundation for agents, machine learning, and predictive models
-- [Principal Product Manager – Pricing Product](https://jobs.zalando.com/en/jobs/2724685-Principal-Product-Manager---Pricing-Product-%28all-g) — Berlin; owns ML forecasting and price-optimization products
-- [Senior Principal Product Manager – Post-Purchase Engagement](https://jobs.zalando.com/en/jobs/2724716-Senior-Principal-Product-Manager-Post-Purchase-Eng) — Berlin; develops AI-enabled and agentic post-purchase experiences
-- [Senior Principal Product Manager – Search](https://jobs.zalando.com/en/jobs/2724971-Senior-Principal-Product-Manager---Search) — Berlin; leads semantic search, LLM, vector-search, ranking, and generative-AI experiences
+- [Principal Product Manager – Lounge Data Platform](https://jobs.zalando.com/en/jobs/2724985) — Berlin; builds an AI-ready data foundation for agents, machine learning, and predictive models
+- [Senior Principal Product Manager – Post-Purchase Engagement](https://jobs.zalando.com/en/jobs/2724716) — Berlin; develops AI-enabled and agentic post-purchase experiences
+- [Senior Principal Product Manager – Search](https://jobs.zalando.com/en/jobs/2724971) — Berlin; leads semantic search, LLM, vector-search, ranking, and generative-AI experiences
 
 ## [Zendesk](https://www.zendesk.com)
 

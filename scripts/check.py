@@ -157,8 +157,10 @@ def main() -> int:
         if readme_line != jobs_line:
             errors.append(f"metadata mismatch for {key}")
 
-    if len(overlap) < 30:
-        errors.append(f"expected ~32 overlapping companies, found {len(overlap)}")
+    # Active hiring changes over time; directory overlap has no fixed minimum.
+    for section in re.split(r"(?=^## \[)", jobs, flags=re.M)[1:]:
+        if not ROLE_RE.search(section):
+            errors.append(f"jobs-tracker company has no roles: {section.splitlines()[0]}")
 
     return fail(errors)
 

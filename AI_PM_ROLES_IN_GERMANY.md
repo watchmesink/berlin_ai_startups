@@ -1,18 +1,20 @@
 # 🇩🇪 AI PM roles in Germany
 
-The list was checked on **20 October 2026**. This is the repository's single tracker for current AI/ML Product Manager work that can be done while living in Berlin or elsewhere in Germany: local and hybrid roles, Germany-remote roles, Europe/EMEA-remote roles, and genuinely global-remote roles. The employer may be headquartered anywhere, so many companies here are **not** in the Berlin directory — that file is a Seed-or-later *Berlin* company list; this file is a *Germany-eligible PM role* list.
+Looking for an AI product role without leaving Berlin? This list brings together local openings and remote jobs available to people living in Germany.
 
-**Jobs-tracker inclusion (directory rules do not apply automatically):** a live employer-hosted PM/product role with a Berlin, Germany, Europe/EMEA, or global-remote signal. That includes public companies, international employers with a Berlin or Germany-remote seat (for example ClickHouse), and a small number of investor or services firms when the posting is a product role (FLEX Capital, Bonsai Labs). Consultancy-only *companies* stay out of the Berlin directory even if a PM role appears here.
+Last checked: **20 October 2026**. There are **83 roles across 57 companies**.
 
-**Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
+Curated by Gleb Melnikov: [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
 
-The list currently contains **83 roles across 57 companies**. Inclusion requires a live role on the employer's own careers site, an explicit Berlin/Germany/Europe/EMEA/global location signal, and an employer that is beyond pre-seed or is an established bootstrapped, corporate-backed, or public company. Roles that require moving away from Berlin are excluded.
+Each role must be open on the employer's careers site and list Berlin or a remote arrangement that covers Germany, Europe/EMEA, or the world. Employers must be beyond pre-seed, or established bootstrapped, corporate-backed, or public companies. Roles that require relocation are excluded.
 
-This is a high-confidence live snapshot rather than a mathematically exhaustive list: international job boards change continuously, and some employers do not publish every eligible hiring country. Follow the application link to confirm that a role remains open and to check payroll-entity, work-authorization, language, time-zone, and remote-work requirements.
+Employers can be based anywhere. Public companies, investors, and services firms are included when they hire for product roles. The [Berlin directory](README.md) has a narrower scope, so some employers appear only here.
 
-💰 A role-level compensation range is shown only when an explicit range appears in the employer-hosted job description. If the description does not state a range, no compensation estimate is shown.
+Jobs close between updates, and this list will miss some openings. Before applying, check language, time-zone, and attendance requirements. For remote roles, confirm that the employer can hire you in Germany and that you have the required work authorization.
 
-**Entry metadata:** 👥 team size · 💰 latest disclosed financing or ownership status · 💼 current company openings. Opening counts were refreshed on 20 October 2026; team sizes and financing refer to the latest disclosures linked here and are not a fresh company census. A `~` means the linked board does not expose a reliable count.
+💰 Salary ranges come from the employer's job description. If no range is published, none is shown here.
+
+Each entry shows 👥 team size · 💰 disclosed funding or ownership · 💼 company-wide openings. Opening counts were refreshed on 20 October 2026. Team sizes and funding come from earlier disclosures and were not rechecked in full. `~openings` means a reliable count wasn't available.
 
 ## [1KOMMA5°](https://1komma5.com)
 
@@ -46,7 +48,7 @@ Foundation-model pathology and biomarker discovery for precision medicine.<br>
 
 ## [AIOS](https://www.aiosmedical.com/)
 
-AI-native healthcare infrastructure for delivering and scaling automated consumer care.<br>
+Builds AI systems that automate consumer healthcare services.<br>
   👥 100 · 💰 [Y Combinator W20](https://www.ycombinator.com/companies/aios); [profitable (company-stated)](https://jobs.ashbyhq.com/Aios/e0971cdd-b061-4530-ae6e-d45d58714529) · 💼 [18](https://jobs.ashbyhq.com/Aios)<br>
 
 **PM roles:**
@@ -111,7 +113,7 @@ Publisher of Ubuntu and open-source cloud infrastructure used to build, train, d
 
 ## [CHAPTR](https://www.chaptr.ai)
 
-Holtzbrinck-backed AI venture building tools for knowledge work and the future of media-enabled work.<br>
+Builds AI tools for knowledge work and media, backed by Holtzbrinck.<br>
   👥 11–50 · 💰 [Corporate-backed by Holtzbrinck Publishing Group](https://holtzbrinck-careers.softgarden.io/job/65462061?l=en) · 💼 ~[openings](https://holtzbrinck-careers.softgarden.io/)<br>
 
 **PM roles:**
@@ -141,7 +143,7 @@ AI-first ecommerce search, recommendations, and product-discovery platform train
 
 ## [Cortea](https://www.cortea.ai)
 
-AI quality and evidence layer for audit and assurance firms.<br>
+Helps audit and assurance firms use AI to check quality and manage evidence.<br>
   👥 ~19 · 💰 [Seed, €12m (2026)](https://www.cortea.ai/blog/cortea-raises-12-mil-to-improve-audit-quality-with-ai) · 💼 [12](https://jobs.ashbyhq.com/cortea)<br>
 
 **PM roles:**
@@ -177,7 +179,7 @@ AI-native business identity and compliance platform for onboarding and verifying
 
 ## [Duvo](https://www.duvo.ai)
 
-AI workforce platform whose agents execute operational work across enterprise retail and consumer-goods systems.<br>
+Builds AI agents that carry out operational tasks in retail and consumer-goods software.<br>
   👥 ~15 · 💰 [Seed, $15m (2026)](https://www.duvo.ai/blog/duvo.ai-raises-15-million-to-give-retail-teams-an-ai-workforce-that-goes-live-in-weeks-cutting-manual-work-by-40) · 💼 [15](https://jobs.ashbyhq.com/duvo)<br>
 
 **PM roles:**
@@ -186,7 +188,7 @@ AI workforce platform whose agents execute operational work across enterprise re
 
 ## [EverAI](https://www.everai.ai/)
 
-AI-companionship platform with proprietary moderation technology for safe, personalized consumer experiences.<br>
+Builds AI companions and moderation tools for a consumer platform that includes adult content.<br>
   👥 ~100 · 💰 Privately held; funding undisclosed · 💼 [33](https://jobs.ashbyhq.com/everai)<br>
 
 **PM roles:**
@@ -270,7 +272,7 @@ Product-development system for teams and AI agents to plan, build, and track sof
 
 ## [Matrix42](https://www.matrix42.com)
 
-Intelligent service-management platform that embeds AI agents, autonomous triage, automation, and predictive insights into enterprise workflows.<br>
+Uses AI agents to triage service requests, automate tasks, and predict issues in enterprise IT.<br>
   👥 600+ · 💰 [Combined with Efecte through acquisition (2024)](https://www.matrix42.com/en/pressroom/matrix42-completes-acquisition?hs_amp=true) · 💼 [35](https://matrix42.jobs.personio.com/)<br>
 
 **PM roles:**
@@ -288,7 +290,7 @@ Finance AI platform automating cards, invoices, expenses, and spend control for 
 
 ## [n8n](https://n8n.io)
 
-Open workflow-automation and AI-orchestration platform for connecting applications, tools, models, and agents.<br>
+Connects apps, AI models, and agents so teams can automate workflows.<br>
   👥 260+ · 💰 [Series C, $180m; $240m total funding (2025)](https://blog.n8n.io/series-c/) · 💼 [40](https://jobs.ashbyhq.com/n8n)<br>
 
 **PM roles:**
@@ -369,7 +371,7 @@ Camping marketplace using AI for search, personalization, and booking automation
 
 ## [Qorelo](https://www.qorelo.com)
 
-Agentic AI delivery system for planning and executing SAP transformations.<br>
+Uses AI agents to plan and carry out SAP transformations.<br>
   👥 11–50 · 💰 Seed, $3.5m (2026) · 💼 [3](https://jobs.ashbyhq.com/qorelo)<br>
 
 **PM roles:**
@@ -424,7 +426,7 @@ Enterprise applications and Business AI for finance, supply chain, human resourc
 
 ## [Sereact](https://sereact.ai)
 
-Physical-AI robotics platform that gives warehouse robots vision-language-action capabilities for autonomous manipulation.<br>
+Builds vision-language-action models that let warehouse robots recognize and handle objects.<br>
   👥 51–200 · 💰 [Series B expanded to $116m (2026)](https://sereact.ai/posts/zalando-strategic-investment) · 💼 [43](https://jobs.ashbyhq.com/sereact)<br>
 
 **PM roles:**
@@ -462,7 +464,7 @@ Unified business-messaging platform with AI agents for customer service and sale
 
 ## [Synthesia](https://www.synthesia.io)
 
-Generative-AI video platform for creating, editing, localizing, and governing enterprise video content.<br>
+Helps businesses create, edit, translate, and manage AI-generated videos.<br>
   👥 500+ · 💰 [Series E, $200m at a $4bn valuation (2026)](https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work) · 💼 [37](https://jobs.ashbyhq.com/synthesia)<br>
 
 **PM roles:**
@@ -481,7 +483,7 @@ Agentic decision platform for underwriting, fraud, compliance, and risk operatio
 
 ## [Theo](https://www.hallotheo.de)
 
-AI-first property-management service automating tenant and building operations.<br>
+Uses AI to automate tenant services and building management.<br>
   👥 ~102 · 💰 [Series A, €25m (2026); €36m total](https://hallotheo.de/series-a) · 💼 ~[openings](https://www.linkedin.com/company/hallo-theo/jobs/)<br>
 
 **PM roles:**

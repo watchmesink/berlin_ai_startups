@@ -4,13 +4,17 @@
 
 <br>
 
-**A verified directory of 245 active AI/ML companies with a headquarters, office, or substantial operating team in Berlin. Organized by industry, with team size, latest disclosed funding, and links to open roles.**
+🔎 A directory of 245 active AI/ML companies with a headquarters, office, or substantial operating team in Berlin. Browse by industry to find what each company does, its team size, disclosed funding, and job links.
 
-Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no longer operating independently, relocations, and consultancy-only businesses are excluded — and the removals are published with reasons, not silently dropped.
+I started this list while looking for AI startups that were harder to find on LinkedIn than larger scaleups. As a Product Manager, I also wanted one place to check current PM openings.
+
+The directory excludes pre-seed-only companies, closed businesses, absorbed brands, companies that have left Berlin, and consultancy-only firms. The exclusions section explains the main removals and ownership exceptions.
 
 <br>
 
-**Directory composition verified:** 21 August 2026 · **Latest addition checked:** 25 August 2026 · **Overlapping company facts** (team, funding, openings) aligned with the jobs tracker of 12 September 2026 · **Curated by Gleb Melnikov:** [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) · [X/Twitter](https://x.com/hleb_gleb_)
+Directory reviewed: 21 August 2026 · Latest addition checked: 25 August 2026 · Shared company details synchronized with the jobs tracker: 20 October 2026.
+
+Curated by Gleb Melnikov. Reach me on [LinkedIn](https://www.linkedin.com/in/melnikovgleb/) or [X/Twitter](https://x.com/hleb_gleb_) with questions or corrections.
 
 </div>
 
@@ -54,15 +58,13 @@ Pre-seed-only companies, ceased operations, absorbed acquisitions, brands no lon
 
 ## What this is
 
-A working directory for people who need to know who is actually building AI in Berlin: for job hunting, partnership and competitive research, investor mapping, or event and community work. Every entry had to clear an activity bar, and the bar is written down.
+A starting point for finding AI companies in Berlin, whether you're looking for a job, researching competitors, or planning an event. The verification policy below explains how companies qualify.
 
 ## What this is not
 
-- Not a funding database. Round labels and totals follow the company's or lead investor's own announcement, and disagree with aggregators in places.
-- Not a list of everything with a Berlin address. Agencies, consultancies, research projects, and stealth companies are out of scope.
-- Not a startup ranking. Nothing here is ordered by quality, size, or promise.
-- Not exhaustive on hiring. Job boards change continuously; the openings figures are a snapshot, and the link is the source of truth.
-- Not automated. Entries are verified by hand, which is why the verification date matters.
+This directory doesn't rank companies. Funding details follow company or lead-investor announcements and sometimes differ from aggregators. A Berlin address alone isn't enough: agencies, consultancies, research projects, and stealth companies are excluded.
+
+Job counts can go out of date quickly. Check the linked careers page before applying, and use the review dates above to judge how recent the company information is.
 
 <a id="foundation-models-ai-infrastructure-and-developer-tools"></a>
 
@@ -192,7 +194,7 @@ A working directory for people who need to know who is actually building AI in B
 **[Cogram](https://www.cogram.com)**: AI meeting assistant that produces notes, actions, and structured project documentation.<br>
   👥 11–50 · 💰 Seed, $3m · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Cogram&location=Berlin%2C%20Germany)
 
-**[Cortea](https://www.cortea.ai)**: AI quality and evidence layer for audit and assurance firms.<br>
+**[Cortea](https://www.cortea.ai)**: Helps audit and assurance firms use AI to check quality and manage evidence.<br>
   👥 ~19 · 💰 [Seed, €12m (2026)](https://www.cortea.ai/blog/cortea-raises-12-mil-to-improve-audit-quality-with-ai) · 💼 [12](https://jobs.ashbyhq.com/cortea)
 
 **[Datarade](https://datarade.ai)**: Marketplace and discovery platform for commercial data used in analytics and AI.<br>
@@ -219,7 +221,7 @@ A working directory for people who need to know who is actually building AI in B
 **[Plato](https://www.plato.so)**: AI operating system for wholesale sales teams and distributors.<br>
   👥 11–50 · 💰 Seed, $14.5m (2026) · 💼 ~[openings](https://www.linkedin.com/jobs/search/?keywords=Plato%20AI%20Berlin&location=Berlin%2C%20Germany)
 
-**[Qorelo](https://www.qorelo.com)**: Agentic AI delivery system for planning and executing SAP transformations.<br>
+**[Qorelo](https://www.qorelo.com)**: Uses AI agents to plan and carry out SAP transformations.<br>
   👥 11–50 · 💰 Seed, $3.5m (2026) · 💼 [3](https://jobs.ashbyhq.com/qorelo)
 
 **[Rhesis AI](https://www.rhesis.ai)**: Automated testing, evaluation, and risk management for generative-AI applications.<br>
@@ -791,7 +793,7 @@ A working directory for people who need to know who is actually building AI in B
 **[PlanD](https://pland.app)**: AI-first ERP for building-cleaning and field-service companies.<br>
   👥 1–10 · 💰 Angel financing, €350k; 700+ customers · 💼 [1](https://join.com/companies/pland)
 
-**[Theo](https://www.hallotheo.de)**: AI-first property-management service automating tenant and building operations.<br>
+**[Theo](https://www.hallotheo.de)**: Uses AI to automate tenant services and building management.<br>
   👥 ~102 · 💰 [Series A, €25m (2026); €36m total](https://hallotheo.de/series-a) · 💼 ~[openings](https://www.linkedin.com/company/hallo-theo/jobs/)
 
 <a id="defence-resilience-and-physical-security"></a>
@@ -851,7 +853,7 @@ A working directory for people who need to know who is actually building AI in B
 
 ## 🚫 Explicit exclusions
 
-The following are examples of records deliberately removed during verification; this is not a second company list.
+These companies were removed during verification for the reasons below.
 
 - **Pre-seed only:** Afori, AICURA, aiomics, Acemate, autarc, Blocks, Cerpro, Emblematic, Faircado, Forgent AI, GeneralMind, INXM, Integral, Just 4 Noise, Key Ward, Kyrok, Lyceum, reverse.fashion, Scenarium AI, SkoneLabs, Spoke.ai, The Climate Choice, WhyBrilliant, yoona.ai, and Zentio.
 - **Ceased or insolvency evidence:** Bearcover, clare&me, German Autolabs, i2x, LabTwin, Purpose Green, Solsten, and ZyseMe / Be-trim.
@@ -885,7 +887,7 @@ The lists in this repository are licensed under [CC BY 4.0](LICENSE).
 
 ## 🤝 Contributing
 
-Corrections and additions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full bar.
+Corrections and additions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the requirements.
 
 A useful pull request should include:
 

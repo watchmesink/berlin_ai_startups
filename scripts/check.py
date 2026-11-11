@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import re
 import sys
+from urllib.parse import parse_qs, urlsplit
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -161,6 +162,30 @@ def main() -> int:
     for section in re.split(r"(?=^## \[)", jobs, flags=re.M)[1:]:
         if not ROLE_RE.search(section):
             errors.append(f"jobs-tracker company has no roles: {section.splitlines()[0]}")
+
+    # Watchlist entries must not inflate active-company or vacancy counts.
+    watch_rows = re.findall(r"^\| \[([^\n]+?)\]\((https?://[^)]+)\) \| \[Careers / source\]\((https?://[^)]+)\) \| (\d{4}-\d{2}-\d{2}) \| ([^|]+) \|", jobs, re.M)
+    watch_names = [row[0].casefold() for row in watch_rows]
+    if len(watch_names) != len(set(watch_names)):
+        errors.append("duplicate watchlist companies")
+    if set(watch_names) & {name.casefold() for name in job_names}:
+        errors.append("company appears in both watchlist and active roles")
+    allowed_statuses = {"No matching PM roles", "PM roles elsewhere", "Unable to verify", "Tracked under ClickHouse"}
+    for row in watch_rows:
+        if row[4].strip() not in allowed_statuses:
+            errors.append(f"invalid watchlist status for {row[0]}")
+    coverage = re.search(r"sources for \*\*(\d+) employers\*\*", jobs)
+    if coverage and int(coverage.group(1)) != len(watch_rows) + len(job_cos):
+        errors.append("reviewed employer count differs from active plus watchlist companies")
+    role_urls = re.findall(r"^- \[[^\n]+?\]\((https?://[^)]+)\)", jobs, re.M)
+    canonical_urls = []
+    for url in role_urls:
+        parsed = urlsplit(url)
+        query = parse_qs(parsed.query)
+        identity = query.get("gh_jid", [])
+        canonical_urls.append((parsed.netloc.casefold(), parsed.path.rstrip("/").casefold(), tuple(identity)))
+    if len(canonical_urls) != len(set(canonical_urls)):
+        errors.append("duplicate active application URL")
 
     return fail(errors)
 

@@ -29,6 +29,20 @@ Include a role when:
 
 The employer does **not** need to be in the Berlin directory. Public companies, international firms with a Germany-eligible seat, and occasional investor or services employers with a product role are in scope here.
 
+## Monitoring and evidence
+
+Keep companies without a verified matching role in the jobs file's **Company watchlist** table, with an official careers/source link, check date, result, and Germany eligibility signal. Keep active employers in the role sections instead. An acquired brand may cross-reference its hiring parent, but do not count the same vacancy twice.
+
+Use **No matching PM roles** only after inspecting a complete official job list. Use **PM roles elsewhere** when the reviewed product roles require another location. Use **Unable to verify** for blocked/dynamic/incomplete boards, ambiguous location rules, and unresolved application links. A successful homepage request is not a completed vacancy check; a 404 alone is not proof of closure.
+
+Include PM, Technical PM, Product Owner, Product Lead, Group PM, and Head/Director/VP of Product. AI companies, AI infrastructure, and developer platforms qualify; at diversified employers the role must have explicit AI/ML responsibility. Exclude marketing, sales, project/program management, and engineering roles that merely contain “product”. Keep the Seed-or-later/equivalent-maturity threshold.
+
+Work must be possible from Berlin: Berlin onsite/hybrid or remote from Germany. Europe/EMEA/global remote without explicit German eligibility may be included only with **Germany hiring not explicitly confirmed**. Explicit country restrictions override broad remote labels. Record language, attendance, travel, contract, work-authorization and security-clearance requirements where stated. Publish compensation only from the employer.
+
+Verify each active role on an official job page or current ATS feed, including its description and location. Deduplicate by employer and requisition ID/canonical application URL; multiple locations for the same requisition are one role. Check for ATS migrations before removing old URLs. Remove unverifiable postings from active counts and retain their uncertainty in the watchlist or validation note.
+
+The watchlist is a manual snapshot, not a scheduled monitoring service. Do not update the directory-wide review date when only hiring information was checked. Preserve historical funding/headcount labels unless separately verified.
+
 ## When a company is in both files
 
 Copy the same website URL and the same `👥 · 💰 · 💼` line into both files. `python scripts/check.py` fails the PR if they drift.
